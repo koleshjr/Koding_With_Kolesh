@@ -1,0 +1,1935 @@
+Person_id,Survey_date,Round,Status,Tenure,Geography,Province,Matric,Degree,Diploma,Schoolquintile,Math,Mathlit,Additional_lang,Home_lang,Science,Female,Sa_citizen,Birthyear,Birthmonth
+Id_r90136smvl,2022-08-03,3,other,,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,40 - 49 %,0,1,2002,12
+Id_wawdqhmu6s,2023-03-16,4,unemployed,979.0,Urban,Western Cape,1.0,0.0,0.0,,,,40 - 49 %,,,1,1,1989,12
+Id_ap2czff2bu,2023-03-14,4,unemployed,339.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,1.0,,,,,,1,1,1989,12
+Id_uhgink7iha,2023-02-16,4,studying,,Urban,Gauteng,1.0,0.0,0.0,1.0,,80 - 100 %,60 - 69 %,,,0,1,2002,11
+Id_5j6bzk3k81,2023-03-23,4,unemployed,613.0,Urban,Gauteng,0.0,0.0,0.0,5.0,,,,,,1,1,1993,10
+Id_r1njgsuhs9,2023-02-27,4,unemployed,5.0,Rural,Limpopo,0.0,0.0,0.0,,,,,,,0,1,1992,6
+Id_d9n59ghzjb,2022-02-24,2,studying,,Urban,Gauteng,1.0,0.0,0.0,,,50 - 59 %,60 - 69 %,,,1,1,1993,9
+Id_vzab7oazqr,2022-03-04,2,studying,,Urban,North West,1.0,0.0,0.0,4.0,40 - 49 %,,,50 - 59 %,30 - 39 %,1,1,2000,1
+Id_nefqci92p8,2023-02-27,4,unemployed,401.0,Rural,KwaZulu-Natal,0.0,0.0,0.0,1.0,,,,,,0,1,2003,7
+Id_qqrnnetvxv,2023-02-13,4,studying,,Rural,Eastern Cape,1.0,0.0,0.0,1.0,,50 - 59 %,60 - 69 %,,,1,1,2000,1
+Id_7w2fd5w86s,2022-08-01,3,unemployed,979.0,Rural,Limpopo,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,40 - 49 %,1,1,2000,6
+Id_pzpuicll9c,2022-07-28,3,unemployed,912.0,Suburb,Gauteng,,,,,,,,,,1,1,2001,8
+Id_st3is8bql2,2023-03-07,4,wage employed,945.0,Urban,Gauteng,0.0,0.0,0.0,,,,,,,1,1,1996,4
+Id_qs1zt43xvu,2023-02-14,4,unemployed,128.0,Urban,Free State,,,,,,,,,,0,1,1992,12
+Id_9cu0vdzh1m,2022-03-04,2,wage employed,153.0,Rural,KwaZulu-Natal,,,,,,,,,,1,1,2000,1
+Id_poxmo2d4pe,2021-08-16,1,employment programme,0.0,Urban,Eastern Cape,1.0,1.0,,5.0,,80 - 100 %,,60 - 69 %,,1,1,1996,10
+Id_lkbh7wwizt,2023-02-09,4,wage employed,92.0,Urban,Western Cape,1.0,,,2.0,,40 - 49 %,60 - 69 %,,,1,1,2000,1
+Id_o33z7do9gv,2023-02-17,4,self employed,,Urban,Gauteng,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,1,1,1996,7
+Id_2g0jvhjt7m,2022-03-01,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,60 - 69 %,60 - 69 %,,,0,1,2001,1
+Id_a8coh9dw38,2021-08-12,1,unemployed,731.0,Rural,North West,1.0,,,2.0,40 - 49 %,,60 - 69 %,,50 - 59 %,1,1,1993,8
+Id_2qj0ah1psu,2022-08-15,3,studying,,Suburb,Western Cape,,,,,,,,,,0,1,1999,7
+Id_kpvmehnz28,2023-03-23,4,unemployed,64.0,Rural,North West,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,2004,9
+Id_mgltuwq5z6,2022-09-03,3,other,,Urban,Free State,1.0,,,1.0,30 - 39 %,,60 - 69 %,,30 - 39 %,1,1,1989,4
+Id_d4og0tu3n8,2022-07-28,3,other,,Urban,Gauteng,,,,,,,,,,0,1,1996,10
+Id_yufvflupuk,2022-02-28,2,studying,,Urban,Free State,0.0,,,,,,,,,0,1,2000,2
+Id_u0whg32wag,2022-03-03,2,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,,50 - 59 %,,50 - 59 %,,1,1,2000,1
+Id_xt0ryw5lj3,2022-03-09,2,wage employed,214.0,Urban,Western Cape,1.0,0.0,0.0,4.0,,50 - 59 %,,50 - 59 %,,1,1,2002,11
+Id_b16iwbgm7h,2021-08-16,1,studying,,Urban,KwaZulu-Natal,1.0,1.0,0.0,2.0,,50 - 59 %,60 - 69 %,,,0,1,1999,2
+Id_rw1mzpkmbh,2023-03-23,4,unemployed,1466.0,Urban,Western Cape,,,,,,,,,,1,1,1990,9
+Id_dh12ciw7aj,2023-03-13,4,unemployed,64.0,Urban,Western Cape,,,,,,,,,,1,1,1998,12
+Id_ucc8nen4br,2023-02-06,4,unemployed,547.0,Urban,Gauteng,,,,,,,,,,0,1,1997,9
+Id_zabfn6r9hy,2022-03-01,2,wage employed,639.0,Urban,Gauteng,,,,,,,,,,0,1,1982,7
+Id_9316s6vbdf,2023-03-24,4,studying,,Urban,Mpumalanga,0.0,0.0,0.0,2.0,,,,,,1,1,1996,10
+Id_qj48ua0e71,2023-03-23,4,wage employed,887.0,Urban,Gauteng,1.0,0.0,0.0,,40 - 49 %,,50 - 59 %,,,1,1,2002,8
+Id_iev9vrtvwh,2023-03-01,4,unemployed,273.0,Urban,Mpumalanga,,,,,,,,,,0,1,2000,11
+Id_gta8cmufua,2022-03-09,2,wage employed,326.0,Suburb,KwaZulu-Natal,1.0,0.0,1.0,3.0,0 - 29 %,,50 - 59 %,,,1,1,1997,10
+Id_zd7zmjgmlh,2022-08-12,3,wage employed,,Urban,Gauteng,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,,1,1,1999,6
+Id_9xsxi3zkds,2022-08-04,3,unemployed,583.0,Rural,North West,1.0,0.0,0.0,,,50 - 59 %,60 - 69 %,,,1,1,2001,10
+Id_vor2e80rle,2023-03-02,4,unemployed,429.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,30 - 39 %,,40 - 49 %,,0,1,2002,7
+Id_81faoo7jtd,2022-07-29,3,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,60 - 69 %,,,1,1,2002,11
+Id_t8cshwbsx1,2023-03-08,4,unemployed,948.0,Rural,Limpopo,0.0,0.0,0.0,,,,,,,1,1,1992,4
+Id_ce7987x9yb,2023-03-06,4,unemployed,429.0,Urban,Gauteng,1.0,0.0,0.0,5.0,30 - 39 %,,,60 - 69 %,40 - 49 %,1,1,2003,10
+Id_vwbab4cxdn,2022-03-03,2,unemployed,422.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,5.0,,40 - 49 %,,50 - 59 %,,1,1,2000,1
+Id_wlhdmq0y8v,2023-03-23,4,studying,,Urban,KwaZulu-Natal,0.0,0.0,0.0,3.0,,,,,,1,1,2000,8
+Id_ijbnb5l2r7,2023-02-20,4,unemployed,851.0,Suburb,Mpumalanga,1.0,0.0,0.0,4.0,0 - 29 %,,,50 - 59 %,,0,1,2001,11
+Id_291krf6edr,2023-03-09,4,wage employed,181.0,Suburb,Limpopo,1.0,0.0,1.0,1.0,70 - 79 %,,60 - 69 %,,80 - 100 %,1,1,1998,7
+Id_li6hmy2e8y,2022-03-01,2,studying,,Rural,Mpumalanga,,,,,,,,,,0,1,1998,11
+Id_ugqu9wfir4,2022-08-10,3,unemployed,36.0,Urban,Free State,0.0,0.0,0.0,1.0,,,,,,0,1,1990,10
+Id_5mvhlc4oto,2022-02-24,2,unemployed,1528.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,30 - 39 %,,40 - 49 %,,1,1,1997,6
+Id_omktaezr3k,2023-02-13,4,studying,,Rural,Eastern Cape,,,,,,,,,,0,1,2002,12
+Id_mp2omgupeg,2022-02-22,2,self employed,296.0,Rural,KwaZulu-Natal,1.0,,,2.0,,,,,,1,1,1997,4
+Id_guxs9a9rp8,2023-02-06,4,unemployed,36.0,Urban,Limpopo,1.0,0.0,0.0,,30 - 39 %,,60 - 69 %,,50 - 59 %,0,1,2001,10
+Id_owwgvlhtm2,2023-02-02,4,studying,,Urban,Gauteng,1.0,,,1.0,0 - 29 %,,70 - 79 %,,,0,1,2000,1
+Id_2phe5bonhr,2022-03-04,2,unemployed,430.0,Urban,Eastern Cape,1.0,,,1.0,,30 - 39 %,30 - 39 %,,,1,1,2000,1
+Id_wxujl0skjo,2023-03-20,4,studying,,Rural,Mpumalanga,1.0,0.0,0.0,2.0,,50 - 59 %,60 - 69 %,,,1,1,2000,7
+Id_ezcagqsdoh,2023-03-14,4,wage employed,31.0,Urban,North West,,,,,,,,,,1,1,1998,1
+Id_3ojndwyspm,2021-08-12,1,studying,,Rural,Limpopo,1.0,,,0.0,,,,,,0,1,1996,6
+Id_di8dup17uk,2023-02-15,4,unemployed,485.0,Urban,North West,,,,,,,,,,0,1,2002,7
+Id_2s9fwx18nt,2021-08-19,1,wage employed,0.0,Urban,Gauteng,1.0,,,2.0,,30 - 39 %,50 - 59 %,,,1,1,1990,2
+Id_gw0p5veuf2,2023-03-02,4,wage employed,31.0,Rural,Mpumalanga,1.0,0.0,0.0,1.0,,30 - 39 %,40 - 49 %,,,0,1,1991,11
+Id_ul54vz814d,2022-08-11,3,studying,,Rural,Mpumalanga,1.0,,,3.0,,,,,,0,1,1997,1
+Id_fk01mum0zb,2021-08-19,1,self employed,58.0,Urban,Gauteng,1.0,,,0.0,,30 - 39 %,60 - 69 %,,,0,1,1994,9
+Id_i5ho67pyep,2023-02-07,4,studying,,Urban,Gauteng,1.0,,,,30 - 39 %,,,60 - 69 %,,1,1,2000,1
+Id_04whybbwpy,2023-02-20,4,unemployed,1681.0,Urban,Eastern Cape,,,,,,,,,,0,1,1996,7
+Id_0qijiqqjfw,2021-08-19,1,self employed,1702.0,Rural,Eastern Cape,1.0,,,1.0,0 - 29 %,,40 - 49 %,,,0,1,1992,7
+Id_ib78u6d1u5,2022-02-24,2,wage employed,150.0,Urban,Mpumalanga,1.0,0.0,1.0,,,,60 - 69 %,,,1,1,1985,5
+Id_wil30h6uqo,2023-02-10,4,unemployed,2259.0,Urban,North West,1.0,0.0,0.0,3.0,,40 - 49 %,40 - 49 %,,,0,1,1994,5
+Id_gco4s6s0y0,2023-03-22,4,studying,,Suburb,Mpumalanga,1.0,0.0,0.0,1.0,,40 - 49 %,30 - 39 %,,,1,1,2001,12
+Id_i2zt2wyw67,2023-03-22,4,unemployed,2256.0,Urban,Eastern Cape,1.0,0.0,0.0,4.0,,40 - 49 %,40 - 49 %,,,1,1,1995,12
+Id_u6qzopxfoo,2022-08-04,3,studying,,Urban,Gauteng,1.0,0.0,0.0,4.0,30 - 39 %,,40 - 49 %,,30 - 39 %,0,1,2000,10
+Id_9qhc9jmlw5,2023-02-13,4,unemployed,67.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,30 - 39 %,50 - 59 %,,,0,1,2003,11
+Id_3hqg13lpub,2023-02-14,4,wage employed,273.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,0 - 29 %,40 - 49 %,,,1,1,2000,1
+Id_xg69jmr988,2023-03-24,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2000,6
+Id_uf4nopfet5,2023-03-23,4,wage employed,150.0,Urban,Gauteng,,,,,,,,,,1,1,1993,3
+Id_nvu0rx02yq,2023-02-10,4,studying,,Urban,North West,1.0,0.0,0.0,4.0,,40 - 49 %,,50 - 59 %,,1,1,2001,3
+Id_wpetow3d86,2023-03-13,4,unemployed,1160.0,Urban,Limpopo,,,,,,,,,,1,1,1997,8
+Id_0b6micntbf,2022-02-22,2,studying,,Urban,Gauteng,1.0,0.0,0.0,5.0,0 - 29 %,,,50 - 59 %,,1,1,1981,3
+Id_t2hpqyerdd,2023-02-13,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_9w39fssh0z,2023-03-22,4,unemployed,429.0,Urban,Limpopo,1.0,0.0,0.0,2.0,,0 - 29 %,40 - 49 %,,,1,1,1999,12
+Id_izf7avuyof,2022-08-03,3,unemployed,248.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,3.0,,50 - 59 %,50 - 59 %,,,0,1,2001,1
+Id_horgi1i0h5,2022-08-08,3,other,,Urban,Gauteng,1.0,,,4.0,,,,,,0,1,2001,11
+Id_c1ck3oamtf,2023-02-09,4,unemployed,250.0,Urban,Limpopo,,,,,,,,,,0,1,1989,8
+Id_b97f46dlm4,2023-02-13,4,wage employed,151.0,Suburb,Mpumalanga,1.0,,,4.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_e7jnyu9nio,2022-08-12,3,unemployed,767.0,Urban,Western Cape,1.0,,1.0,,,40 - 49 %,50 - 59 %,,,1,1,1998,9
+Id_6jis2dwfpf,2023-03-06,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,,1,1,2001,2
+Id_cwfw3jz8mn,2023-03-24,4,unemployed,429.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,2001,1
+Id_ckz41r5xnd,2022-08-10,3,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,0.0,40 - 49 %,,50 - 59 %,,40 - 49 %,1,1,2000,10
+Id_0lddi6fymp,2021-08-18,1,studying,,Urban,Gauteng,1.0,,,,,0 - 29 %,50 - 59 %,,,0,1,1999,1
+Id_qb6cvsj6d1,2023-03-15,4,wage employed,156.0,Rural,Limpopo,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,1,1,2000,9
+Id_mevy3q7025,2022-02-28,2,wage employed,122.0,Urban,Free State,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,1,1,2000,2
+Id_4f18c92qin,2023-02-20,4,wage employed,61.0,Urban,Mpumalanga,0.0,0.0,0.0,4.0,,,,,,0,1,2000,4
+Id_70u1j9yxhw,2023-02-13,4,wage employed,91.0,Urban,Gauteng,,,,,,,,,,0,1,1994,2
+Id_gmoiyj02t8,2023-02-08,4,unemployed,67.0,Urban,Eastern Cape,0.0,0.0,0.0,3.0,,,,,,0,1,1996,7
+Id_eui0etibtj,2023-02-10,4,unemployed,1065.0,Suburb,Limpopo,,,,,,,,,,1,1,1997,6
+Id_ml0shy5ndd,2022-08-05,3,studying,,Urban,Mpumalanga,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,0,1,2001,9
+Id_ec2sjwcz91,2023-03-01,4,unemployed,95.0,Rural,North West,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,0,1,2000,8
+Id_rjahjm0hug,2022-08-08,3,wage employed,,Urban,Western Cape,1.0,0.0,0.0,2.0,,40 - 49 %,60 - 69 %,,,1,1,2002,11
+Id_abyqg3tash,2023-03-01,4,unemployed,1525.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_lzos5ypdrm,2023-02-15,4,unemployed,365.0,Urban,Western Cape,1.0,0.0,0.0,5.0,,50 - 59 %,,50 - 59 %,,1,1,2001,12
+Id_kdvnff0zsh,2022-08-04,3,other,,Urban,Gauteng,1.0,1.0,0.0,5.0,40 - 49 %,,,50 - 59 %,50 - 59 %,1,1,1998,5
+Id_86b4m22rpu,2023-02-16,4,wage employed,0.0,Urban,Free State,1.0,0.0,0.0,1.0,30 - 39 %,,40 - 49 %,,0 - 29 %,1,1,1999,4
+Id_x2hp46jgt7,2023-02-17,4,unemployed,401.0,Suburb,KwaZulu-Natal,,,,,,,,,,0,1,2002,7
+Id_zpp3md8ezd,2023-02-07,4,wage employed,426.0,Urban,Gauteng,0.0,0.0,0.0,,,,,,,0,1,1995,7
+Id_e3b7m1pivk,2022-03-15,2,unemployed,64.0,Urban,Gauteng,1.0,,,,,50 - 59 %,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_ylj1j29c2t,2023-02-09,4,unemployed,767.0,Urban,Free State,1.0,0.0,0.0,4.0,,40 - 49 %,40 - 49 %,,,0,1,1998,10
+Id_4mqpa30io0,2021-08-18,1,unemployed,580.0,Urban,Eastern Cape,1.0,,,3.0,,,,,,1,1,1994,6
+Id_gb6gbddvde,2023-02-14,4,unemployed,36.0,Urban,Eastern Cape,1.0,0.0,0.0,,,40 - 49 %,,40 - 49 %,,0,1,2002,11
+Id_33q9kspnhl,2023-03-08,4,unemployed,5.0,Urban,Gauteng,1.0,0.0,0.0,4.0,50 - 59 %,,60 - 69 %,,50 - 59 %,1,1,2004,6
+Id_spcfhi9ani,2022-08-04,3,other,,Rural,Mpumalanga,1.0,,,3.0,,,,,,1,1,1998,11
+Id_3xhfl2dkwc,2023-03-23,4,unemployed,735.0,Urban,North West,0.0,0.0,0.0,1.0,,,,,,1,1,1994,10
+Id_capl79l0ck,2023-02-09,4,wage employed,153.0,Urban,Gauteng,1.0,0.0,1.0,0.0,40 - 49 %,,60 - 69 %,,30 - 39 %,1,1,1999,10
+Id_hize5ozuc7,2023-02-22,4,wage employed,882.0,Urban,Gauteng,,,,,,,,,,0,1,1995,12
+Id_9e595qehvb,2022-08-05,3,wage employed,,Rural,Mpumalanga,1.0,0.0,0.0,2.0,,50 - 59 %,40 - 49 %,,,0,1,2000,4
+Id_mv3bdtgvrm,2022-03-18,2,studying,,Suburb,KwaZulu-Natal,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,0,1,2000,1
+Id_sh6y5sognb,2021-08-11,1,studying,,Urban,Gauteng,1.0,,,1.0,,30 - 39 %,40 - 49 %,,,1,1,1995,12
+Id_otoztzpre0,2022-08-11,3,studying,,Urban,Gauteng,0.0,0.0,0.0,4.0,,,,,,1,1,1995,1
+Id_7lrax702sw,2022-03-14,2,unemployed,1173.0,Urban,Mpumalanga,0.0,,,4.0,,,,,,1,1,2000,1
+Id_2yyc8cscz1,2023-02-06,4,unemployed,981.0,Rural,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,1999,7
+Id_hko3gz0dk7,2021-08-18,1,other,,Urban,Gauteng,1.0,0.0,0.0,3.0,,70 - 79 %,,50 - 59 %,,0,1,1990,12
+Id_wk20cknod9,2023-02-06,4,studying,,Rural,North West,0.0,0.0,0.0,2.0,,,,,,0,1,2000,1
+Id_v021qhmpjd,2022-03-14,2,unemployed,18.0,Urban,Gauteng,1.0,,,3.0,30 - 39 %,,70 - 79 %,,40 - 49 %,1,1,2000,1
+Id_hqsrc0tikc,2023-03-06,4,studying,,Urban,Gauteng,1.0,0.0,0.0,1.0,,50 - 59 %,50 - 59 %,,,1,1,2002,4
+Id_c4emke5y04,2022-02-23,2,unemployed,2958.0,Urban,Gauteng,0.0,,,,,,,,,1,1,1982,6
+Id_t3352uxc4i,2023-03-06,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,2004,5
+Id_5z20x5e83v,2023-02-08,4,self employed,,Urban,Free State,1.0,0.0,0.0,3.0,,30 - 39 %,30 - 39 %,,,0,1,2000,1
+Id_qdcud0yly8,2022-02-25,2,studying,,Urban,Free State,1.0,0.0,0.0,1.0,,30 - 39 %,40 - 49 %,,,1,1,2000,4
+Id_ww8zw7ae8a,2023-02-16,4,unemployed,1132.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,40 - 49 %,60 - 69 %,,,1,1,2001,7
+Id_1y41yyh09p,2022-08-10,3,wage employed,59.0,Urban,North West,1.0,0.0,0.0,4.0,50 - 59 %,,,60 - 69 %,,0,1,1997,6
+Id_6gmks7pmqr,2023-02-08,4,wage employed,577.0,Urban,Gauteng,1.0,,,,,30 - 39 %,60 - 69 %,,,1,1,2000,1
+Id_hm2hws8vmx,2022-03-03,2,wage employed,32.0,Urban,Western Cape,,,,,,,,,,1,1,2000,1
+Id_ffwi6hx95x,2023-02-17,4,unemployed,220.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,60 - 69 %,,50 - 59 %,1,1,1998,7
+Id_wp4xaj2x44,2023-03-24,4,wage employed,61.0,Urban,Eastern Cape,,,,,,,,,,1,1,2000,1
+Id_q9w6fjzuva,2022-08-12,3,wage employed,127.0,Rural,KwaZulu-Natal,1.0,,1.0,5.0,,,,,,0,1,1993,4
+Id_4hi7as50nt,2023-03-03,4,unemployed,795.0,Urban,Gauteng,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_e9mdtbubkh,2023-03-17,4,unemployed,64.0,Urban,Mpumalanga,,,,,,,,,,1,1,1992,4
+Id_if24ufm5uj,2022-08-10,3,studying,,Urban,KwaZulu-Natal,1.0,,,5.0,,,,,,0,1,2001,9
+Id_68ii10j2y5,2023-02-27,4,unemployed,1862.0,Suburb,Eastern Cape,0.0,0.0,0.0,3.0,,,,,,0,1,1996,10
+Id_cba8vbwfcd,2021-08-18,1,studying,,Urban,KwaZulu-Natal,1.0,1.0,,3.0,,,,,,0,1,1998,2
+Id_5va26rv1po,2023-03-15,4,unemployed,429.0,Urban,Northern Cape,1.0,0.0,0.0,,,,60 - 69 %,,,1,1,2002,11
+Id_h2u5uz2c1i,2023-03-13,4,studying,,Rural,Eastern Cape,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,1,1,2003,10
+Id_oi4y3y2j24,2023-02-08,4,self employed,,Urban,Gauteng,,,,,,,,,,0,1,1993,9
+Id_if7xxvy5sy,2022-03-01,2,unemployed,1525.0,Urban,Gauteng,1.0,,,3.0,,40 - 49 %,50 - 59 %,,,0,1,1998,2
+Id_ul1tzww8yo,2022-03-18,2,studying,,Urban,KwaZulu-Natal,1.0,1.0,0.0,2.0,,60 - 69 %,50 - 59 %,,,0,1,2000,1
+Id_g1zdjwg70b,2022-03-07,2,studying,,Rural,Eastern Cape,1.0,,1.0,1.0,,30 - 39 %,30 - 39 %,,,0,1,2000,1
+Id_ymo26re9kq,2022-08-15,3,wage employed,,Suburb,North West,1.0,,1.0,3.0,,,40 - 49 %,,,0,1,1987,10
+Id_7i4g0dgq3g,2023-02-17,4,wage employed,2221.0,Suburb,Gauteng,1.0,0.0,0.0,2.0,,70 - 79 %,70 - 79 %,,,0,1,1990,12
+Id_dtd4wertk3,2023-02-22,4,unemployed,5.0,Urban,Free State,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,1993,6
+Id_eduju9teke,2022-02-25,2,studying,,Rural,Eastern Cape,1.0,1.0,0.0,3.0,0 - 29 %,,60 - 69 %,,40 - 49 %,1,1,1997,9
+Id_qua5ppnddr,2022-07-28,3,studying,,Urban,Gauteng,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,0,1,2002,2
+Id_pgaf0nxrml,2023-02-10,4,wage employed,30.0,Rural,Limpopo,,,,,,,,,,0,1,2000,3
+Id_mfkzmksvk8,2022-03-01,2,wage employed,103.0,Urban,Western Cape,1.0,0.0,0.0,5.0,0 - 29 %,,,40 - 49 %,0 - 29 %,0,1,1994,2
+Id_xae7uo6rns,2022-08-12,3,studying,,Urban,Gauteng,1.0,,,2.0,80 - 100 %,,70 - 79 %,,70 - 79 %,0,1,1998,7
+Id_bg0pf0x0c9,2023-02-08,4,wage employed,30.0,Urban,Limpopo,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,0,1,1994,3
+Id_gqy88jh41f,2022-02-23,2,unemployed,663.0,Urban,Gauteng,1.0,,,,30 - 39 %,,70 - 79 %,,30 - 39 %,1,1,1996,5
+Id_dulraax74m,2022-03-16,2,unemployed,48.0,Urban,Gauteng,0.0,0.0,0.0,5.0,,,,,,1,1,2000,1
+Id_br9w5vf3nt,2023-03-01,4,unemployed,337.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2000,1
+Id_hm4k3ett7c,2022-08-04,3,wage employed,127.0,Urban,KwaZulu-Natal,0.0,,,4.0,,,,,,1,1,1994,2
+Id_3wbyw2qsxx,2022-03-08,2,unemployed,71.0,Urban,Northern Cape,1.0,0.0,0.0,1.0,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,1998,3
+Id_nhc76gnpfv,2022-03-02,2,unemployed,1160.0,Suburb,Eastern Cape,1.0,,,1.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_g37tyo68ez,2023-03-23,4,unemployed,33.0,Urban,Free State,,,,,,,,,,1,1,1988,10
+Id_doy6wdfgwc,2022-08-01,3,other,,Urban,Free State,,,,,,,,,,0,1,1987,1
+Id_x9qspakya3,2023-02-27,4,wage employed,153.0,Urban,Limpopo,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,0,1,2001,10
+Id_y5ylohb28f,2022-08-11,3,unemployed,217.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,1,1,2001,8
+Id_3s41c0mnx9,2023-03-01,4,unemployed,795.0,Urban,Gauteng,,,,,,,,,,0,1,2000,9
+Id_k0kz9yhugx,2022-07-28,3,studying,,Urban,Gauteng,1.0,0.0,1.0,1.0,40 - 49 %,,50 - 59 %,,,0,1,1999,8
+Id_akzn45zxlg,2023-02-20,4,wage employed,852.0,Rural,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,0,1,1988,11
+Id_bok3v4meui,2022-03-16,2,studying,,Urban,Gauteng,,,,,,,,,,1,1,2000,1
+Id_ewblr4rd31,2023-02-15,4,unemployed,97.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,60 - 69 %,70 - 79 %,,,0,1,1991,8
+Id_1f4emlzfpy,2022-08-15,3,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,1,1,1997,3
+Id_zac62lf0f4,2022-07-28,3,employment programme,,Urban,Gauteng,,,,,,,,,,0,1,2003,3
+Id_ees03xjmrh,2023-03-08,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,40 - 49 %,40 - 49 %,,,1,1,1996,9
+Id_j8hi427a46,2023-02-20,4,studying,,Rural,Mpumalanga,,,,,,,,,,0,1,1997,5
+Id_nozkcs7twh,2023-02-24,4,unemployed,615.0,Rural,KwaZulu-Natal,1.0,1.0,0.0,1.0,60 - 69 %,,60 - 69 %,,60 - 69 %,0,1,1996,7
+Id_93odriaiv1,2021-08-17,1,wage employed,0.0,Urban,Western Cape,1.0,0.0,0.0,2.0,40 - 49 %,,50 - 59 %,,0 - 29 %,0,1,1995,2
+Id_y62g1mck08,2023-03-23,4,unemployed,613.0,Urban,North West,1.0,0.0,1.0,,,0 - 29 %,50 - 59 %,,,1,1,2000,12
+Id_6afxcktqw3,2022-08-05,3,unemployed,127.0,Urban,Gauteng,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,,0,1,1992,11
+Id_08vy6pqpmv,2022-02-24,2,self employed,517.0,Rural,Eastern Cape,1.0,,,1.0,0 - 29 %,,40 - 49 %,,,1,1,1991,9
+Id_tc3tuj0fq5,2023-02-21,4,studying,,Suburb,Free State,1.0,1.0,0.0,0.0,50 - 59 %,,,70 - 79 %,60 - 69 %,0,1,1997,2
+Id_p3i0pqdgzx,2022-07-28,3,studying,,Urban,Gauteng,,,,,,,,,,1,1,1999,1
+Id_f1juue66su,2022-03-03,2,unemployed,830.0,Urban,Eastern Cape,0.0,0.0,0.0,3.0,,,,,,1,1,2000,1
+Id_xf03jzli4e,2022-03-11,2,self employed,90.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2000,1
+Id_xtkx7l92kq,2023-02-15,4,wage employed,61.0,Urban,Gauteng,,,,,,,,,,0,1,1997,5
+Id_ates45a2p2,2022-02-25,2,unemployed,4.0,Urban,Western Cape,1.0,0.0,0.0,2.0,30 - 39 %,,60 - 69 %,,30 - 39 %,1,1,2000,5
+Id_i69rsluhrn,2022-08-01,3,unemployed,3170.0,Rural,Limpopo,0.0,0.0,1.0,2.0,,,,,,1,1,1992,8
+Id_obbeglowd7,2023-02-09,4,wage employed,30.0,Suburb,Mpumalanga,1.0,0.0,0.0,4.0,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,2002,12
+Id_76sff0ftwb,2022-08-08,3,wage employed,,Urban,Western Cape,1.0,0.0,0.0,4.0,,70 - 79 %,60 - 69 %,,,0,1,2000,5
+Id_k1wvzkeibg,2023-03-22,4,studying,,Suburb,Limpopo,1.0,0.0,0.0,,0 - 29 %,,60 - 69 %,,40 - 49 %,1,1,2000,4
+Id_cvppcu9dtk,2022-03-17,2,unemployed,811.0,Urban,Gauteng,,,,,,,,,,0,1,2000,1
+Id_p21trnlm74,2023-02-02,4,self employed,,Urban,Gauteng,1.0,,,1.0,40 - 49 %,,70 - 79 %,,40 - 49 %,0,1,2003,2
+Id_x3003erpfp,2023-03-22,4,unemployed,334.0,Rural,North West,,,,,,,,,,1,1,1999,6
+Id_efdwgqd7ql,2023-02-08,4,studying,,Rural,Mpumalanga,1.0,0.0,0.0,3.0,50 - 59 %,,60 - 69 %,,50 - 59 %,0,1,2002,5
+Id_lhsftcq0qj,2023-02-14,4,unemployed,5.0,Urban,Gauteng,,,,,,,,,,0,1,1995,11
+Id_9w6y4d0f27,2021-08-23,1,studying,,Urban,KwaZulu-Natal,1.0,1.0,0.0,4.0,40 - 49 %,,70 - 79 %,,40 - 49 %,1,1,2000,4
+Id_jje2dldxrq,2021-08-23,1,studying,,Urban,Limpopo,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,0 - 29 %,1,1,1999,3
+Id_8g7mpx73iu,2023-02-28,4,unemployed,158.0,Urban,Western Cape,,,,,,,,,,0,1,1994,11
+Id_ystdo3wigm,2022-03-02,2,unemployed,1095.0,Urban,Eastern Cape,1.0,0.0,0.0,,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_ywwcb8ps97,2022-08-03,3,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,2002,12
+Id_8ez4xscjos,2022-07-28,3,other,,Urban,Gauteng,1.0,0.0,0.0,3.0,30 - 39 %,,60 - 69 %,,40 - 49 %,0,1,2002,9
+Id_2jf4w4j44j,2022-03-17,2,unemployed,1369.0,Rural,Limpopo,1.0,0.0,0.0,0.0,,30 - 39 %,60 - 69 %,,,1,1,2000,1
+Id_vxay7eegbi,2023-02-10,4,studying,,Suburb,Eastern Cape,1.0,0.0,0.0,1.0,,30 - 39 %,50 - 59 %,,,1,1,1993,11
+Id_px50ejj10r,2023-02-02,4,unemployed,401.0,Urban,Mpumalanga,1.0,0.0,0.0,2.0,,30 - 39 %,40 - 49 %,,,1,1,2000,4
+Id_tfgb0tyrty,2022-02-25,2,unemployed,61.0,Urban,Gauteng,1.0,,,3.0,,,,,,1,1,2002,11
+Id_mthugifxui,2023-02-10,4,unemployed,401.0,Suburb,KwaZulu-Natal,,,,,,,,,,0,1,2001,3
+Id_com4svhopi,2023-02-08,4,other,,Urban,North West,1.0,0.0,0.0,,40 - 49 %,,70 - 79 %,,,0,1,1998,2
+Id_mm2lhjym5t,2022-03-17,2,studying,,Urban,Limpopo,1.0,0.0,0.0,,,50 - 59 %,50 - 59 %,,,0,1,2000,1
+Id_g3g104pqzd,2021-08-17,1,wage employed,0.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,40 - 49 %,40 - 49 %,,,1,1,1998,1
+Id_1jffeuc1dj,2022-08-03,3,unemployed,243.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,3.0,,,,,,0,1,2003,10
+Id_rhc2kl5g55,2023-03-03,4,studying,,Suburb,Gauteng,1.0,1.0,0.0,,50 - 59 %,,60 - 69 %,,60 - 69 %,1,1,1999,12
+Id_am02p2tzuy,2023-02-06,4,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,,50 - 59 %,50 - 59 %,,,1,1,2001,7
+Id_regox32zxq,2023-02-21,4,wage employed,122.0,Urban,Free State,,,,,,,,,,0,1,1987,11
+Id_6kf048eavy,2023-03-06,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,2003,1
+Id_omknpzp2ak,2022-08-03,3,unemployed,583.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,50 - 59 %,60 - 69 %,,,1,1,2001,5
+Id_cenkqwdm7l,2022-08-02,3,studying,,Rural,North West,1.0,0.0,0.0,4.0,,40 - 49 %,,60 - 69 %,,1,1,2003,2
+Id_ewipl8qtuw,2021-08-18,1,self employed,306.0,Urban,Gauteng,1.0,,1.0,0.0,,,,,,0,1,1992,1
+Id_8577gbn0e7,2022-08-01,3,other,,Urban,Free State,1.0,0.0,0.0,5.0,,50 - 59 %,40 - 49 %,,,0,1,1997,12
+Id_7om3250j9e,2022-07-28,3,wage employed,1588.0,Urban,Mpumalanga,1.0,0.0,0.0,2.0,,50 - 59 %,70 - 79 %,,,0,1,1997,3
+Id_xeuoeg20r1,2022-08-01,3,wage employed,2378.0,Rural,Mpumalanga,1.0,0.0,0.0,2.0,,,,,,0,1,1995,2
+Id_yvcri3cmts,2022-08-15,3,other,,Urban,Free State,,,,,,,,,,1,1,1984,7
+Id_v7b4ypc0ij,2023-03-03,4,wage employed,273.0,Rural,North West,1.0,,,3.0,,30 - 39 %,50 - 59 %,,,0,1,2000,1
+Id_dwuchnvp2o,2022-03-15,2,unemployed,304.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,50 - 59 %,50 - 59 %,,,1,1,2000,1
+Id_m01a2wvxpr,2023-02-20,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1997,5
+Id_zm6vqjc3s4,2022-02-28,2,wage employed,468.0,Urban,Free State,1.0,0.0,0.0,1.0,,30 - 39 %,70 - 79 %,,,0,1,1999,9
+Id_lts8qj5gtt,2022-03-09,2,unemployed,2465.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,40 - 49 %,40 - 49 %,,,1,1,1998,8
+Id_d57wdfouya,2023-03-14,4,unemployed,334.0,Urban,Northern Cape,1.0,1.0,0.0,5.0,,50 - 59 %,60 - 69 %,,,1,1,2000,3
+Id_lp9rw55nuq,2022-02-25,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,,30 - 39 %,,40 - 49 %,,1,1,1996,3
+Id_kz201ybqy4,2023-02-20,4,wage employed,1035.0,Rural,Mpumalanga,,,,,,,,,,0,1,1991,10
+Id_bdapa7dbnr,2023-03-23,4,unemployed,64.0,Urban,Mpumalanga,1.0,0.0,0.0,1.0,30 - 39 %,,70 - 79 %,,40 - 49 %,1,1,2002,12
+Id_cku4oys9ly,2022-03-09,2,wage employed,31.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,40 - 49 %,50 - 59 %,,,0,1,2000,10
+Id_9imcpw90ws,2022-07-28,3,studying,,Urban,Gauteng,,,,,,,,,,0,1,2003,4
+Id_lg5hmsjw0w,2023-03-23,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,80 - 100 %,80 - 100 %,,,1,1,2002,3
+Id_n2zxyp8ozp,2023-02-13,4,wage employed,485.0,Urban,Gauteng,1.0,,,3.0,0 - 29 %,,60 - 69 %,,,0,1,2000,1
+Id_2dw9p45brs,2023-03-07,4,unemployed,64.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,1,1,2003,9
+Id_fullxeblop,2022-03-11,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_hn6w1c50jg,2023-02-27,4,unemployed,2197.0,Rural,Limpopo,0.0,0.0,0.0,2.0,,,,,,0,1,1992,12
+Id_202mo7k18v,2022-03-02,2,wage employed,90.0,Urban,Eastern Cape,1.0,,,3.0,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_35iylanft2,2023-03-17,4,wage employed,151.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1999,1
+Id_22rckhfu74,2023-02-16,4,studying,,Rural,Mpumalanga,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,1994,6
+Id_05enka6e6k,2022-03-15,2,wage employed,355.0,Urban,Northern Cape,1.0,0.0,0.0,,40 - 49 %,,60 - 69 %,,,1,1,2000,1
+Id_pa42qrnqsu,2022-08-04,3,wage employed,,Urban,Limpopo,1.0,,,1.0,,30 - 39 %,40 - 49 %,,,0,1,1997,8
+Id_2wyft9kpo6,2022-03-09,2,wage employed,365.0,Urban,Western Cape,1.0,,,3.0,,,,,,0,1,1998,1
+Id_i7wm3hgav7,2023-03-01,4,wage employed,273.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2000,1
+Id_g3g4yng0cp,2022-07-28,3,other,,Urban,Gauteng,0.0,0.0,0.0,2.0,,,,,,0,1,1995,4
+Id_xkycggq6zr,2023-02-27,4,unemployed,36.0,Rural,Limpopo,,,,,,,,,,0,1,2000,12
+Id_hry70yghdi,2022-08-05,3,other,,Urban,Gauteng,0.0,,,3.0,,,,,,0,1,1987,9
+Id_7fe7yhjh8a,2023-02-09,4,self employed,,Rural,Mpumalanga,1.0,0.0,0.0,5.0,0 - 29 %,,60 - 69 %,,,0,1,2002,8
+Id_q8vp7a6kvh,2022-03-10,2,wage employed,73.0,Rural,Limpopo,,,,,,,,,,1,1,1994,8
+Id_hn7eljea0c,2023-02-07,4,unemployed,36.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,1,1,2003,11
+Id_cu46z0wtbn,2023-02-13,4,unemployed,67.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,30 - 39 %,50 - 59 %,,,1,1,1998,9
+Id_kf49u2owj9,2022-03-09,2,wage employed,66.0,Urban,Western Cape,1.0,,,4.0,,,,,,1,1,2000,4
+Id_cwuqv2hemn,2023-02-13,4,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,30 - 39 %,,40 - 49 %,,,0,1,2000,1
+Id_uuoplcjhik,2023-02-14,4,wage employed,0.0,Urban,Gauteng,,,,,,,,,,1,1,1996,11
+Id_xwef9758c0,2022-08-04,3,other,,Rural,Mpumalanga,1.0,0.0,0.0,2.0,,60 - 69 %,50 - 59 %,,,1,1,2003,2
+Id_bbdpuc13mt,2023-02-28,4,studying,,Suburb,Limpopo,1.0,0.0,0.0,1.0,50 - 59 %,,40 - 49 %,,30 - 39 %,0,1,1995,12
+Id_qm5zbv3dqs,2023-02-28,4,wage employed,579.0,Urban,Limpopo,1.0,0.0,1.0,,,30 - 39 %,30 - 39 %,,,0,1,1995,9
+Id_xc458zxp8n,2023-02-17,4,unemployed,36.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,40 - 49 %,40 - 49 %,,,0,1,1997,5
+Id_5dlzzvzu7z,2021-08-12,1,self employed,172.0,Rural,KwaZulu-Natal,1.0,1.0,,2.0,50 - 59 %,,60 - 69 %,,50 - 59 %,0,1,1997,6
+Id_vvh9x2jhmz,2023-02-09,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,5.0,,50 - 59 %,50 - 59 %,,,0,1,2003,9
+Id_a3lsvoib9e,2023-02-15,4,studying,,Rural,Limpopo,,,,,,,,,,0,1,2000,1
+Id_eqm83ic4m9,2023-02-17,4,unemployed,401.0,Urban,Eastern Cape,,,,,,,,,,0,1,2000,6
+Id_xy20frex7o,2022-02-28,2,studying,,Urban,Gauteng,0.0,0.0,0.0,,,,,,,0,1,1993,1
+Id_0d0fcqrqiz,2022-08-02,3,unemployed,66.0,Urban,North West,,,,,,,,,,0,1,1999,2
+Id_i6wj4m9x2n,2022-07-29,3,unemployed,1282.0,Urban,Gauteng,1.0,0.0,0.0,5.0,,40 - 49 %,,50 - 59 %,,1,1,1998,7
+Id_puhqi47sl7,2023-02-24,4,studying,,Urban,North West,,,,,,,,,,0,1,1996,4
+Id_fzd6uelqdt,2023-02-17,4,wage employed,334.0,Urban,Gauteng,1.0,,,2.0,40 - 49 %,,50 - 59 %,,40 - 49 %,1,1,1991,8
+Id_dapxuyl0kv,2023-03-01,4,studying,,Urban,Free State,1.0,,,3.0,30 - 39 %,,50 - 59 %,,40 - 49 %,1,1,2000,1
+Id_3688t4ltez,2022-03-18,2,unemployed,812.0,Urban,Eastern Cape,1.0,0.0,0.0,5.0,30 - 39 %,,,40 - 49 %,40 - 49 %,0,1,2000,1
+Id_6ydbe8k1k0,2022-03-18,2,wage employed,238.0,Suburb,Western Cape,1.0,,,2.0,,30 - 39 %,40 - 49 %,,,0,1,2000,1
+Id_nrqsdlmxxh,2022-08-15,3,other,,Urban,Free State,1.0,,,,40 - 49 %,,50 - 59 %,,30 - 39 %,0,1,1999,9
+Id_mxn6qtsna1,2023-02-21,4,unemployed,731.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,30 - 39 %,,40 - 49 %,,30 - 39 %,1,1,1994,10
+Id_ml1zx0y5gl,2023-03-23,4,unemployed,429.0,Urban,Gauteng,,,,,,,,,,1,1,2003,1
+Id_fhkjr8dykn,2022-08-01,3,wage employed,92.0,Suburb,Limpopo,1.0,0.0,0.0,,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,1997,8
+Id_n5sq52hdoj,2023-03-20,4,unemployed,64.0,Urban,Mpumalanga,,,,,,,,,,1,1,2004,6
+Id_0uxhybtjl5,2022-03-17,2,self employed,806.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2000,1
+Id_kzh96q88bd,2023-03-15,4,studying,,Suburb,Mpumalanga,1.0,0.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,1,1,1996,2
+Id_yaqxnrvpyo,2022-02-28,2,unemployed,1008.0,Urban,Eastern Cape,0.0,,,,,,,,,0,1,1991,10
+Id_15qd9nbtr6,2023-02-20,4,unemployed,250.0,Suburb,Gauteng,,,,,,,,,,0,1,1994,9
+Id_x3vu0lmdqz,2022-03-03,2,unemployed,432.0,Urban,Gauteng,1.0,,,5.0,0 - 29 %,,60 - 69 %,,40 - 49 %,1,1,2000,1
+Id_s1sfh8q0sm,2022-02-24,2,wage employed,1124.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,50 - 59 %,50 - 59 %,,,1,1,1999,4
+Id_j39rsaxv9x,2023-02-17,4,unemployed,1492.0,Urban,North West,1.0,0.0,0.0,,,70 - 79 %,70 - 79 %,,,0,1,2001,6
+Id_ev1om3wblh,2022-03-01,2,unemployed,1556.0,Urban,Free State,1.0,0.0,0.0,3.0,,70 - 79 %,60 - 69 %,,,0,1,1997,1
+Id_b5wmhiambg,2023-02-27,4,unemployed,767.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2001,1
+Id_8dsaqx95t7,2021-08-19,1,wage employed,0.0,Urban,North West,1.0,,,2.0,40 - 49 %,,50 - 59 %,,30 - 39 %,0,1,1986,4
+Id_ck3rnbfyjh,2023-02-28,4,studying,,Urban,Free State,1.0,0.0,0.0,4.0,,70 - 79 %,60 - 69 %,,,0,1,2002,8
+Id_3dzfgus94r,2022-07-28,3,studying,,Urban,Gauteng,,,,,,,,,,1,1,1997,12
+Id_hj5xxk235f,2022-08-03,3,unemployed,248.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,0 - 29 %,0,1,2003,4
+Id_hi2aqujzip,2022-08-01,3,unemployed,217.0,Suburb,Limpopo,1.0,0.0,0.0,2.0,,50 - 59 %,50 - 59 %,,,0,1,2003,5
+Id_v3uyrexc6m,2022-02-24,2,unemployed,124.0,Urban,Free State,1.0,0.0,0.0,1.0,,50 - 59 %,40 - 49 %,,0 - 29 %,1,1,1995,12
+Id_huysuslo7o,2023-02-22,4,unemployed,37.0,Urban,Free State,,,,,,,,,,0,1,2000,2
+Id_9esczul5fq,2022-03-03,2,wage employed,121.0,Suburb,Eastern Cape,1.0,,,3.0,30 - 39 %,,50 - 59 %,,,1,1,2000,1
+Id_brx4sdpwsz,2023-02-28,4,studying,,Urban,Western Cape,,,,,,,,,,0,1,2004,12
+Id_wnc5dh98ow,2022-03-16,2,studying,,Urban,Free State,1.0,0.0,0.0,4.0,,,,40 - 49 %,,1,1,2000,1
+Id_bkrytf6qpo,2022-08-12,3,other,,Urban,Gauteng,1.0,0.0,0.0,2.0,,30 - 39 %,,40 - 49 %,,0,1,1999,1
+Id_zuxemjeq2j,2023-02-14,4,studying,,Suburb,Gauteng,1.0,0.0,0.0,3.0,0 - 29 %,,60 - 69 %,,,0,1,2002,11
+Id_zh1vstq7xy,2023-02-09,4,studying,,Rural,Eastern Cape,,,,,,,,,,0,1,1998,6
+Id_njjyxihirh,2023-02-07,4,unemployed,97.0,Urban,Gauteng,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,,1,1,2003,7
+Id_22hadf3npm,2022-03-03,2,wage employed,0.0,Suburb,North West,1.0,0.0,0.0,1.0,,30 - 39 %,60 - 69 %,,,1,1,2000,1
+Id_621yyrkbc7,2022-03-09,2,unemployed,795.0,Urban,Northern Cape,1.0,,,2.0,,30 - 39 %,50 - 59 %,,,1,1,2000,11
+Id_3yod0o903z,2023-02-21,4,unemployed,311.0,Rural,KwaZulu-Natal,,,,,,,,,,1,1,1996,1
+Id_f6thdicfx1,2023-02-06,4,unemployed,158.0,Urban,Gauteng,1.0,0.0,0.0,0.0,,80 - 100 %,,50 - 59 %,,0,1,1990,11
+Id_cfxbc8mxa6,2022-08-03,3,other,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,,30 - 39 %,,,0,1,1997,2
+Id_t393kw7t4u,2023-03-17,4,unemployed,64.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,,1,1,2001,12
+Id_oikc88k6ov,2023-03-13,4,unemployed,64.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,40 - 49 %,40 - 49 %,,,1,1,2000,11
+Id_mk1iyktjj3,2022-02-22,2,unemployed,882.0,Urban,Limpopo,1.0,0.0,0.0,1.0,,30 - 39 %,40 - 49 %,,,0,1,1998,9
+Id_ukmg1fe4sl,2023-03-13,4,unemployed,2317.0,Urban,Gauteng,,,,,,,,,,1,1,1995,1
+Id_fiuzxwgwzi,2023-03-09,4,unemployed,1831.0,Urban,Mpumalanga,,,,,,,,,,1,1,1992,6
+Id_e9t73zgn0x,2023-02-07,4,studying,,Urban,Gauteng,,,,,,,,,,0,1,2000,7
+Id_igjbc2jy5h,2022-03-03,2,studying,,Urban,Gauteng,0.0,,,4.0,,,,,,1,1,2000,1
+Id_fiav3fj5n5,2022-08-08,3,unemployed,948.0,Suburb,Gauteng,,,,,,,,,,1,1,1994,6
+Id_f61doydnaq,2022-08-05,3,wage employed,,Urban,Free State,1.0,0.0,0.0,,,50 - 59 %,50 - 59 %,,,1,1,1992,12
+Id_cvoeaetwe4,2023-03-14,4,other,,Urban,Gauteng,,,,,,,,,,1,1,2000,10
+Id_9ldafk3nlj,2022-03-11,2,wage employed,362.0,Urban,North West,,,,,,,,,,1,1,2000,1
+Id_exyiv8agqe,2023-02-15,4,unemployed,61.0,Urban,Mpumalanga,1.0,,,3.0,,60 - 69 %,60 - 69 %,,,1,1,2000,1
+Id_b5ywcspu1f,2023-02-09,4,self employed,,Urban,Eastern Cape,1.0,0.0,0.0,2.0,,0 - 29 %,50 - 59 %,,,0,1,1999,9
+Id_0g3knr7fvs,2023-02-07,4,unemployed,36.0,Urban,Gauteng,1.0,,,4.0,,40 - 49 %,50 - 59 %,,,1,1,2000,1
+Id_15al9kmkcd,2022-02-25,2,wage employed,90.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,30 - 39 %,40 - 49 %,,,0,1,1999,4
+Id_7ab67qxfiv,2021-08-18,1,studying,,Urban,Gauteng,1.0,,,1.0,,70 - 79 %,60 - 69 %,,,0,1,1997,3
+Id_z3qdnmn9q3,2022-03-10,2,unemployed,804.0,Rural,Free State,1.0,0.0,0.0,1.0,,50 - 59 %,50 - 59 %,,0 - 29 %,1,1,1999,9
+Id_305ozjzlmz,2023-02-28,4,unemployed,67.0,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,,40 - 49 %,,,0,1,2003,4
+Id_709j8qrxat,2022-08-03,3,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1998,9
+Id_haeujusld6,2022-09-03,3,other,,Urban,Gauteng,,,,,,,,,,1,1,1993,7
+Id_96borhxbpv,2023-03-23,4,studying,,Rural,Limpopo,1.0,0.0,0.0,,0 - 29 %,,30 - 39 %,,40 - 49 %,1,1,2001,7
+Id_ro2jwdd5uy,2023-02-24,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1989,4
+Id_1tcfd92lk2,2022-03-04,2,studying,,Urban,KwaZulu-Natal,1.0,,,3.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_pbox0fm3u1,2023-03-15,4,wage employed,181.0,Urban,Mpumalanga,,,,,,,,,,1,1,1996,4
+Id_ihiolzdxna,2022-08-01,3,unemployed,797.0,Rural,Mpumalanga,,,,,,,,,,0,1,1991,5
+Id_579iqpzqyj,2023-03-16,4,wage employed,92.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1993,6
+Id_2r1y11q0wg,2023-03-14,4,unemployed,856.0,Urban,Free State,,,,,,,,,,1,1,1996,4
+Id_7ak4adbl14,2022-07-28,3,other,,Urban,Gauteng,,,,,,,,,,0,1,1999,6
+Id_g0u6gnx5nw,2022-03-11,2,wage employed,1160.0,Urban,Gauteng,,,,,,,,,,1,1,2000,1
+Id_pn7b3mle90,2022-08-10,3,other,,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1991,3
+Id_da6ucbymhn,2023-02-09,4,wage employed,516.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,5.0,,50 - 59 %,,40 - 49 %,,1,1,2000,1
+Id_71takmxtrb,2021-08-12,1,wage employed,0.0,Rural,Eastern Cape,1.0,,,2.0,30 - 39 %,,50 - 59 %,,40 - 49 %,1,1,1997,6
+Id_nkydwcxn12,2022-03-15,2,studying,,Rural,Eastern Cape,1.0,,,3.0,,60 - 69 %,,50 - 59 %,,1,1,2000,1
+Id_iyfanduv8b,2022-02-24,2,unemployed,1520.0,Rural,North West,1.0,0.0,0.0,3.0,0 - 29 %,,40 - 49 %,,,1,1,1998,12
+Id_24c1l1s9zx,2023-03-16,4,studying,,Urban,Western Cape,1.0,0.0,0.0,1.0,,40 - 49 %,60 - 69 %,,,1,1,2002,6
+Id_437ct6woog,2022-03-11,2,studying,,Rural,KwaZulu-Natal,,,,,,,,,,1,1,2000,1
+Id_v27wecgq4s,2023-02-17,4,wage employed,2008.0,Urban,Eastern Cape,,,,,,,,,,0,1,1989,4
+Id_9axn3nt95a,2022-02-25,2,self employed,274.0,Suburb,Gauteng,1.0,,1.0,2.0,,40 - 49 %,70 - 79 %,,,1,1,2002,7
+Id_qrq5r4b5dm,2022-07-28,3,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,30 - 39 %,,40 - 49 %,,0 - 29 %,0,1,1998,12
+Id_x5tnpkztq1,2023-03-22,4,unemployed,429.0,Rural,North West,,,,,,,,,,1,1,2002,8
+Id_nztfqrdo22,2022-03-11,2,wage employed,173.0,Urban,Western Cape,,,,,,,,,,1,1,2000,1
+Id_7552lew1q1,2022-09-03,3,wage employed,,Urban,Gauteng,1.0,,,2.0,30 - 39 %,,50 - 59 %,,,0,1,1988,5
+Id_jrqihfiq2h,2023-02-17,4,unemployed,2228.0,Urban,KwaZulu-Natal,0.0,,,,,,,,,1,1,1998,4
+Id_b50jkim5jh,2023-02-20,4,unemployed,1497.0,Urban,Mpumalanga,,,,,,,,,,0,1,1996,12
+Id_thgq2lugpt,2022-08-08,3,self employed,552.0,Urban,Gauteng,1.0,,,2.0,,,,,,0,1,1998,1
+Id_p97gank3cu,2022-03-07,2,unemployed,436.0,Rural,KwaZulu-Natal,1.0,,,3.0,,0 - 29 %,50 - 59 %,,,0,1,2000,1
+Id_8xszxps51i,2022-08-15,3,studying,,Urban,Gauteng,,,,,,,,,,0,1,2001,5
+Id_tkjcu68b01,2023-02-20,4,self employed,,Rural,Mpumalanga,,,,,,,,,,0,1,1996,6
+Id_8w8v64w1f8,2021-08-12,1,unemployed,999.0,Urban,Gauteng,1.0,0.0,0.0,5.0,30 - 39 %,,,60 - 69 %,0 - 29 %,1,1,1996,3
+Id_9j6oz47vrp,2022-08-01,3,other,,Suburb,Mpumalanga,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,1996,7
+Id_v54hrl88y4,2022-08-15,3,other,,Urban,KwaZulu-Natal,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,,1,1,1997,4
+Id_guwgy0cwxr,2023-02-16,4,unemployed,5.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,30 - 39 %,,70 - 79 %,,30 - 39 %,1,1,2000,1
+Id_uhcxp80o0x,2022-02-28,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,40 - 49 %,40 - 49 %,,,0,1,1996,5
+Id_97cyn3fkhz,2022-03-03,2,unemployed,53.0,Suburb,Mpumalanga,1.0,0.0,0.0,5.0,,80 - 100 %,70 - 79 %,,,1,1,2000,1
+Id_flag8ua59u,2023-03-13,4,unemployed,429.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2004,3
+Id_lzokvnie26,2023-03-09,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,0 - 29 %,,40 - 49 %,,,1,1,1998,1
+Id_n4smd098fw,2022-03-03,2,wage employed,170.0,Rural,Northern Cape,1.0,0.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,1,1,2000,1
+Id_7vzcodqv1j,2023-02-20,4,wage employed,424.0,Urban,Free State,0.0,0.0,0.0,3.0,,,,,,0,1,1998,2
+Id_dy3havgfuv,2023-02-02,4,wage employed,59.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,40 - 49 %,,40 - 49 %,,30 - 39 %,1,1,2000,1
+Id_2fidc6cwxn,2022-03-01,2,unemployed,436.0,Urban,Eastern Cape,1.0,0.0,0.0,4.0,,50 - 59 %,,40 - 49 %,,0,1,2000,8
+Id_dy472n1q3i,2022-02-23,2,unemployed,215.0,Urban,Mpumalanga,1.0,0.0,0.0,2.0,30 - 39 %,,60 - 69 %,,,1,1,1999,2
+Id_2zt6m5f4bk,2022-08-12,3,other,,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,40 - 49 %,60 - 69 %,,,1,1,1990,6
+Id_abbnvg2xjt,2023-03-17,4,wage employed,1704.0,Rural,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,1,1,1996,3
+Id_719gfq4bbi,2023-02-24,4,self employed,,Urban,Gauteng,0.0,0.0,0.0,,,,,,,0,1,1992,5
+Id_yfqugxq06s,2023-03-06,4,studying,,Urban,Free State,1.0,,,1.0,60 - 69 %,,50 - 59 %,,60 - 69 %,0,1,2000,1
+Id_vu6u2fxprn,2022-02-25,2,self employed,1787.0,Suburb,Northern Cape,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,1,1,1996,1
+Id_njn0ugszro,2023-02-13,4,unemployed,730.0,Suburb,Western Cape,,,,,,,,,,0,1,2001,11
+Id_kppmeqk94s,2023-03-14,4,unemployed,796.0,Urban,Gauteng,0.0,0.0,0.0,3.0,,,,,,1,1,1993,9
+Id_4sdwxg4xnm,2023-02-28,4,unemployed,36.0,Urban,Northern Cape,1.0,1.0,0.0,,0 - 29 %,,60 - 69 %,,,0,1,2002,12
+Id_jt7uxijhw0,2023-02-15,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,0 - 29 %,0,1,1999,10
+Id_4x8raqjq7i,2023-02-10,4,unemployed,1218.0,Urban,Gauteng,,,,,,,,,,0,1,1992,12
+Id_oyv68u1dkm,2022-02-22,2,unemployed,1064.0,Rural,Eastern Cape,1.0,,,3.0,,40 - 49 %,40 - 49 %,,,0,1,1999,4
+Id_dbjse28978,2023-02-22,4,unemployed,702.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,60 - 69 %,40 - 49 %,,,0,1,1996,6
+Id_ch330vmids,2022-08-02,3,unemployed,217.0,Urban,Eastern Cape,1.0,0.0,0.0,,0 - 29 %,,40 - 49 %,,0 - 29 %,1,1,2002,6
+Id_vao287hv1f,2022-08-11,3,wage employed,,Urban,Gauteng,1.0,,,0.0,,,,,,0,1,1993,10
+Id_nxhzqujll0,2021-08-11,1,studying,,Urban,Mpumalanga,1.0,,,4.0,40 - 49 %,,50 - 59 %,,40 - 49 %,1,1,1996,7
+Id_h890qicmt0,2022-08-10,3,unemployed,2161.0,Urban,Gauteng,,,,,,,,,,1,1,1994,9
+Id_y4dq6mmmjf,2022-07-28,3,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,0,1,1999,8
+Id_7wr8uj9wpr,2022-09-03,3,unemployed,462.0,Rural,Limpopo,1.0,,,1.0,,,,,,0,1,1985,9
+Id_g01k9ahzh3,2021-08-19,1,studying,,Suburb,Limpopo,,,,,,,,,,1,1,1995,10
+Id_8lo88bta3q,2022-08-04,3,other,,Rural,Mpumalanga,1.0,0.0,0.0,1.0,50 - 59 %,,50 - 59 %,,50 - 59 %,0,1,1996,12
+Id_6obelhudu6,2022-03-14,2,unemployed,74.0,Rural,Limpopo,0.0,,,2.0,,,,,,0,1,1994,11
+Id_kftu3l7kkd,2023-02-27,4,unemployed,158.0,Rural,Mpumalanga,,,,,,,,,,0,1,2000,5
+Id_m8ypin55mz,2023-03-23,4,wage employed,337.0,Rural,KwaZulu-Natal,1.0,1.0,0.0,1.0,50 - 59 %,,70 - 79 %,,60 - 69 %,1,1,1999,8
+Id_u1ud8oazwu,2023-02-27,4,unemployed,401.0,Urban,Limpopo,,,,,,,,,,0,1,1992,11
+Id_1bmknryhxc,2023-02-20,4,other,,Rural,North West,0.0,0.0,0.0,,,,,,,0,1,2000,7
+Id_s3u21bcs1c,2023-02-10,4,studying,,Urban,Western Cape,,,,,,,,,,1,1,2000,12
+Id_163j6do8dt,2022-03-01,2,wage employed,131.0,Urban,Western Cape,1.0,,,4.0,0 - 29 %,,50 - 59 %,,,0,1,1995,11
+Id_oekesrl5t0,2023-03-03,4,unemployed,548.0,Urban,Gauteng,1.0,0.0,0.0,4.0,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,1989,7
+Id_u7jkl2wpl0,2022-03-03,2,studying,,Urban,Mpumalanga,1.0,1.0,,2.0,50 - 59 %,,70 - 79 %,,70 - 79 %,1,1,2000,1
+Id_11yb4rk8vf,2023-03-13,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2001,7
+Id_7y3m47la6q,2023-03-02,4,unemployed,1096.0,Urban,Gauteng,0.0,0.0,0.0,4.0,,,,,,1,1,2000,1
+Id_7jp21wo3de,2023-02-22,4,unemployed,767.0,Rural,Northern Cape,1.0,0.0,0.0,1.0,,30 - 39 %,60 - 69 %,,,0,1,1997,9
+Id_miynvej6a2,2023-02-06,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,,60 - 69 %,,40 - 49 %,,0,1,1999,10
+Id_hfx1xp53p3,2023-03-23,4,wage employed,244.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,0 - 29 %,,60 - 69 %,,0 - 29 %,1,1,2000,5
+Id_72uxatoazr,2023-02-07,4,unemployed,365.0,Urban,Gauteng,1.0,0.0,0.0,,30 - 39 %,,,40 - 49 %,30 - 39 %,1,1,2003,4
+Id_elioph6w1f,2022-02-28,2,studying,,Urban,Gauteng,1.0,0.0,0.0,5.0,40 - 49 %,,,50 - 59 %,,0,1,1998,11
+Id_1ke76rdjje,2022-03-01,2,wage and self employed,1891.0,Urban,Eastern Cape,1.0,0.0,1.0,2.0,,60 - 69 %,70 - 79 %,,,0,1,1996,10
+Id_t46minskam,2023-03-15,4,unemployed,64.0,Suburb,Free State,0.0,0.0,0.0,1.0,,,,,,1,1,1992,11
+Id_z2c8otk2yi,2022-03-01,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,1.0,4.0,50 - 59 %,,50 - 59 %,,50 - 59 %,0,1,1998,10
+Id_q2uovpqmk6,2023-03-17,4,studying,,Urban,Mpumalanga,,,,,,,,,,1,1,2002,4
+Id_3kka933aho,2023-02-28,4,unemployed,427.0,Rural,Mpumalanga,,,,,,,,,,0,1,2002,3
+Id_r4addjw4vt,2023-02-16,4,unemployed,426.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,0 - 29 %,50 - 59 %,,,1,1,2000,1
+Id_83ogv0svuf,2023-03-02,4,unemployed,64.0,Suburb,North West,1.0,,,,,40 - 49 %,60 - 69 %,,,0,1,2000,1
+Id_sbls3y3jvy,2022-08-10,3,self employed,523.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,0 - 29 %,30 - 39 %,,,0,1,1996,2
+Id_moi9rocisn,2022-08-08,3,other,,Urban,KwaZulu-Natal,1.0,0.0,1.0,1.0,30 - 39 %,,40 - 49 %,,0 - 29 %,1,1,1992,11
+Id_499rp0shg1,2022-08-02,3,other,,Urban,Eastern Cape,0.0,0.0,0.0,,,,,,,1,1,2000,1
+Id_ts5usvwfm7,2023-02-08,4,wage employed,122.0,Urban,Gauteng,1.0,1.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,1,1,2000,1
+Id_y781z197gs,2023-03-09,4,unemployed,764.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1991,10
+Id_ew2x9yz4vb,2022-08-05,3,studying,,Urban,North West,1.0,0.0,0.0,1.0,40 - 49 %,,50 - 59 %,,40 - 49 %,0,1,2001,2
+Id_1ieb8g8r81,2023-02-15,4,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,,0 - 29 %,30 - 39 %,,,0,1,1992,8
+Id_vquuzwxkik,2023-03-13,4,employment programme,548.0,Rural,Limpopo,1.0,0.0,0.0,1.0,50 - 59 %,,60 - 69 %,,50 - 59 %,1,1,2003,10
+Id_ta4y7cah3j,2022-03-03,2,unemployed,64.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,0,1,1995,8
+Id_wxdmdg9jrq,2023-02-07,4,studying,,Urban,Gauteng,,,,,,,,,,0,1,2004,3
+Id_6ka99fa5no,2022-03-16,2,wage employed,150.0,Urban,Gauteng,,,,,,,,,,0,1,2000,1
+Id_q12cz2jc14,2022-08-12,3,self employed,,Urban,Gauteng,1.0,0.0,0.0,1.0,,40 - 49 %,40 - 49 %,,,0,1,1994,9
+Id_4w1htscb4b,2021-08-19,1,wage employed,0.0,Rural,Gauteng,1.0,,,3.0,,,,,,0,1,1992,7
+Id_rggoin2c2h,2022-08-15,3,unemployed,66.0,Urban,Gauteng,1.0,0.0,0.0,,50 - 59 %,,40 - 49 %,,,1,1,1987,10
+Id_zsiel1ur1j,2022-02-28,2,wage employed,4.0,Suburb,Western Cape,1.0,,,2.0,,40 - 49 %,50 - 59 %,,,0,1,1997,8
+Id_3l8s6ervkx,2023-03-09,4,studying,,Urban,Western Cape,1.0,0.0,0.0,5.0,,40 - 49 %,,60 - 69 %,,1,1,2003,12
+Id_yazfl678oi,2023-03-01,4,studying,,Suburb,Limpopo,1.0,,,1.0,0 - 29 %,,30 - 39 %,,30 - 39 %,0,1,2000,1
+Id_m5wcqlbcog,2022-08-08,3,unemployed,127.0,Suburb,Limpopo,,,,,,,,,,1,1,1985,7
+Id_pndgc7t373,2023-02-09,4,unemployed,342.0,Suburb,Mpumalanga,,,,,,,,,,1,1,1987,12
+Id_1inopgvldd,2022-03-09,2,self employed,803.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,4.0,,,,,,1,1,1989,3
+Id_1wfithj70z,2022-08-05,3,other,,Urban,Gauteng,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,1995,12
+Id_v2xpbbokwo,2022-08-04,3,other,,Suburb,Gauteng,,,,,,,,,,0,1,2003,4
+Id_12d1frupv6,2023-02-01,4,studying,,Urban,Gauteng,1.0,0.0,1.0,4.0,,50 - 59 %,50 - 59 %,,,0,1,1997,6
+Id_pc3devko6x,2023-02-27,4,unemployed,401.0,Urban,Gauteng,,,,,,,,,,0,1,2000,10
+Id_yvfnf3q60v,2022-02-23,2,wage employed,413.0,Urban,Gauteng,,,,,,,,,,1,1,1999,9
+Id_homohwddj7,2023-02-27,4,unemployed,36.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,30 - 39 %,50 - 59 %,,,0,1,1994,4
+Id_p5nvctj90i,2022-08-10,3,other,,Suburb,KwaZulu-Natal,,,,,,,,,,0,1,2001,12
+Id_x0ngpknxvm,2023-02-06,4,studying,,Urban,Gauteng,1.0,1.0,0.0,3.0,,30 - 39 %,60 - 69 %,,,1,1,2000,1
+Id_zzhr5kss7u,2022-03-09,2,unemployed,1885.0,Rural,Mpumalanga,1.0,0.0,1.0,1.0,,40 - 49 %,40 - 49 %,,,1,1,1997,10
+Id_eizv1bpafl,2023-03-15,4,unemployed,396.0,Rural,North West,1.0,0.0,0.0,3.0,,30 - 39 %,,60 - 69 %,,1,1,2003,10
+Id_tketya3hfr,2023-02-10,4,unemployed,707.0,Urban,Western Cape,0.0,0.0,0.0,,,,,,,0,1,1992,7
+Id_liytd8x7gm,2023-02-08,4,wage employed,61.0,Suburb,Mpumalanga,,,,,,,,,,0,1,1995,11
+Id_lc3hqzvi1x,2023-03-16,4,unemployed,125.0,Urban,Limpopo,,,,,,,,,,1,1,1998,4
+Id_igm4l77gpu,2022-08-03,3,wage employed,,Urban,KwaZulu-Natal,1.0,0.0,1.0,,50 - 59 %,,60 - 69 %,,50 - 59 %,1,1,1999,12
+Id_jsbg9ole3f,2023-02-17,4,self employed,401.0,Rural,KwaZulu-Natal,0.0,0.0,0.0,2.0,,,,,,1,1,1997,12
+Id_t5l5zo1kfq,2023-02-17,4,unemployed,5.0,Urban,Eastern Cape,1.0,0.0,1.0,0.0,,40 - 49 %,,50 - 59 %,,1,1,2000,1
+Id_goh7o5pwyv,2023-02-17,4,unemployed,36.0,Suburb,Limpopo,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,0,1,2001,6
+Id_l2s6fptvq8,2022-03-09,2,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,1988,4
+Id_yzhvn8vj9e,2022-08-08,3,other,,Rural,North West,1.0,0.0,1.0,2.0,,60 - 69 %,40 - 49 %,,,0,1,1998,6
+Id_z47s7oahoq,2023-02-14,4,wage employed,546.0,Urban,Gauteng,1.0,0.0,1.0,5.0,30 - 39 %,,,60 - 69 %,,1,1,2000,1
+Id_30kc8ah8wl,2023-02-17,4,wage employed,273.0,Urban,Gauteng,1.0,0.0,0.0,4.0,0 - 29 %,,50 - 59 %,,40 - 49 %,1,1,1996,10
+Id_lavsin2msb,2023-03-06,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,2003,2
+Id_wbbwoageaa,2023-03-01,4,wage employed,62.0,Urban,Mpumalanga,1.0,,,1.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_2ccffioleh,2022-02-25,2,unemployed,686.0,Urban,Free State,1.0,0.0,1.0,0.0,,50 - 59 %,,40 - 49 %,,1,1,1995,12
+Id_v61ik1uco2,2022-03-03,2,unemployed,424.0,Suburb,North West,1.0,,,2.0,,40 - 49 %,60 - 69 %,,,1,1,2000,1
+Id_rm03xq0505,2022-03-09,2,unemployed,430.0,Urban,North West,1.0,1.0,0.0,1.0,,50 - 59 %,60 - 69 %,,,1,1,2000,2
+Id_x8gdvql2fg,2022-03-14,2,unemployed,442.0,Urban,North West,1.0,0.0,0.0,4.0,,40 - 49 %,,40 - 49 %,,1,1,2000,1
+Id_iwjxxb9h34,2021-08-11,1,wage employed,0.0,Rural,Limpopo,1.0,,,3.0,,30 - 39 %,40 - 49 %,,,1,1,1995,2
+Id_c6pqbm2wyv,2022-08-12,3,studying,,Urban,Mpumalanga,,,,,,,,,,0,1,2002,10
+Id_4vnrr3s4uy,2023-03-15,4,unemployed,1070.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,40 - 49 %,,50 - 59 %,0 - 29 %,1,1,1996,2
+Id_ownel7ybnk,2022-03-01,2,unemployed,2501.0,Urban,Northern Cape,0.0,,,3.0,,,,,,0,1,1989,9
+Id_vj9dcqpu9e,2022-02-23,2,studying,,Urban,KwaZulu-Natal,1.0,,,3.0,40 - 49 %,,60 - 69 %,,30 - 39 %,1,1,1984,4
+Id_iuzhycb1vq,2022-08-10,3,self employed,523.0,Urban,Mpumalanga,,,,,,,,,,0,1,1990,7
+Id_spcat8solh,2022-03-17,2,studying,,Urban,Eastern Cape,1.0,,,2.0,,40 - 49 %,50 - 59 %,,,0,1,2000,1
+Id_yvvmhb6w1e,2023-03-13,4,unemployed,1921.0,Rural,North West,1.0,0.0,0.0,1.0,,30 - 39 %,40 - 49 %,,,1,1,1996,6
+Id_6vvoczahnx,2022-08-02,3,wage employed,,Urban,Western Cape,1.0,0.0,0.0,4.0,,40 - 49 %,,40 - 49 %,,1,1,2000,8
+Id_3dbjfbfs00,2022-03-11,2,unemployed,64.0,Urban,Mpumalanga,1.0,,,3.0,0 - 29 %,,50 - 59 %,,,1,1,2000,1
+Id_49pusliygy,2022-02-25,2,studying,,Urban,Free State,,,,,,,,,,0,1,1998,1
+Id_nftpsfd9pk,2022-08-12,3,studying,,Urban,Western Cape,1.0,0.0,0.0,2.0,,30 - 39 %,40 - 49 %,,,0,1,2002,5
+Id_m2s3otb4jj,2022-08-11,3,unemployed,2774.0,Suburb,Gauteng,0.0,0.0,0.0,1.0,,,,,,0,1,1987,3
+Id_aj8rsxem3u,2022-03-08,2,self employed,178.0,Suburb,KwaZulu-Natal,1.0,,,4.0,0 - 29 %,,50 - 59 %,,,1,1,2003,3
+Id_ofbcp8wusw,2023-03-22,4,unemployed,2986.0,Urban,Gauteng,,,,,,,,,,1,1,1995,8
+Id_jjnj2byia3,2023-03-24,4,studying,,Rural,KwaZulu-Natal,,,,,,,,,,1,1,1996,1
+Id_3kqkvikuvl,2023-02-08,4,unemployed,730.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,2002,10
+Id_tsu6b1cq8p,2023-03-07,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2004,12
+Id_v0nvzynpqm,2022-08-04,3,other,,Suburb,Limpopo,1.0,0.0,0.0,1.0,30 - 39 %,,50 - 59 %,,,0,1,1987,9
+Id_j1opc4pyxd,2022-08-04,3,other,,Rural,KwaZulu-Natal,1.0,,,4.0,,,,,,1,1,1991,7
+Id_i60entnyr2,2023-03-16,4,unemployed,64.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1991,5
+Id_77rsnxhav0,2023-02-28,4,self employed,,Urban,Gauteng,,,,,,,,,,0,1,2004,2
+Id_vsglsglgqw,2021-08-20,1,studying,,Urban,KwaZulu-Natal,1.0,,,1.0,,,,,,0,1,2001,6
+Id_uu9ehvzpq1,2023-02-13,4,wage employed,273.0,Suburb,KwaZulu-Natal,1.0,,,2.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_vk54crp1l4,2022-02-28,2,unemployed,794.0,Suburb,Eastern Cape,1.0,,,3.0,60 - 69 %,,50 - 59 %,,50 - 59 %,0,1,1995,2
+Id_vurpswv3mx,2022-08-10,3,unemployed,614.0,Suburb,KwaZulu-Natal,1.0,1.0,0.0,5.0,70 - 79 %,,,80 - 100 %,40 - 49 %,1,1,1990,9
+Id_jfclrhuqma,2023-02-24,4,wage employed,59.0,Suburb,Eastern Cape,0.0,0.0,0.0,3.0,,,,,,0,1,1997,12
+Id_mmb0y6hjco,2022-08-10,3,unemployed,1831.0,Urban,North West,,,,,,,,,,0,1,1985,1
+Id_pgajp6ywv5,2022-07-28,3,unemployed,35.0,Suburb,Gauteng,,,,,,,,,,0,1,2002,2
+Id_62uu70ow4r,2023-03-01,4,unemployed,64.0,Rural,Eastern Cape,1.0,,,3.0,40 - 49 %,,60 - 69 %,,40 - 49 %,1,1,2000,1
+Id_ep1sr4nzew,2022-08-10,3,studying,,Suburb,KwaZulu-Natal,1.0,0.0,0.0,2.0,30 - 39 %,,60 - 69 %,,40 - 49 %,0,1,2000,6
+Id_joim66605n,2023-03-16,4,unemployed,643.0,Rural,KwaZulu-Natal,0.0,0.0,0.0,2.0,,,,,,1,1,1992,9
+Id_nodq5cuy4m,2023-02-15,4,employment programme,638.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,50 - 59 %,40 - 49 %,,,0,1,1993,7
+Id_jhrgnstlo8,2023-02-08,4,studying,,Rural,Limpopo,,,,,,,,,,0,1,2000,1
+Id_pj2uohkt3l,2022-08-11,3,unemployed,2835.0,Rural,Gauteng,,,,,,,,,,1,1,1988,9
+Id_ooa89het6b,2022-08-03,3,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,0 - 29 %,60 - 69 %,,,1,1,2000,1
+Id_a4b308etct,2023-02-06,4,unemployed,365.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2000,12
+Id_qg1hnk0jh9,2023-02-03,4,unemployed,1132.0,Suburb,Limpopo,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,,1,1,2001,5
+Id_lpmhv9d5d1,2023-02-14,4,studying,,Urban,North West,,,,,,,,,,0,1,2002,3
+Id_422tq7oddx,2022-02-25,2,unemployed,733.0,Suburb,Eastern Cape,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,1,1,1995,10
+Id_kd9p7yir6y,2022-02-24,2,wage employed,0.0,Urban,Gauteng,,,,,,,,,,1,1,1996,3
+Id_qfgs61fpzw,2022-08-04,3,other,,Suburb,KwaZulu-Natal,,,,,,,,,,1,1,1992,2
+Id_m1tmygaylx,2022-08-12,3,wage employed,,Urban,Western Cape,1.0,0.0,0.0,3.0,,,,,,0,1,1986,4
+Id_f8iw4otgov,2023-02-07,4,unemployed,944.0,Urban,North West,1.0,0.0,0.0,4.0,,60 - 69 %,50 - 59 %,,,0,1,2000,1
+Id_npm5q5nceu,2023-02-21,4,wage employed,36.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,40 - 49 %,40 - 49 %,,,0,1,1999,1
+Id_w6lxqmo0gu,2021-08-23,1,studying,,Urban,KwaZulu-Natal,1.0,,1.0,5.0,40 - 49 %,,,40 - 49 %,40 - 49 %,0,1,1990,9
+Id_x5iqeru1x8,2022-08-01,3,unemployed,127.0,Urban,Free State,,,,,,,,,,1,1,1988,1
+Id_czubwoj7ev,2021-08-23,1,unemployed,577.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,0,1,2001,6
+Id_p0u1ilaznb,2022-03-10,2,wage employed,1928.0,Urban,KwaZulu-Natal,0.0,,,,,,,,,1,1,1987,4
+Id_hxf43uzsle,2023-02-16,4,studying,,Urban,Gauteng,1.0,0.0,1.0,3.0,,70 - 79 %,60 - 69 %,,,0,1,2000,7
+Id_j3l7bpah5s,2023-03-20,4,studying,,Suburb,Gauteng,,,,,,,,,,1,1,1994,3
+Id_cj5zwtd6zu,2023-02-06,4,studying,,Urban,Free State,,,,,,,,,,0,1,1999,12
+Id_m5tg7zu2oj,2023-02-09,4,studying,,Rural,Limpopo,1.0,0.0,0.0,2.0,,30 - 39 %,50 - 59 %,,,1,1,1997,6
+Id_eybo8quh4q,2022-08-04,3,other,,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,30 - 39 %,,30 - 39 %,,,1,1,1986,6
+Id_6f76h9b2wa,2022-08-05,3,other,,Urban,Free State,1.0,,,5.0,40 - 49 %,,,60 - 69 %,40 - 49 %,0,1,2000,9
+Id_f5jgdqn5c2,2023-02-17,4,wage employed,31.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,1,1,1997,4
+Id_d5fz41i924,2022-03-08,2,studying,,Urban,Western Cape,1.0,,,5.0,,,,,,1,1,2003,2
+Id_eccqcvvblc,2023-03-23,4,unemployed,1921.0,Urban,Mpumalanga,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,1999,2
+Id_8psqr36y02,2022-03-01,2,unemployed,327.0,Urban,Gauteng,1.0,,1.0,3.0,30 - 39 %,,30 - 39 %,,,0,1,1986,11
+Id_tk9gdtvbjk,2021-08-12,1,wage employed,0.0,Urban,Gauteng,1.0,,,4.0,,,60 - 69 %,,,1,1,1987,5
+Id_ryqyq8cjow,2022-08-04,3,other,,Urban,Gauteng,1.0,1.0,0.0,3.0,50 - 59 %,,,70 - 79 %,,0,1,2000,1
+Id_v9pywdes69,2022-02-25,2,unemployed,791.0,Urban,KwaZulu-Natal,1.0,,,3.0,0 - 29 %,,60 - 69 %,,,1,1,2001,11
+Id_hyr36290f9,2023-02-17,4,unemployed,276.0,Urban,Gauteng,1.0,0.0,0.0,5.0,,40 - 49 %,,60 - 69 %,,1,1,2002,2
+Id_1xbftlpdhl,2022-08-01,3,wage employed,,Rural,Limpopo,0.0,0.0,0.0,0.0,,,,,,1,1,2001,1
+Id_zxy18w1i78,2022-08-11,3,unemployed,309.0,Urban,Mpumalanga,1.0,0.0,0.0,3.0,50 - 59 %,,40 - 49 %,,50 - 59 %,0,1,1992,7
+Id_pq9nq2lh61,2023-03-24,4,unemployed,1921.0,Rural,KwaZulu-Natal,,,,,,,,,,1,1,1999,3
+Id_2pxo6vqrhh,2022-03-02,2,unemployed,0.0,Suburb,North West,1.0,0.0,0.0,4.0,0 - 29 %,,,40 - 49 %,30 - 39 %,1,1,2000,1
+Id_xoidbttxgu,2022-09-03,3,other,,Suburb,Eastern Cape,,,,,,,,,,0,1,1998,2
+Id_39y1s17yu8,2022-03-02,2,wage employed,27.0,Rural,KwaZulu-Natal,1.0,,,4.0,,50 - 59 %,,40 - 49 %,,0,1,2001,2
+Id_j4z5gcn38a,2023-03-01,4,unemployed,1160.0,Suburb,North West,1.0,0.0,0.0,,,50 - 59 %,70 - 79 %,,,0,1,1999,10
+Id_dgt0f8g6v9,2023-02-06,4,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,,30 - 39 %,70 - 79 %,,,0,1,2004,11
+Id_x0l8xb11wn,2021-08-23,1,wage employed,0.0,Urban,Eastern Cape,1.0,,,2.0,,,,,,0,1,1995,6
+Id_ehy93j2yll,2022-03-07,2,wage employed,130.0,Urban,Northern Cape,1.0,0.0,0.0,1.0,,40 - 49 %,50 - 59 %,,,0,1,2000,1
+Id_g9uo4tisls,2023-02-23,4,unemployed,36.0,Urban,Limpopo,,,,,,,,,,0,1,2001,9
+Id_w1is0lprul,2023-02-09,4,studying,,Urban,Gauteng,,,,,,,,,,0,1,2000,11
+Id_7lj1tjq1qk,2023-03-01,4,wage employed,273.0,Urban,Gauteng,1.0,,,,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_dfrgdn3df8,2022-03-01,2,unemployed,278.0,Urban,Gauteng,0.0,,,2.0,,,,,,0,1,1998,1
+Id_m3wfylfmze,2023-02-20,4,unemployed,432.0,Urban,Limpopo,,,,,,,,,,0,1,1994,9
+Id_ajoqcrxqll,2023-03-24,4,wage employed,638.0,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,30 - 39 %,30 - 39 %,,,1,1,1991,10
+Id_fudnd5pxp4,2022-08-12,3,studying,,Urban,Gauteng,0.0,0.0,0.0,,,,,,,1,1,2003,1
+Id_ukeq77l5j3,2022-02-25,2,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1998,8
+Id_d1d9bx35xv,2022-08-04,3,unemployed,248.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,60 - 69 %,70 - 79 %,,,1,1,1995,12
+Id_yk55thl7ss,2022-08-10,3,unemployed,644.0,Urban,Gauteng,,,,,,,,,,1,1,1987,6
+Id_5skyiudw00,2022-08-01,3,other,,Rural,Limpopo,1.0,0.0,0.0,,40 - 49 %,,60 - 69 %,,30 - 39 %,1,1,1998,9
+Id_5g56ygxijd,2023-02-27,4,unemployed,1466.0,Urban,Gauteng,,,,,,,,,,0,1,1995,10
+Id_vaf4522t6l,2023-03-14,4,unemployed,1890.0,Rural,Limpopo,,,,,,,,,,1,1,1994,11
+Id_d4hwtrcf9y,2022-08-12,3,other,,Urban,Gauteng,1.0,0.0,0.0,5.0,30 - 39 %,,,40 - 49 %,30 - 39 %,1,1,2001,6
+Id_r4wl346vyh,2022-08-05,3,wage employed,,Urban,North West,1.0,0.0,0.0,3.0,40 - 49 %,,60 - 69 %,,40 - 49 %,0,1,1993,5
+Id_m7kpxmimht,2022-03-07,2,unemployed,70.0,Suburb,Eastern Cape,,,,,,,,,,0,1,2000,1
+Id_0k0elxbf2q,2022-03-17,2,studying,,Urban,Western Cape,1.0,,,3.0,30 - 39 %,,70 - 79 %,,,0,1,2000,1
+Id_sdvnioe4di,2022-07-29,3,wage employed,,Urban,Gauteng,0.0,0.0,0.0,2.0,,,,,,1,1,1997,3
+Id_vrzsyxyppr,2023-03-14,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1998,10
+Id_vgi4nzdmw6,2022-03-04,2,unemployed,1160.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,40 - 49 %,,50 - 59 %,,40 - 49 %,1,1,2000,1
+Id_tisuzjbvem,2023-03-03,4,unemployed,398.0,Urban,Free State,,,,,,,,,,0,1,1992,11
+Id_itotco83ch,2023-02-06,4,unemployed,798.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2000,1
+Id_ac2rnqxi02,2022-08-05,3,unemployed,948.0,Rural,KwaZulu-Natal,1.0,,,1.0,,40 - 49 %,50 - 59 %,,,0,1,1999,9
+Id_3ph56e28f7,2023-02-13,4,unemployed,36.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2000,9
+Id_pmgaqihqu2,2023-02-14,4,unemployed,671.0,Urban,Gauteng,1.0,0.0,0.0,,40 - 49 %,,50 - 59 %,,40 - 49 %,1,1,2000,1
+Id_vyxgfiuwgx,2023-02-27,4,wage employed,181.0,Urban,Gauteng,,,,,,,,,,0,1,1995,4
+Id_gfr71u4frc,2023-02-27,4,wage employed,1614.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,60 - 69 %,60 - 69 %,,,0,1,1994,10
+Id_bpa5n8e8du,2022-03-18,2,unemployed,305.0,Urban,Mpumalanga,,,,,,,,,,0,1,2000,1
+Id_sxrcaq8e7j,2023-03-20,4,unemployed,3195.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,4.0,,,,,,1,1,1989,6
+Id_p6hyhxyjgu,2023-02-06,4,unemployed,1132.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,30 - 39 %,40 - 49 %,,,1,1,2000,2
+Id_28l8ftnv6n,2022-07-28,3,unemployed,186.0,Rural,Limpopo,1.0,0.0,0.0,2.0,,30 - 39 %,40 - 49 %,,,0,1,2001,10
+Id_7l1xhhhuxo,2023-02-08,4,wage employed,1247.0,Urban,Free State,1.0,0.0,0.0,3.0,50 - 59 %,,50 - 59 %,,0 - 29 %,0,1,1991,1
+Id_85ymdirg05,2023-02-21,4,unemployed,36.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,0 - 29 %,50 - 59 %,,,0,1,1998,3
+Id_3y6fo5wdfn,2023-03-07,4,wage employed,123.0,Urban,Limpopo,1.0,0.0,0.0,,,,50 - 59 %,,,1,1,1992,2
+Id_2huhneam6k,2023-02-24,4,studying,,Urban,Gauteng,0.0,0.0,0.0,0.0,,,,,,0,1,2003,8
+Id_oqw1u49nlv,2023-02-27,4,wage employed,214.0,Urban,Limpopo,,,,,,,,,,0,1,1991,10
+Id_oigbk11pvo,2022-03-03,2,unemployed,104.0,Urban,Northern Cape,1.0,0.0,0.0,4.0,,30 - 39 %,60 - 69 %,,,1,1,2000,1
+Id_7yjooi5p7k,2023-02-27,4,studying,,Urban,Limpopo,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,1999,6
+Id_v0pui7hslo,2023-03-09,4,studying,,Rural,Mpumalanga,1.0,1.0,0.0,5.0,,50 - 59 %,,50 - 59 %,,1,1,2000,10
+Id_2rca0nunlo,2023-03-20,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1994,3
+Id_ddt54xuc20,2023-02-28,4,unemployed,36.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1998,12
+Id_18a40506ko,2023-02-27,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,,70 - 79 %,,,0,1,2003,11
+Id_t5ujpo0isy,2023-02-16,4,unemployed,707.0,Rural,North West,1.0,0.0,0.0,2.0,,60 - 69 %,60 - 69 %,,,1,1,1996,11
+Id_yakqrme1je,2022-02-24,2,unemployed,2891.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,1.0,40 - 49 %,,50 - 59 %,,30 - 39 %,1,1,1995,10
+Id_3q4y21ciis,2023-03-01,4,unemployed,761.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_9dczebw4q8,2023-03-01,4,wage employed,151.0,Urban,Gauteng,1.0,0.0,0.0,1.0,30 - 39 %,,70 - 79 %,,0 - 29 %,1,1,2000,1
+Id_wwrkqix53m,2023-02-08,4,unemployed,97.0,Urban,Eastern Cape,,,,,,,,,,0,1,1995,3
+Id_6xwhl6stg5,2023-02-28,4,unemployed,828.0,Rural,Gauteng,,,,,,,,,,0,1,1999,4
+Id_ze86clhl8i,2023-02-22,4,studying,,Urban,Gauteng,1.0,0.0,0.0,,30 - 39 %,,40 - 49 %,,,0,1,1991,4
+Id_eidkgfmnms,2023-02-06,4,unemployed,334.0,Urban,Gauteng,1.0,0.0,0.0,,,0 - 29 %,,30 - 39 %,,0,1,2000,6
+Id_ybmmyl9b2v,2022-08-11,3,wage employed,36.0,Urban,Gauteng,1.0,,,5.0,40 - 49 %,,,50 - 59 %,50 - 59 %,0,1,2000,8
+Id_3ltlzi20th,2023-03-22,4,studying,,Urban,Eastern Cape,,,,,,,,,,1,1,2003,9
+Id_gf1rbol0lr,2023-03-16,4,unemployed,429.0,Suburb,Western Cape,1.0,0.0,0.0,1.0,,40 - 49 %,50 - 59 %,,,1,1,2001,4
+Id_912tii1shu,2022-08-02,3,self employed,583.0,Suburb,Western Cape,,,,,,,,,,0,1,2002,1
+Id_swgy10t1q3,2023-03-24,4,wage employed,273.0,Rural,KwaZulu-Natal,0.0,,,,,,,,,1,1,1992,2
+Id_weipxgsg6e,2021-08-16,1,wage employed,,Urban,Gauteng,0.0,,,,,,,,,1,1,1988,11
+Id_iyn6n465o5,2023-03-22,4,studying,,Rural,Mpumalanga,,,,,,,,,,1,1,1990,1
+Id_68thyri47a,2023-03-17,4,unemployed,1160.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,5.0,0 - 29 %,,60 - 69 %,,0 - 29 %,1,1,2000,1
+Id_f6nxtd2zs9,2022-02-24,2,unemployed,365.0,Urban,Mpumalanga,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,1,1,1995,11
+Id_fb2jnkslsl,2022-07-29,3,wage employed,,Urban,Gauteng,0.0,0.0,0.0,,,,,,,1,1,1995,8
+Id_xqvxr3k342,2023-02-15,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2000,3
+Id_esjmypg3bn,2023-03-13,4,wage employed,242.0,Rural,North West,1.0,0.0,0.0,1.0,30 - 39 %,,60 - 69 %,,,1,1,1997,2
+Id_3yg0tc6v9w,2022-03-16,2,studying,,Urban,Gauteng,1.0,,,,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_du9euwc63f,2022-08-01,3,wage employed,127.0,Rural,Mpumalanga,,,,,,,,,,0,1,1990,12
+Id_faga8imfg5,2022-09-03,3,unemployed,426.0,Rural,Eastern Cape,1.0,0.0,0.0,2.0,,50 - 59 %,60 - 69 %,,,0,1,1997,8
+Id_6wvvy2qvsy,2023-02-20,4,unemployed,462.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1989,12
+Id_y9tcgpjgkw,2022-03-01,2,wage employed,151.0,Rural,Limpopo,1.0,0.0,0.0,2.0,30 - 39 %,,60 - 69 %,,50 - 59 %,0,1,2002,5
+Id_0zja78viwr,2023-02-21,4,unemployed,401.0,Urban,Mpumalanga,,,,,,,,,,0,1,1999,10
+Id_35me5s5yvf,2021-08-17,1,studying,,Suburb,Eastern Cape,1.0,0.0,1.0,3.0,40 - 49 %,,60 - 69 %,,60 - 69 %,1,1,1999,6
+Id_ix175ensij,2022-03-14,2,unemployed,808.0,Urban,Limpopo,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_n2zxmu7ra1,2022-03-01,2,wage employed,2167.0,Urban,Gauteng,,,,,,,,,,0,1,1981,9
+Id_m8suo0zmki,2022-07-28,3,unemployed,1131.0,Urban,Gauteng,,,,,,,,,,0,1,1997,11
+Id_wy2oxw7n6r,2023-03-03,4,unemployed,64.0,Rural,Mpumalanga,,,,,,,,,,0,1,2002,4
+Id_kuj2kag90c,2023-03-01,4,wage employed,61.0,Urban,Mpumalanga,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,1997,5
+Id_td396iyygk,2023-03-06,4,studying,,Urban,Gauteng,1.0,0.0,0.0,,40 - 49 %,,,60 - 69 %,40 - 49 %,1,1,2004,11
+Id_ucb53zt9tj,2023-03-14,4,studying,,Rural,Mpumalanga,0.0,0.0,0.0,3.0,,,,,,1,1,1999,5
+Id_4hdsmg90hl,2023-03-20,4,wage employed,153.0,Urban,Free State,,,,,,,,,,1,1,1995,4
+Id_t69ym4q6dm,2023-03-14,4,unemployed,429.0,Urban,Eastern Cape,,,,,,,,,,1,1,2000,4
+Id_njapvhm019,2022-08-05,3,unemployed,2166.0,Urban,Free State,0.0,,,3.0,,,,,,0,1,1987,9
+Id_snuijc58w2,2023-02-22,4,unemployed,36.0,Urban,Free State,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,30 - 39 %,0,1,2001,5
+Id_txcj5rqwbq,2023-03-13,4,unemployed,429.0,Urban,Mpumalanga,1.0,0.0,0.0,3.0,30 - 39 %,,60 - 69 %,,40 - 49 %,1,1,2002,7
+Id_p1fjjzl2x8,2022-07-29,3,other,,Rural,Limpopo,,,,,,,,,,0,1,1998,2
+Id_0dn7l3h91p,2023-02-01,4,wage employed,30.0,Suburb,Gauteng,,,,,,,,,,0,1,1995,9
+Id_hzvstpxonl,2022-08-11,3,wage employed,,Urban,Eastern Cape,0.0,,,3.0,,,,,,0,1,1988,4
+Id_rqokia7fqo,2021-08-19,1,wage employed,0.0,Urban,Mpumalanga,1.0,0.0,0.0,2.0,,50 - 59 %,40 - 49 %,,,1,1,1996,8
+Id_0ebo4xyc83,2022-07-28,3,other,,Urban,Gauteng,,,,,,,,,,0,1,2002,1
+Id_dua60u5h9k,2022-08-10,3,other,,Urban,Eastern Cape,0.0,0.0,0.0,3.0,,,,,,1,1,1993,7
+Id_q14lcr5y5l,2023-02-07,4,other,,Urban,Gauteng,1.0,0.0,0.0,,,30 - 39 %,30 - 39 %,,,0,1,1999,7
+Id_1o0nts3955,2023-03-09,4,unemployed,1525.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,1998,3
+Id_54jht37a9a,2021-08-18,1,wage employed,0.0,Urban,Gauteng,0.0,,,3.0,,,,,,0,1,1998,10
+Id_pj4qgzfxma,2023-02-02,4,unemployed,67.0,Urban,Gauteng,,,,,,,,,,0,1,2004,4
+Id_x0lwfw7omd,2023-03-16,4,studying,,Rural,Limpopo,,,,,,,,,,1,1,2003,5
+Id_aregt409q5,2023-02-22,4,unemployed,767.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,0,1,2000,8
+Id_yqc16lvj7q,2023-03-20,4,unemployed,64.0,Urban,Eastern Cape,,,,,,,,,,1,1,1999,12
+Id_bya9lkmylx,2023-02-13,4,unemployed,36.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,1,1,2003,11
+Id_l6jdqtgddq,2023-02-16,4,self employed,,Urban,Limpopo,1.0,0.0,0.0,2.0,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_ddt6pfv1hm,2022-07-29,3,unemployed,186.0,Urban,Gauteng,,,,,,,,,,0,1,1999,3
+Id_w4i6jq2b9o,2023-02-14,4,unemployed,767.0,Urban,Eastern Cape,1.0,,,2.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_9qfh2hulaw,2023-02-13,4,other,,Urban,Gauteng,1.0,0.0,1.0,4.0,80 - 100 %,,,70 - 79 %,60 - 69 %,0,1,1996,12
+Id_ik4z1c052r,2022-08-10,3,studying,,Urban,KwaZulu-Natal,1.0,1.0,0.0,5.0,70 - 79 %,,,70 - 79 %,60 - 69 %,0,1,1998,3
+Id_6p2rblsbkj,2022-08-10,3,studying,,Urban,KwaZulu-Natal,1.0,,,,,40 - 49 %,,30 - 39 %,,0,1,2000,12
+Id_fs45ca34dz,2022-03-17,2,wage employed,485.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,2000,1
+Id_z240vn4lrr,2023-02-16,4,studying,,Urban,Northern Cape,0.0,0.0,0.0,,,,,,,1,1,2000,8
+Id_orl6nt19yk,2023-02-13,4,unemployed,342.0,Urban,Eastern Cape,0.0,0.0,0.0,3.0,,,,,,1,1,2000,1
+Id_yt6b754k6l,2021-08-23,1,studying,,Urban,KwaZulu-Natal,1.0,,,3.0,,40 - 49 %,50 - 59 %,,,0,1,1997,5
+Id_ja431y5ldo,2021-08-12,1,wage employed,0.0,Suburb,Northern Cape,1.0,0.0,0.0,3.0,,30 - 39 %,60 - 69 %,,,1,1,1991,5
+Id_nfqptndvg7,2022-08-05,3,wage employed,,Urban,North West,1.0,0.0,0.0,3.0,50 - 59 %,,50 - 59 %,,40 - 49 %,0,1,1998,1
+Id_wohsfy1vk0,2023-02-08,4,studying,,Urban,Limpopo,,,,,,,,,,1,1,2000,2
+Id_0wan1z7ylr,2023-02-17,4,unemployed,1497.0,Suburb,KwaZulu-Natal,,,,,,,,,,0,1,1999,11
+Id_ji7rhas44s,2022-02-28,2,wage employed,253.0,Urban,Gauteng,,,,,,,,,,0,1,1990,3
+Id_3mkmnsmjsx,2023-03-23,4,unemployed,2986.0,Rural,Mpumalanga,,,,,,,,,,1,1,1993,5
+Id_23xbq86rmi,2022-03-15,2,unemployed,64.0,Rural,Limpopo,,,,,,,,,,1,1,2000,1
+Id_tfw9caz6hw,2023-02-06,4,wage employed,31.0,Suburb,Gauteng,,,,,,,,,,0,1,2000,1
+Id_7wuxjjf6jz,2022-07-29,3,studying,,Urban,Gauteng,,,,,,,,,,1,1,1999,4
+Id_9nllh07a45,2022-03-16,2,unemployed,76.0,Urban,KwaZulu-Natal,1.0,0.0,1.0,2.0,40 - 49 %,,60 - 69 %,,,1,1,2000,1
+Id_o379zlajhg,2023-03-15,4,unemployed,795.0,Rural,North West,0.0,0.0,0.0,,,,,,,1,1,1999,8
+Id_51bp7sl39b,2023-03-07,4,studying,,Rural,Limpopo,,,,,,,,,,1,1,1996,8
+Id_6sjnt9ewkf,2022-08-01,3,other,,Urban,Gauteng,,,,,,,,,,0,1,1996,8
+Id_90g4n8so17,2023-02-17,4,studying,,Urban,Limpopo,1.0,0.0,0.0,,,50 - 59 %,40 - 49 %,,,0,1,1999,7
+Id_32zf56l9ce,2022-03-17,2,wage employed,70.0,Urban,Western Cape,1.0,0.0,0.0,1.0,,60 - 69 %,50 - 59 %,,,0,1,2000,1
+Id_lpzyo9wovz,2022-08-12,3,other,,Urban,Gauteng,1.0,0.0,1.0,2.0,40 - 49 %,,60 - 69 %,,50 - 59 %,0,1,1996,1
+Id_zsurfh92rx,2023-02-07,4,unemployed,1461.0,Rural,Eastern Cape,1.0,,,,0 - 29 %,,50 - 59 %,,,0,1,2000,1
+Id_z1f2ofu2m7,2022-03-02,2,unemployed,431.0,Urban,Limpopo,1.0,0.0,0.0,3.0,,60 - 69 %,60 - 69 %,,,1,1,2000,1
+Id_wggs2pd689,2023-02-06,4,self employed,,Urban,Eastern Cape,1.0,0.0,0.0,4.0,,40 - 49 %,,50 - 59 %,,0,1,2002,1
+Id_12pix46sq5,2023-03-14,4,studying,,Urban,Northern Cape,1.0,0.0,0.0,,,50 - 59 %,50 - 59 %,,,1,1,2002,2
+Id_d6dzxett5v,2022-03-17,2,studying,,Rural,Eastern Cape,,,,,,,,,,0,1,2000,1
+Id_uibpdvcxxw,2022-07-28,3,studying,,Urban,Gauteng,1.0,0.0,0.0,,,0 - 29 %,40 - 49 %,,,0,1,2003,1
+Id_xcaf3403r3,2021-08-12,1,wage employed,0.0,Urban,KwaZulu-Natal,0.0,,,4.0,,,,,,1,1,1997,4
+Id_0qkp6qkbo9,2022-03-01,2,studying,,Urban,Gauteng,1.0,,,0.0,60 - 69 %,,60 - 69 %,,50 - 59 %,0,1,2000,1
+Id_so426trxo8,2023-03-23,4,studying,,Urban,Mpumalanga,,,,,,,,,,1,1,1996,4
+Id_u611py2ky6,2022-07-28,3,studying,,Urban,Gauteng,,,,,,,,,,0,1,2001,2
+Id_tk8ffyupvu,2023-02-20,4,studying,,Urban,Gauteng,0.0,0.0,0.0,3.0,,,,,,0,1,1999,11
+Id_n1d582upwu,2023-02-21,4,wage employed,91.0,Urban,Mpumalanga,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,2001,9
+Id_0h4wjg60gi,2022-03-02,2,unemployed,64.0,Urban,Gauteng,1.0,0.0,0.0,4.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_80yx5alq3y,2023-02-10,4,other,,Urban,Western Cape,0.0,0.0,0.0,3.0,,,,,,0,1,1996,1
+Id_czvt7bf7ki,2023-02-24,4,unemployed,97.0,Suburb,Limpopo,1.0,0.0,0.0,1.0,,60 - 69 %,40 - 49 %,,,0,1,1999,9
+Id_kwctpclm9t,2023-02-16,4,studying,,Rural,Limpopo,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,0,1,1997,2
+Id_48zj3eol10,2023-02-07,4,unemployed,36.0,Urban,North West,,,,,,,,,,0,1,1999,6
+Id_l779nt9yjb,2022-03-08,2,unemployed,365.0,Urban,Western Cape,1.0,,,4.0,,,,,,0,1,1995,1
+Id_3ugtpl2q57,2023-03-13,4,wage employed,458.0,Rural,North West,1.0,0.0,0.0,,,30 - 39 %,,40 - 49 %,,1,1,1996,12
+Id_eg3epayu42,2022-03-14,2,studying,,Urban,Gauteng,1.0,,,,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_ifrw8syp5g,2023-02-13,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,60 - 69 %,,,60 - 69 %,60 - 69 %,0,1,2000,7
+Id_kujzry3zci,2023-02-27,4,unemployed,401.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2003,1
+Id_6imbemuog9,2023-02-09,4,studying,,Urban,Gauteng,,,,,,,,,,0,1,2002,4
+Id_o0a66e9rg5,2022-03-02,2,unemployed,670.0,Urban,KwaZulu-Natal,1.0,1.0,0.0,3.0,30 - 39 %,,50 - 59 %,,,0,1,1992,1
+Id_c7kurdpczj,2022-08-03,3,other,,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,60 - 69 %,70 - 79 %,,,0,1,1999,4
+Id_n7tjndhbru,2021-08-12,1,unemployed,424.0,Urban,KwaZulu-Natal,1.0,0.0,1.0,4.0,,40 - 49 %,60 - 69 %,,,1,1,1997,3
+Id_2269pxi40v,2022-03-04,2,wage employed,31.0,Urban,Western Cape,0.0,0.0,0.0,,,,,,,1,1,2000,1
+Id_btgny8lytz,2023-03-14,4,studying,,Urban,Limpopo,,,,,,,,,,1,1,1999,6
+Id_kf192e9qp8,2023-02-08,4,unemployed,36.0,Urban,Limpopo,,,,,,,,,,1,1,1991,8
+Id_ul2v3z8uh0,2023-03-02,4,wage employed,273.0,Rural,Eastern Cape,,,,,,,,,,1,1,2000,1
+Id_wt3eblrwki,2022-08-04,3,self employed,,Urban,Mpumalanga,1.0,0.0,0.0,4.0,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,1992,10
+Id_h21k8bi3rd,2023-03-22,4,unemployed,1739.0,Urban,Limpopo,,,,,,,,,,1,1,1990,6
+Id_mbkyac0b38,2022-08-04,3,wage employed,705.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,0 - 29 %,,40 - 49 %,,,0,1,1988,4
+Id_skaa0uor5e,2023-02-15,4,studying,,Urban,Gauteng,1.0,,,3.0,0 - 29 %,,50 - 59 %,,,0,1,2000,1
+Id_4253yprz3t,2022-03-16,2,unemployed,79.0,Urban,Gauteng,1.0,,,5.0,,40 - 49 %,60 - 69 %,,,1,1,2000,1
+Id_yh6zgz0ozn,2022-03-03,2,studying,,Urban,Gauteng,1.0,0.0,0.0,4.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_huqwsqixpf,2022-08-15,3,other,,Urban,Gauteng,,,,,,,,,,0,1,1972,8
+Id_blaa7rao4e,2022-03-03,2,wage employed,92.0,Urban,KwaZulu-Natal,1.0,,,4.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_pgi4wiieae,2023-03-01,4,studying,,Rural,Limpopo,,,,,,,,,,0,1,2002,3
+Id_ltketfcwx8,2023-02-06,4,wage employed,304.0,Urban,Gauteng,,,,,,,,,,1,1,1992,7
+Id_hdqud85267,2023-03-01,4,unemployed,735.0,Urban,Western Cape,,,,,,,,,,0,1,1989,8
+Id_mbkuq5r0tj,2022-08-04,3,wage employed,,Urban,KwaZulu-Natal,1.0,0.0,1.0,2.0,,40 - 49 %,40 - 49 %,,,1,1,1997,10
+Id_kts979c6d3,2021-08-18,1,studying,,Rural,KwaZulu-Natal,0.0,,,1.0,,,,,,1,1,1986,6
+Id_w4evnjwo1b,2023-03-08,4,unemployed,1374.0,Rural,North West,,,,,,,,,,1,1,1996,9
+Id_65lz8d775l,2022-03-15,2,unemployed,1539.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,50 - 59 %,,80 - 100 %,,50 - 59 %,1,1,2000,1
+Id_oekrongesz,2022-03-01,2,unemployed,64.0,Urban,Gauteng,0.0,,,4.0,,,,,,0,1,2001,4
+Id_7q1qgcg1z2,2022-02-24,2,wage employed,989.0,Urban,Gauteng,1.0,,,,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,1996,6
+Id_9itt0mvut2,2023-02-02,4,wage employed,273.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,30 - 39 %,,50 - 59 %,,,0,1,2000,1
+Id_aw2m1l9pl3,2022-08-05,3,unemployed,66.0,Urban,Eastern Cape,0.0,0.0,0.0,3.0,,,,,,1,1,1987,2
+Id_tp130oylun,2022-08-02,3,unemployed,431.0,Urban,Western Cape,1.0,0.0,0.0,5.0,,50 - 59 %,,40 - 49 %,0 - 29 %,0,1,1994,9
+Id_vu0go4qig8,2023-02-13,4,wage employed,62.0,Urban,North West,1.0,,,1.0,,50 - 59 %,60 - 69 %,,,0,1,2000,1
+Id_3p2we0xrhp,2022-08-12,3,other,,Urban,Free State,1.0,,,3.0,,,,,,0,1,1998,10
+Id_a87t2vzq79,2022-07-29,3,studying,,Suburb,Gauteng,,,,,,,,,,1,1,2001,6
+Id_usy9mr0vda,2023-02-07,4,self employed,,Urban,Gauteng,1.0,0.0,0.0,4.0,0 - 29 %,,50 - 59 %,,,0,1,1998,7
+Id_0i3gib3ccr,2023-02-14,4,unemployed,36.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2004,3
+Id_obcqaeuu2h,2022-02-25,2,unemployed,158.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,,,,,1,1,1986,12
+Id_oylsv0e008,2022-08-15,3,wage employed,,Suburb,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,0,1,1987,2
+Id_otsrdmmvex,2022-02-25,2,self employed,457.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,0 - 29 %,,70 - 79 %,,30 - 39 %,1,1,2003,8
+Id_hct3htn53j,2023-02-21,4,unemployed,432.0,Urban,Gauteng,,,,,,,,,,0,1,1996,9
+Id_bww7r8u7fz,2023-02-13,4,unemployed,1772.0,Urban,Limpopo,1.0,0.0,0.0,,,50 - 59 %,30 - 39 %,,,0,1,1991,12
+Id_stg8se4gth,2023-02-16,4,unemployed,798.0,Urban,North West,1.0,,,,0 - 29 %,,70 - 79 %,,,1,1,2000,1
+Id_2hj9e5d4df,2023-03-14,4,other,,Suburb,North West,,,,,,,,,,1,1,1989,10
+Id_5953c2fph5,2022-07-28,3,self employed,1101.0,Urban,Gauteng,,,,,,,,,,0,1,1989,10
+Id_vhj0rr0pf3,2021-08-18,1,self employed,357.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,60 - 69 %,,,0,1,1998,5
+Id_5ujqt60emb,2023-02-27,4,studying,,Urban,Northern Cape,1.0,1.0,0.0,3.0,50 - 59 %,,60 - 69 %,,,0,1,1988,12
+Id_vqqf2oglsl,2022-03-02,2,unemployed,431.0,Urban,Mpumalanga,1.0,0.0,0.0,2.0,0 - 29 %,,60 - 69 %,,0 - 29 %,1,1,2000,1
+Id_74m6uo00zo,2022-08-05,3,unemployed,339.0,Urban,North West,,,,,,,,,,0,1,1994,9
+Id_q8bp71i0cx,2023-03-17,4,studying,,Suburb,KwaZulu-Natal,,,,,,,,,,1,1,2002,1
+Id_qtob5v3gg5,2022-02-28,2,unemployed,67.0,Urban,Gauteng,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,2002,8
+Id_u34a6v0xe4,2023-03-15,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,1989,9
+Id_dyxhkjt62k,2023-02-09,4,wage employed,245.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1988,9
+Id_gq2yp028hm,2022-02-24,2,unemployed,258.0,Urban,Gauteng,1.0,,,3.0,40 - 49 %,,,60 - 69 %,40 - 49 %,1,1,1997,8
+Id_vkovnl2bor,2023-03-06,4,studying,,Urban,Gauteng,1.0,0.0,0.0,,,50 - 59 %,60 - 69 %,,,1,1,1999,10
+Id_716j65p14t,2021-08-18,1,other,,Urban,KwaZulu-Natal,1.0,,,0.0,,70 - 79 %,,70 - 79 %,,1,1,1997,10
+Id_znwp5oxeuj,2021-08-13,1,wage employed,0.0,Urban,Gauteng,1.0,,,2.0,70 - 79 %,,80 - 100 %,,70 - 79 %,0,1,2000,6
+Id_wzingkkiyy,2023-02-21,4,unemployed,1893.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,,50 - 59 %,,40 - 49 %,,0,1,1998,3
+Id_lg0oidihkb,2022-08-05,3,other,,Suburb,Gauteng,1.0,,,,,60 - 69 %,,60 - 69 %,30 - 39 %,1,1,1998,8
+Id_wyftha2yzm,2022-03-14,2,unemployed,430.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_qelisjmvu7,2022-03-01,2,unemployed,1160.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,70 - 79 %,,70 - 79 %,,80 - 100 %,0,1,1999,9
+Id_mxz5t2f6s2,2023-02-10,4,wage employed,61.0,Urban,Western Cape,1.0,0.0,0.0,3.0,,40 - 49 %,,40 - 49 %,,1,1,2001,6
+Id_qvahu4fhl2,2023-03-13,4,unemployed,64.0,Urban,Free State,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,1,1,2002,8
+Id_7pvavmi8nj,2023-02-15,4,unemployed,401.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,40 - 49 %,40 - 49 %,,,1,1,2000,1
+Id_h44mik7o77,2023-02-09,4,unemployed,1528.0,Urban,Gauteng,1.0,,,3.0,,60 - 69 %,,40 - 49 %,,1,1,2000,1
+Id_weqxxjsxlp,2021-08-17,1,studying,,Urban,Western Cape,1.0,,,5.0,,,,,,1,1,2002,2
+Id_xwrdohgwwb,2022-03-15,2,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_ue7i5njaj5,2023-03-03,4,unemployed,1374.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1994,11
+Id_j5cytxk3fd,2022-08-05,3,unemployed,583.0,Rural,North West,1.0,0.0,0.0,3.0,0 - 29 %,,40 - 49 %,,40 - 49 %,0,1,2001,9
+Id_hc1dkq1ull,2022-02-22,2,wage employed,358.0,Urban,Gauteng,0.0,,,4.0,,,,,,1,1,1997,1
+Id_p58fra4ibh,2023-02-09,4,self employed,,Urban,Mpumalanga,1.0,0.0,0.0,0.0,,30 - 39 %,40 - 49 %,,,0,1,1996,8
+Id_rn6k0x8gmm,2023-03-01,4,wage employed,92.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2000,1
+Id_gz00pekb5w,2023-02-09,4,self employed,67.0,Rural,Limpopo,,,,,,,,,,0,1,1997,8
+Id_hif7jaoik7,2023-03-20,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,1990,3
+Id_j0wtahm9rq,2023-03-22,4,unemployed,761.0,Urban,Gauteng,1.0,0.0,0.0,2.0,0 - 29 %,,60 - 69 %,,,1,1,2003,1
+Id_qgfy4fz54l,2022-08-04,3,unemployed,583.0,Urban,Limpopo,1.0,0.0,0.0,1.0,40 - 49 %,,60 - 69 %,,40 - 49 %,0,1,2001,12
+Id_hcr6kog2wz,2021-08-12,1,wage employed,0.0,Suburb,Gauteng,1.0,,,5.0,,,,,,1,1,1998,3
+Id_pfrxx17160,2023-02-17,4,wage employed,120.0,Urban,Limpopo,1.0,,,2.0,,40 - 49 %,50 - 59 %,,,0,1,1995,8
+Id_b9sapq7j2q,2022-08-10,3,unemployed,66.0,Urban,Gauteng,1.0,,,,,30 - 39 %,40 - 49 %,,,1,1,1995,5
+Id_cixet4eqi7,2022-08-02,3,unemployed,217.0,Urban,Western Cape,1.0,0.0,0.0,5.0,30 - 39 %,,,50 - 59 %,30 - 39 %,1,1,2002,6
+Id_b90o4ez0z4,2023-03-22,4,studying,,Rural,North West,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,1,1,2001,12
+Id_0dvymsm4j7,2023-03-23,4,wage employed,487.0,Urban,Gauteng,0.0,0.0,0.0,1.0,,,,,,1,1,2000,4
+Id_lx7nws3o9q,2022-02-24,2,studying,,Urban,Gauteng,1.0,,1.0,4.0,0 - 29 %,,50 - 59 %,,,1,1,1993,8
+Id_tdzspuyh38,2022-02-28,2,unemployed,369.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1999,9
+Id_bsw59bkm6d,2022-02-24,2,unemployed,609.0,Rural,Eastern Cape,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,1,1,1991,9
+Id_2sba7x3j8l,2022-03-01,2,unemployed,158.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,,40 - 49 %,,,0,1,1998,4
+Id_6rgcbx1ckw,2022-03-17,2,unemployed,446.0,Urban,Free State,1.0,,,1.0,,50 - 59 %,50 - 59 %,,,0,1,2000,1
+Id_t5z0yd2mzp,2023-02-13,4,unemployed,67.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,0 - 29 %,30 - 39 %,,,0,1,2002,5
+Id_5ibig32cv0,2021-08-23,1,studying,,Urban,Eastern Cape,1.0,1.0,,2.0,,,,,,0,1,1986,6
+Id_0ep1wdjasa,2023-02-10,4,studying,,Rural,North West,1.0,0.0,0.0,1.0,,30 - 39 %,60 - 69 %,,,1,1,2001,6
+Id_e52lzlle5k,2022-07-28,3,wage employed,,Urban,Gauteng,1.0,0.0,0.0,5.0,,60 - 69 %,,60 - 69 %,50 - 59 %,0,1,1992,11
+Id_emkugrtqlc,2022-08-03,3,wage employed,,Urban,KwaZulu-Natal,0.0,0.0,0.0,3.0,,,,,,0,1,1996,11
+Id_h4ited8c70,2023-02-21,4,unemployed,401.0,Rural,North West,1.0,0.0,0.0,2.0,,50 - 59 %,50 - 59 %,,,0,1,2002,9
+Id_6eew450lnh,2023-03-01,4,wage employed,92.0,Suburb,Western Cape,1.0,0.0,0.0,,,0 - 29 %,,40 - 49 %,,1,1,2000,1
+Id_689obromvr,2021-08-19,1,studying,,Urban,Gauteng,1.0,,,1.0,,,,,,1,1,2001,6
+Id_vp5x8v01p2,2022-08-10,3,wage employed,212.0,Suburb,Gauteng,1.0,0.0,0.0,2.0,,,50 - 59 %,,,1,1,1997,3
+Id_f48v2b18z7,2022-08-02,3,wage employed,,Urban,Western Cape,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,1,1,1998,5
+Id_96s31b2x09,2023-02-16,4,studying,,Suburb,KwaZulu-Natal,1.0,0.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,0,1,2000,1
+Id_mq2wtuondl,2022-08-05,3,other,,Urban,KwaZulu-Natal,1.0,,,4.0,,50 - 59 %,50 - 59 %,,,0,1,1997,8
+Id_bcx5rz5dw7,2023-03-22,4,unemployed,1890.0,Suburb,Mpumalanga,,,,,,,,,,1,1,1993,1
+Id_hzly0pe4t3,2023-02-16,4,wage employed,245.0,Urban,Gauteng,,,,,,,,,,1,1,1995,7
+Id_3as9l7qps0,2022-02-24,2,unemployed,1155.0,Urban,Western Cape,0.0,0.0,0.0,,,,,,,1,1,1997,10
+Id_5w39l1m4db,2022-03-02,2,studying,,Suburb,KwaZulu-Natal,1.0,1.0,,5.0,30 - 39 %,,,60 - 69 %,,1,1,2000,1
+Id_b4v78yjpr8,2023-02-09,4,unemployed,122.0,Urban,Western Cape,,,,,,,,,,0,1,2002,1
+Id_hndnxrot6d,2023-03-20,4,studying,,Rural,Limpopo,,,,,,,,,,1,1,1997,5
+Id_1umqo2101t,2022-08-04,3,unemployed,97.0,Urban,Gauteng,1.0,0.0,1.0,1.0,0 - 29 %,,50 - 59 %,,,1,1,1998,9
+Id_fbmisaw589,2023-02-07,4,studying,,Urban,Gauteng,1.0,0.0,0.0,5.0,0 - 29 %,,,60 - 69 %,40 - 49 %,1,1,2000,1
+Id_fepr7c7ald,2022-08-02,3,studying,,Urban,Western Cape,,,,,,,,,,0,1,2000,11
+Id_1nponls3y6,2022-08-04,3,unemployed,614.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,3.0,,,,,,1,1,1995,11
+Id_e3pelntdie,2022-03-14,2,employment programme,534.0,Urban,Gauteng,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,0 - 29 %,1,1,2000,1
+Id_opb265ilvi,2023-02-15,4,unemployed,981.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,0 - 29 %,0,1,1994,9
+Id_r92o07c9vt,2023-03-03,4,unemployed,1525.0,Rural,North West,,,,,,,,,,0,1,1995,8
+Id_vs9y91wm85,2022-08-02,3,wage employed,,Rural,Western Cape,,,,,,,,,,0,1,1994,4
+Id_mdqg1y14jp,2022-08-12,3,wage employed,244.0,Urban,Western Cape,,,,,,,,,,0,1,1988,4
+Id_o8q09fzis3,2022-02-23,2,unemployed,424.0,Urban,Gauteng,0.0,,,2.0,,,,,,1,1,2001,1
+Id_fbiq5gpnkm,2022-02-23,2,unemployed,740.0,Suburb,Gauteng,,,,,,,,,,1,1,1996,4
+Id_jjk5kuiv3u,2021-08-18,1,studying,,Urban,Gauteng,0.0,,,3.0,,,,,,0,1,2001,4
+Id_eyuxuig212,2022-03-15,2,unemployed,139.0,Suburb,Mpumalanga,,,,,,,,,,1,1,2000,1
+Id_oqyrtj9gkf,2023-02-07,4,studying,,Suburb,Mpumalanga,1.0,1.0,0.0,4.0,30 - 39 %,,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_htp5g3tofn,2022-08-08,3,unemployed,1313.0,Urban,Free State,1.0,0.0,0.0,3.0,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,1999,8
+Id_2zmysqu0kp,2023-02-20,4,unemployed,707.0,Suburb,KwaZulu-Natal,,,,,,,,,,0,1,1997,9
+Id_6ztxctvwpr,2022-02-25,2,unemployed,150.0,Urban,Eastern Cape,1.0,0.0,0.0,3.0,30 - 39 %,,60 - 69 %,,30 - 39 %,1,1,1991,6
+Id_tqhd7uflt3,2023-02-28,4,unemployed,1132.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2000,8
+Id_2nr45wi83i,2023-02-15,4,studying,,Rural,Limpopo,,,,,,,,,,0,1,1999,10
+Id_cxj020r8m7,2023-02-07,4,unemployed,767.0,Urban,Gauteng,1.0,0.0,0.0,3.0,40 - 49 %,,60 - 69 %,,50 - 59 %,1,1,2002,3
+Id_5ykc8d8s7s,2023-02-02,4,unemployed,3259.0,Urban,Free State,1.0,0.0,0.0,,,40 - 49 %,30 - 39 %,,,1,1,1989,11
+Id_a3vl6imzwh,2022-03-08,2,wage employed,137.0,Urban,Gauteng,1.0,,,2.0,60 - 69 %,,50 - 59 %,,60 - 69 %,0,1,1990,4
+Id_q3xmaej69o,2023-02-09,4,wage employed,120.0,Urban,Mpumalanga,1.0,0.0,1.0,5.0,50 - 59 %,,,40 - 49 %,40 - 49 %,0,1,2000,1
+Id_yq29s7kv0a,2023-02-08,4,wage employed,335.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1996,1
+Id_bxwsuykart,2022-03-09,2,unemployed,713.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,30 - 39 %,60 - 69 %,,,1,1,1994,5
+Id_btl3itfcb2,2021-08-16,1,studying,,Rural,KwaZulu-Natal,1.0,,,5.0,,,,,,0,1,1999,5
+Id_e2fcrgr3hm,2023-03-23,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,1,1,2002,10
+Id_ca4gj08n5x,2022-03-02,2,wage employed,145.0,Urban,Gauteng,0.0,,,2.0,,,,,,0,1,1988,11
+Id_r3yeca1ygp,2023-02-08,4,unemployed,370.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1996,7
+Id_5rjtlvgmn7,2023-02-06,4,unemployed,707.0,Urban,Free State,,,,,,,,,,0,1,1989,6
+Id_q0pnvprodq,2023-02-28,4,unemployed,370.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,0,1,1994,4
+Id_5xtx6p8hre,2021-08-17,1,unemployed,594.0,Suburb,Gauteng,0.0,0.0,0.0,4.0,,,,,,1,1,2000,12
+Id_wdfrg0sc7k,2023-02-22,4,unemployed,396.0,Urban,Gauteng,,,,,,,,,,0,1,2003,3
+Id_96t2an4t26,2023-03-06,4,studying,,Urban,Free State,1.0,0.0,0.0,5.0,,50 - 59 %,,50 - 59 %,,1,1,2001,1
+Id_dy312u2pkk,2023-02-10,4,unemployed,1132.0,Urban,Gauteng,1.0,,,4.0,40 - 49 %,,50 - 59 %,,40 - 49 %,1,1,2000,1
+Id_rcvk8o4o2s,2023-03-15,4,unemployed,2621.0,Urban,Gauteng,0.0,0.0,0.0,4.0,,,,,,1,1,1994,3
+Id_n91k3moodo,2022-03-01,2,unemployed,491.0,Suburb,Gauteng,1.0,1.0,0.0,2.0,50 - 59 %,,60 - 69 %,,40 - 49 %,0,1,1994,9
+Id_fta3hilj4i,2023-02-02,4,wage employed,181.0,Urban,Eastern Cape,1.0,1.0,0.0,1.0,30 - 39 %,,60 - 69 %,,,1,1,2000,1
+Id_hr7vquzbji,2022-08-05,3,other,,Urban,Gauteng,1.0,0.0,0.0,1.0,,50 - 59 %,50 - 59 %,,,1,1,2002,10
+Id_l7wla4sc3u,2023-02-23,4,studying,,Rural,Free State,0.0,0.0,0.0,,,,,,,0,0,2000,1
+Id_asksbt1luk,2023-02-14,4,wage employed,0.0,Urban,North West,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,0,1,1996,11
+Id_4aek7b2vq6,2023-02-02,4,wage employed,920.0,Urban,Gauteng,1.0,0.0,0.0,,40 - 49 %,,60 - 69 %,,0 - 29 %,1,1,1995,11
+Id_1x5n4k7pea,2022-08-11,3,unemployed,217.0,Urban,Gauteng,1.0,0.0,0.0,4.0,40 - 49 %,,50 - 59 %,,40 - 49 %,0,1,2000,10
+Id_v51z5uizsu,2022-08-12,3,other,,Urban,Free State,1.0,0.0,0.0,1.0,,40 - 49 %,50 - 59 %,,,1,1,1994,1
+Id_4xb2dnoybh,2022-03-17,2,unemployed,80.0,Rural,Eastern Cape,1.0,0.0,0.0,1.0,,50 - 59 %,40 - 49 %,,,0,1,2000,1
+Id_k8jcw9fcrw,2022-02-24,2,unemployed,1163.0,Rural,KwaZulu-Natal,,,,,,,,,,1,1,2000,12
+Id_lgoaurirll,2023-02-07,4,studying,,Suburb,Limpopo,1.0,0.0,0.0,1.0,40 - 49 %,,70 - 79 %,,40 - 49 %,0,1,2003,5
+Id_hsv0h16xsi,2022-03-16,2,unemployed,1069.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2000,1
+Id_cpydcw4urr,2023-03-24,4,wage employed,92.0,Urban,Free State,,,,,,,,,,1,1,1995,5
+Id_ljkph8r3gs,2022-02-25,2,unemployed,2656.0,Urban,Free State,1.0,0.0,0.0,,,,40 - 49 %,,,1,1,1985,2
+Id_ayaoxoti47,2022-07-29,3,wage employed,,Urban,Gauteng,1.0,0.0,0.0,5.0,,40 - 49 %,,40 - 49 %,,1,1,1993,4
+Id_2oqsl3jr3l,2023-02-27,4,unemployed,1132.0,Rural,Mpumalanga,1.0,0.0,0.0,4.0,,50 - 59 %,60 - 69 %,,,0,1,1988,8
+Id_07f4hjtzqb,2022-03-16,2,unemployed,79.0,Rural,Limpopo,1.0,,,,,50 - 59 %,40 - 49 %,,,1,1,2000,1
+Id_bol12ewzw8,2023-02-06,4,unemployed,432.0,Urban,Gauteng,,,,,,,,,,0,1,2000,5
+Id_spv45ccoqv,2022-03-10,2,self employed,427.0,Suburb,Eastern Cape,1.0,0.0,0.0,0.0,30 - 39 %,,50 - 59 %,,0 - 29 %,1,1,1989,2
+Id_w5kh5n1zd5,2022-02-23,2,unemployed,90.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,60 - 69 %,60 - 69 %,,,1,1,1994,11
+Id_rbl7rezejs,2023-03-20,4,studying,,Urban,Free State,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,,1,1,2001,11
+Id_7vmwomlwz5,2023-02-16,4,unemployed,1101.0,Rural,North West,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,1,1,1991,2
+Id_u82er4wh2o,2021-08-13,1,self employed,1064.0,Urban,Mpumalanga,0.0,,,3.0,,,,,,0,1,1999,12
+Id_qxyqve9g6f,2023-03-13,4,unemployed,365.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,3.0,,80 - 100 %,60 - 69 %,,,1,1,2004,5
+Id_mb86v21jrh,2022-08-02,3,studying,,Rural,North West,1.0,0.0,1.0,1.0,40 - 49 %,,60 - 69 %,,30 - 39 %,0,1,2000,5
+Id_366gae5k7r,2022-03-18,2,studying,,Rural,KwaZulu-Natal,,,,,,,,,,0,1,2000,1
+Id_a9r9qojhjz,2023-02-09,4,studying,,Rural,Mpumalanga,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,,1,1,2001,8
+Id_k16m7ylb86,2023-03-08,4,wage employed,214.0,Urban,Limpopo,,,,,,,,,,1,1,1999,4
+Id_qv1297uhjq,2023-02-06,4,wage employed,610.0,Suburb,KwaZulu-Natal,1.0,,,4.0,,50 - 59 %,,30 - 39 %,,0,1,2000,8
+Id_rpc1pm6a5i,2022-02-22,2,studying,,Urban,Gauteng,1.0,,,2.0,,,,,,0,1,1999,10
+Id_oa88m3grg4,2022-08-15,3,other,,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,60 - 69 %,40 - 49 %,,,1,1,2002,2
+Id_itmfnm8fuw,2023-02-22,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,3.0,40 - 49 %,,30 - 39 %,,40 - 49 %,0,1,1998,12
+Id_gapcw5dfi4,2022-08-04,3,other,,Urban,Gauteng,1.0,0.0,0.0,1.0,,50 - 59 %,40 - 49 %,,,1,1,1999,1
+Id_pj1dso1zua,2022-03-11,2,wage employed,61.0,Urban,KwaZulu-Natal,1.0,,,3.0,0 - 29 %,,40 - 49 %,,40 - 49 %,1,1,2000,1
+Id_pbmgd8yd5r,2022-08-11,3,self employed,,Urban,KwaZulu-Natal,1.0,,,2.0,0 - 29 %,,70 - 79 %,,,0,1,1999,9
+Id_74f1vxct9g,2023-03-22,4,unemployed,2287.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1993,8
+Id_k3fowpwonc,2022-03-01,2,wage employed,29.0,Rural,Western Cape,1.0,0.0,0.0,4.0,,40 - 49 %,,60 - 69 %,,0,1,1994,6
+Id_hq5bbokzcf,2022-09-03,3,unemployed,248.0,Urban,Western Cape,1.0,,1.0,1.0,,40 - 49 %,60 - 69 %,,,0,1,1996,8
+Id_8n3v5qipqc,2023-03-24,4,unemployed,887.0,Urban,Northern Cape,,,,,,,,,,1,1,1999,10
+Id_fyp4bo5245,2022-08-01,3,studying,,Rural,Mpumalanga,,,,,,,,,,0,1,2003,7
+Id_0qtcbyfc6p,2023-03-14,4,studying,,Urban,Gauteng,0.0,0.0,0.0,1.0,,,,,,1,1,2003,8
+Id_ldgvqs5ypq,2023-03-14,4,unemployed,153.0,Urban,Western Cape,1.0,0.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,1,1,1990,6
+Id_36r4htuehx,2022-08-01,3,employment programme,,Rural,Mpumalanga,1.0,,,1.0,0 - 29 %,,40 - 49 %,,0 - 29 %,0,1,2000,7
+Id_nb6gr6ufir,2023-02-28,4,studying,,Urban,Western Cape,1.0,,,,,30 - 39 %,50 - 59 %,,,1,1,1996,5
+Id_omr4m00nsx,2023-03-13,4,studying,,Rural,Western Cape,0.0,0.0,0.0,1.0,,,,,,1,1,1996,10
+Id_1u7aeplg8x,2022-08-02,3,studying,,Rural,North West,,,,,,,,,,0,1,2001,5
+Id_1o4gd8k0cf,2021-08-23,1,wage employed,0.0,Urban,Gauteng,1.0,,1.0,5.0,,,,,,0,1,1993,1
+Id_g68ny83i04,2021-08-23,1,wage employed,0.0,Urban,Gauteng,0.0,,,4.0,,,,,,0,1,1988,3
+Id_evchj9rwgu,2022-08-03,3,wage employed,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1992,9
+Id_nvy147nfjn,2022-08-12,3,studying,,Suburb,Western Cape,,,,,,,,,,0,1,2001,8
+Id_x1ccogjvtc,2023-02-13,4,studying,,Urban,Free State,,,,,,,,,,0,1,1991,3
+Id_rhbnevsoz3,2022-08-08,3,unemployed,1709.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,60 - 69 %,,50 - 59 %,,50 - 59 %,0,1,1996,11
+Id_3fe5krspxj,2023-03-16,4,unemployed,5.0,Rural,North West,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,1,1,1991,9
+Id_bg9a83gth1,2022-03-14,2,studying,,Suburb,Eastern Cape,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,0 - 29 %,1,1,2000,1
+Id_yxutgx92b5,2023-03-23,4,studying,,Urban,Eastern Cape,,,,,,,,,,1,1,1997,11
+Id_ygwkbx0h9k,2023-02-08,4,unemployed,128.0,Urban,Western Cape,1.0,,,4.0,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_obhulah9ha,2022-07-29,3,other,,Rural,Limpopo,1.0,0.0,1.0,,,40 - 49 %,40 - 49 %,,,0,1,1987,5
+Id_okf2ci4fo1,2022-03-14,2,unemployed,443.0,Rural,Eastern Cape,1.0,0.0,0.0,1.0,0 - 29 %,,50 - 59 %,,60 - 69 %,1,1,2000,1
+Id_zdlsnt4h02,2022-08-15,3,other,,Urban,Gauteng,1.0,0.0,0.0,4.0,,,,,,1,1,2002,6
+Id_kvhzlz8g7s,2023-02-20,4,wage employed,273.0,Urban,Free State,1.0,1.0,0.0,2.0,50 - 59 %,,80 - 100 %,,,1,1,2000,1
+Id_8uqliv7ul5,2022-02-23,2,unemployed,180.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,40 - 49 %,,,40 - 49 %,30 - 39 %,1,1,1990,7
+Id_6gw2bexi49,2023-03-02,4,unemployed,278.0,Rural,Mpumalanga,0.0,0.0,0.0,,,,,,,0,1,1996,9
+Id_ob6y37lgvv,2022-02-25,2,wage employed,386.0,Urban,Free State,1.0,,,,30 - 39 %,,60 - 69 %,,,1,1,1995,8
+Id_9gsyx5qges,2022-08-08,3,other,,Urban,Western Cape,,,,,,,,,,1,1,1997,12
+Id_h6snjadlli,2023-02-15,4,unemployed,767.0,Rural,Mpumalanga,1.0,0.0,0.0,4.0,30 - 39 %,,50 - 59 %,,0 - 29 %,1,1,2000,1
+Id_w74rvn41a6,2023-03-07,4,studying,,Rural,Eastern Cape,,,,,,,,,,1,1,2004,6
+Id_1t6ccd6ncr,2022-02-28,2,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,5.0,,,,,,0,1,1998,11
+Id_jt1c6nd68s,2021-08-19,1,wage employed,0.0,Urban,Gauteng,1.0,,,2.0,,30 - 39 %,50 - 59 %,,,1,1,1998,2
+Id_gs59aafdd0,2021-08-23,1,studying,,Rural,Western Cape,0.0,,,3.0,,,,,,0,1,2001,8
+Id_md4a9zhqt7,2022-08-03,3,unemployed,158.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,3
+Id_ymdnn2ircf,2022-03-15,2,unemployed,396.0,Rural,Free State,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,1,1,2000,1
+Id_z6w0itjfst,2023-02-02,4,unemployed,2038.0,Urban,North West,1.0,,,4.0,,,,,,1,1,1994,9
+Id_81lgpeebjb,2023-03-23,4,unemployed,95.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,1,1,2000,1
+Id_os70bn976o,2023-02-20,4,unemployed,36.0,Urban,North West,,,,,,,,,,0,1,2003,12
+Id_z2j70cgp9i,2023-02-08,4,unemployed,426.0,Urban,Gauteng,1.0,,,5.0,,30 - 39 %,,40 - 49 %,,1,1,2000,1
+Id_owfiulno6l,2023-03-02,4,wage employed,59.0,Urban,Gauteng,1.0,0.0,1.0,4.0,,50 - 59 %,,40 - 49 %,,1,1,2000,1
+Id_muq49pklu6,2022-07-29,3,studying,,Rural,Limpopo,1.0,0.0,1.0,2.0,50 - 59 %,,50 - 59 %,,50 - 59 %,0,1,1998,9
+Id_thzjt8s2zt,2023-02-09,4,unemployed,669.0,Urban,Western Cape,,,,,,,,,,0,1,1997,6
+Id_fkh5agb6ka,2023-03-14,4,unemployed,1160.0,Rural,North West,,,,,,,,,,1,1,1999,11
+Id_nmc9gn4h7q,2023-03-15,4,studying,,Urban,Limpopo,0.0,0.0,0.0,2.0,,,,,,1,1,1999,8
+Id_bsjgmxtrq3,2022-03-16,2,studying,,Rural,Limpopo,1.0,0.0,0.0,,,50 - 59 %,,40 - 49 %,,0,1,2000,1
+Id_xlvrifhos1,2022-03-02,2,unemployed,655.0,Suburb,Western Cape,1.0,,,,,30 - 39 %,60 - 69 %,,,1,1,2000,1
+Id_oylf8z8lql,2022-07-28,3,other,,Urban,Gauteng,1.0,0.0,0.0,2.0,40 - 49 %,,60 - 69 %,,,1,1,2004,2
+Id_iudasw2mjh,2023-03-15,4,unemployed,,Rural,KwaZulu-Natal,1.0,0.0,0.0,0.0,0 - 29 %,,60 - 69 %,,,1,1,1990,5
+Id_fnb751rdy9,2022-08-12,3,studying,,Rural,KwaZulu-Natal,1.0,,,3.0,,,,,,0,1,1994,3
+Id_4zt9bbgx7g,2023-02-09,4,studying,,Urban,Mpumalanga,1.0,,,,,40 - 49 %,50 - 59 %,,,1,1,2000,1
+Id_qxv0ur9qtg,2022-08-03,3,wage employed,,Urban,Western Cape,,,,,,,,,,0,1,2003,8
+Id_4dfr3ctpct,2023-02-28,4,unemployed,767.0,Urban,Gauteng,,,,,,,,,,0,1,1998,12
+Id_t5ecvsj3rb,2022-08-03,3,unemployed,217.0,Urban,Western Cape,1.0,0.0,0.0,,,40 - 49 %,,40 - 49 %,,1,1,2000,8
+Id_ui0m1ik16e,2023-02-06,4,wage employed,1185.0,Urban,Limpopo,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,1992,12
+Id_jvjvnagb6x,2021-08-23,1,wage employed,0.0,Urban,Gauteng,1.0,0.0,0.0,5.0,,60 - 69 %,50 - 59 %,,,0,1,1994,5
+Id_yzjwovxe24,2023-02-06,4,unemployed,798.0,Urban,Gauteng,,,,,,,,,,1,1,2000,1
+Id_ag7so049kj,2023-02-27,4,unemployed,36.0,Suburb,Limpopo,,,,,,,,,,0,1,2002,7
+Id_6nhyxovsr1,2022-03-15,2,studying,,Urban,Gauteng,1.0,,,1.0,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_hwmqdnfvzv,2022-02-24,2,studying,,Rural,North West,1.0,0.0,0.0,3.0,,70 - 79 %,60 - 69 %,,,1,1,1999,12
+Id_oigd98di7f,2023-02-17,4,wage employed,90.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1993,9
+Id_i26qivwxar,2023-02-13,4,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,0,1,2003,8
+Id_ccvuq6mpa7,2023-02-15,4,unemployed,579.0,Suburb,Limpopo,,,,,,,,,,0,1,2000,1
+Id_9arq273apz,2022-02-25,2,unemployed,1156.0,Rural,Eastern Cape,0.0,,,3.0,,,,,,1,1,1998,5
+Id_mk6p1hvz7b,2023-03-23,4,unemployed,795.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,40 - 49 %,,40 - 49 %,,1,1,2003,1
+Id_8w7k1hud05,2023-03-01,4,unemployed,64.0,Rural,Limpopo,,,,,,,,,,0,1,2003,4
+Id_ffw3756mbt,2022-03-02,2,unemployed,431.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,40 - 49 %,40 - 49 %,,,0,1,2000,9
+Id_c0hy4744wu,2022-03-08,2,wage employed,473.0,Urban,Western Cape,0.0,0.0,0.0,3.0,,,,,,1,1,1994,4
+Id_ebmqkqkdzd,2023-02-27,4,unemployed,2168.0,Rural,Eastern Cape,,,,,,,,,,0,1,1994,5
+Id_ldqxasu339,2023-02-21,4,studying,,Urban,Eastern Cape,,,,,,,,,,0,1,1996,8
+Id_2iz7bo9965,2022-08-05,3,unemployed,614.0,Urban,Western Cape,0.0,,,3.0,,,,,,1,1,1991,9
+Id_0ifg401y1o,2022-03-08,2,unemployed,169.0,Rural,KwaZulu-Natal,1.0,,,2.0,,,,,,1,1,1994,9
+Id_7lprznb4yc,2023-02-07,4,unemployed,250.0,Urban,Western Cape,1.0,,,,,40 - 49 %,,50 - 59 %,,0,1,2000,1
+Id_mqw8hwmcdc,2023-02-01,4,unemployed,432.0,Urban,Gauteng,0.0,0.0,0.0,,,,,,,0,1,2001,4
+Id_1g0kjqzmui,2023-02-02,4,unemployed,152.0,Urban,Gauteng,,,,,,,,,,0,1,1994,12
+Id_xcmc3idtyu,2022-09-03,3,unemployed,859.0,Urban,Gauteng,1.0,,,3.0,,0 - 29 %,50 - 59 %,,,1,1,1998,10
+Id_je71cguamw,2023-02-21,4,unemployed,36.0,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,0,1,1996,2
+Id_2npfmhrtap,2023-03-13,4,unemployed,28.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1995,12
+Id_xyoaatchue,2022-02-24,2,employment programme,245.0,Urban,Limpopo,,,,,,,,,,1,1,2000,11
+Id_tn7jeqct3s,2023-03-15,4,unemployed,33.0,Suburb,Gauteng,1.0,0.0,0.0,4.0,,50 - 59 %,50 - 59 %,,,1,1,1999,11
+Id_js2ayy2hzo,2023-03-06,4,unemployed,1040.0,Urban,Gauteng,1.0,0.0,0.0,,40 - 49 %,,60 - 69 %,,50 - 59 %,1,1,1991,3
+Id_efvg8a0772,2023-02-17,4,unemployed,432.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1998,10
+Id_8194qgfmez,2022-08-08,3,other,,Rural,Limpopo,1.0,0.0,0.0,1.0,,40 - 49 %,50 - 59 %,,40 - 49 %,0,1,1992,10
+Id_jhl3hwdzu0,2022-03-15,2,unemployed,78.0,Urban,Gauteng,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,,1,1,2000,1
+Id_t836h4bde6,2023-03-20,4,wage employed,1522.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,,1,1,1997,7
+Id_kz0krs19pb,2022-08-08,3,other,,Urban,KwaZulu-Natal,1.0,1.0,0.0,5.0,,60 - 69 %,,60 - 69 %,,1,1,1998,5
+Id_j3zdpnicp8,2023-02-27,4,studying,,Suburb,Gauteng,,,,,,,,,,0,1,2002,5
+Id_a3ofu1bw68,2022-07-28,3,studying,,Urban,Gauteng,1.0,1.0,0.0,2.0,60 - 69 %,,70 - 79 %,,60 - 69 %,0,1,1999,1
+Id_4aq31fhaoh,2023-03-13,4,unemployed,795.0,Urban,KwaZulu-Natal,0.0,,,,,,,,,1,1,1998,7
+Id_tjsyb825w4,2023-02-15,4,self employed,250.0,Suburb,Mpumalanga,,,,,,,,,,0,1,1994,12
+Id_xp44u5vp14,2021-08-18,1,unemployed,3348.0,Urban,Gauteng,1.0,,,3.0,,,,,,0,1,1998,12
+Id_1hnvj1ghyi,2023-02-09,4,wage employed,184.0,Suburb,Gauteng,1.0,0.0,0.0,,0 - 29 %,,50 - 59 %,,0 - 29 %,0,1,1997,5
+Id_zv05tanaco,2023-02-20,4,studying,,Rural,KwaZulu-Natal,,,,,,,,,,0,1,2002,6
+Id_hhjctb3xtz,2023-03-09,4,wage employed,31.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,60 - 69 %,50 - 59 %,,,1,1,1992,6
+Id_afq5i0nhn8,2023-03-14,4,wage employed,5.0,Suburb,KwaZulu-Natal,,,,,,,,,,1,1,1988,11
+Id_bvmu40uep2,2022-08-02,3,wage employed,,Urban,Eastern Cape,,,,,,,,,,0,1,1994,10
+Id_fkzi4qiyxc,2023-02-06,4,unemployed,401.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,50 - 59 %,50 - 59 %,,,1,1,2002,9
+Id_lbie4s82l5,2023-02-16,4,studying,,Rural,Limpopo,,,,,,,,,,1,1,2004,2
+Id_mrro9nbc03,2023-02-13,4,wage employed,273.0,Urban,Western Cape,1.0,0.0,0.0,2.0,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_nmk5kyq7wl,2023-02-21,4,wage employed,61.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,,50 - 59 %,70 - 79 %,,,0,1,1997,12
+Id_i9tmva0z2l,2022-08-05,3,unemployed,948.0,Urban,Gauteng,1.0,,,2.0,,30 - 39 %,50 - 59 %,,,1,1,1999,5
+Id_orpv55ykf8,2021-08-19,1,studying,,Rural,Limpopo,1.0,1.0,0.0,2.0,0 - 29 %,,60 - 69 %,,,1,1,1994,9
+Id_hn9ospgxvy,2023-02-22,4,wage employed,121.0,Urban,Free State,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,,1,1,2001,7
+Id_x141bd2yqa,2022-03-07,2,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,60 - 69 %,,,1,1,2000,1
+Id_3gywujyoz6,2022-03-02,2,studying,,Rural,Eastern Cape,0.0,0.0,0.0,2.0,,,,,,0,1,1996,4
+Id_rhha0orwv4,2022-08-03,3,wage employed,,Urban,KwaZulu-Natal,1.0,1.0,0.0,3.0,,60 - 69 %,,70 - 79 %,,1,1,1998,7
+Id_1y4f16a0wj,2022-03-01,2,wage employed,644.0,Suburb,Gauteng,1.0,0.0,0.0,2.0,,60 - 69 %,40 - 49 %,,40 - 49 %,0,1,1989,6
+Id_91ya3bxlq7,2021-08-18,1,self employed,40.0,Urban,Limpopo,1.0,,,3.0,,,,,,0,1,1999,7
+Id_ujte9yy8jh,2023-02-07,4,unemployed,220.0,Suburb,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,1,1,1999,11
+Id_klbm2fy33e,2022-03-02,2,wage employed,676.0,Urban,Gauteng,,,,,,,,,,0,1,1993,3
+Id_kw09alnhcm,2022-08-04,3,wage employed,,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,0,1,2001,11
+Id_w69cqpzjre,2023-03-23,4,unemployed,64.0,Urban,Gauteng,1.0,0.0,0.0,1.0,0 - 29 %,,50 - 59 %,,0 - 29 %,1,1,2001,3
+Id_rn62pa64jj,2023-03-22,4,unemployed,2986.0,Rural,KwaZulu-Natal,,,,,,,,,,1,1,1989,9
+Id_tv3lwksb9u,2022-08-01,3,other,,Urban,Mpumalanga,,,,,,,,,,0,1,1991,8
+Id_jdd7advr1f,2022-03-02,2,studying,,Urban,Gauteng,0.0,,,5.0,,,,,,1,1,2000,1
+Id_q12nit655n,2022-02-25,2,unemployed,798.0,Urban,Western Cape,,,,,,,,,,1,1,1994,10
+Id_ucisamngtc,2023-02-15,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,2003,3
+Id_1505rly94t,2022-02-28,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,1.0,,50 - 59 %,,60 - 69 %,,,0,1,1993,12
+Id_p2ticfi5a3,2022-02-24,2,unemployed,365.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,1,1,2000,6
+Id_971cpcmgeb,2023-03-07,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,,,50 - 59 %,50 - 59 %,,,0,1,2000,1
+Id_74t7i54h9m,2022-03-02,2,studying,,Urban,Eastern Cape,,,,,,,,,,0,1,1991,9
+Id_qm923l3qe6,2022-03-01,2,unemployed,95.0,Suburb,Western Cape,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,1995,9
+Id_16m4z0fgq8,2023-02-07,4,wage employed,212.0,Urban,Western Cape,1.0,0.0,0.0,4.0,40 - 49 %,,50 - 59 %,,,1,1,1987,1
+Id_6yarhlagfn,2023-02-22,4,other,,Urban,Mpumalanga,1.0,0.0,0.0,2.0,30 - 39 %,,60 - 69 %,,,0,1,2003,10
+Id_8h4p8dbgyi,2023-02-09,4,unemployed,456.0,Rural,KwaZulu-Natal,1.0,1.0,0.0,2.0,70 - 79 %,,60 - 69 %,,70 - 79 %,0,1,1997,7
+Id_uk94lpv29x,2023-03-15,4,unemployed,429.0,Suburb,Gauteng,,,,,,,,,,1,1,2000,6
+Id_vz7999biz2,2023-03-23,4,wage employed,518.0,Urban,Mpumalanga,1.0,0.0,0.0,1.0,,40 - 49 %,40 - 49 %,,,1,1,1992,3
+Id_yvn5zf90x4,2023-02-15,4,unemployed,1461.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1998,8
+Id_xicvyk1uas,2023-03-14,4,unemployed,64.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,3.0,,,,,,1,1,2002,7
+Id_4qbp4ysj8x,2023-02-15,4,unemployed,401.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1991,3
+Id_2r1cltyfeo,2022-07-29,3,self employed,370.0,Urban,Gauteng,,,,,,,,,,1,1,1976,4
+Id_k01w1mdnt7,2022-08-04,3,wage employed,,Suburb,Gauteng,1.0,,,1.0,,50 - 59 %,50 - 59 %,,,1,1,1998,4
+Id_auesh05ei0,2022-08-05,3,other,,Urban,Western Cape,,,,,,,,,,1,1,1997,4
+Id_wl1isf64b7,2023-02-15,4,unemployed,1862.0,Urban,Limpopo,1.0,,,2.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_4lqrgdf91s,2023-03-01,4,unemployed,33.0,Urban,Free State,,,,,,,,,,1,1,2000,1
+Id_3wjzcvmc9y,2022-07-28,3,studying,,Urban,Gauteng,1.0,0.0,0.0,1.0,50 - 59 %,,60 - 69 %,,50 - 59 %,0,1,2004,2
+Id_tmt2gy3g3a,2022-02-21,2,unemployed,53.0,Urban,Gauteng,1.0,,,1.0,,40 - 49 %,60 - 69 %,,0 - 29 %,1,1,1997,1
+Id_d9srrchlik,2022-09-03,3,studying,,Urban,Western Cape,1.0,,,3.0,,,,,,1,1,2003,6
+Id_dw48nc88fe,2021-08-19,1,unemployed,,Rural,Limpopo,0.0,,,2.0,,,,,,1,1,1988,10
+Id_4ibtm42nul,2023-03-02,4,unemployed,309.0,Rural,Limpopo,1.0,0.0,0.0,1.0,,40 - 49 %,70 - 79 %,,,1,1,2000,1
+Id_gjezrnk3bf,2023-02-20,4,unemployed,767.0,Urban,Mpumalanga,1.0,,,4.0,40 - 49 %,,,50 - 59 %,30 - 39 %,1,1,2000,1
+Id_wk1h55trk7,2023-03-20,4,unemployed,429.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,2000,3
+Id_kte05ykcd1,2022-08-01,3,unemployed,1070.0,Rural,Limpopo,0.0,0.0,0.0,,,,,,,0,1,1991,7
+Id_c99mz7evmy,2021-08-11,1,wage employed,0.0,Urban,Gauteng,0.0,,,2.0,,,,,,1,1,1999,1
+Id_nb6csy9eki,2022-03-11,2,wage employed,72.0,Urban,KwaZulu-Natal,0.0,,,,,,,,,0,1,1999,5
+Id_0rvjxas6jf,2022-03-15,2,unemployed,215.0,Urban,Gauteng,1.0,0.0,0.0,2.0,50 - 59 %,,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_5jxjqfj26a,2023-02-09,4,studying,,Rural,North West,,,,,,,,,,0,1,2000,6
+Id_crtloo1w35,2022-08-04,3,unemployed,1162.0,Urban,Gauteng,,,,,,,,,,1,1,1988,3
+Id_cbd0h8ifsy,2022-08-04,3,studying,,Urban,Gauteng,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,1996,9
+Id_p0l9dmk4dp,2023-03-23,4,unemployed,64.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,30 - 39 %,60 - 69 %,,,1,1,2003,7
+Id_84ygo6lec6,2023-03-24,4,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,40 - 49 %,,70 - 79 %,,40 - 49 %,1,1,1991,6
+Id_wos2e4tv1a,2023-02-22,4,unemployed,36.0,Suburb,Mpumalanga,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,0,1,2000,6
+Id_rl83cw9w8a,2023-03-06,4,studying,,Urban,North West,1.0,1.0,0.0,1.0,,70 - 79 %,80 - 100 %,,,1,1,1999,1
+Id_i56lzsll94,2022-02-25,2,unemployed,447.0,Urban,Gauteng,,,,,,,,,,1,1,2002,8
+Id_cmtt8abun9,2021-08-18,1,wage employed,0.0,Urban,Gauteng,0.0,0.0,0.0,3.0,,,,,,0,1,1996,5
+Id_0x08vgtub1,2022-03-14,2,unemployed,198.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,50 - 59 %,50 - 59 %,,,1,1,2000,1
+Id_fvkv8zme4x,2022-08-08,3,other,,Urban,Gauteng,1.0,1.0,,4.0,,60 - 69 %,,50 - 59 %,,0,1,1998,9
+Id_7i4yte00nj,2022-08-05,3,unemployed,979.0,Urban,North West,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,,1,1,2000,7
+Id_t47p0i4x6c,2023-03-14,4,unemployed,151.0,Urban,Gauteng,1.0,0.0,0.0,4.0,0 - 29 %,,,50 - 59 %,,1,1,1994,2
+Id_mcol5zvtze,2022-02-21,2,studying,,Urban,Limpopo,1.0,,,2.0,,30 - 39 %,50 - 59 %,,,1,1,1996,2
+Id_173j22jmkk,2022-08-02,3,self employed,,Urban,Eastern Cape,,,,,,,,,,1,1,1997,1
+Id_5kkth75etx,2023-03-20,4,studying,,Urban,Mpumalanga,1.0,0.0,0.0,5.0,0 - 29 %,,,50 - 59 %,30 - 39 %,1,1,1999,10
+Id_kjpsm587ss,2023-03-09,4,unemployed,64.0,Urban,Gauteng,,,,,,,,,,1,1,2003,1
+Id_vpfhmrlem6,2022-08-08,3,other,,Rural,KwaZulu-Natal,1.0,,,3.0,,,,,,1,1,1998,11
+Id_tw1osu2x94,2022-02-23,2,studying,,Urban,Gauteng,1.0,1.0,0.0,3.0,30 - 39 %,,60 - 69 %,,30 - 39 %,1,1,1997,4
+Id_6ch9th6hq0,2023-02-17,4,unemployed,36.0,Urban,Gauteng,1.0,0.0,0.0,1.0,80 - 100 %,,70 - 79 %,,80 - 100 %,0,1,2001,2
+Id_sq0verlasw,2023-02-09,4,unemployed,67.0,Suburb,Limpopo,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,1,1,1995,5
+Id_g5m0xg322a,2023-02-06,4,self employed,828.0,Urban,Gauteng,,,,,,,,,,0,1,1999,5
+Id_zz2875e1fm,2022-02-22,2,unemployed,694.0,Urban,Gauteng,1.0,0.0,0.0,5.0,40 - 49 %,,50 - 59 %,,,1,1,1999,5
+Id_vnnfiy2aht,2023-03-22,4,unemployed,1525.0,Rural,Limpopo,0.0,0.0,0.0,2.0,,,,,,1,1,1998,2
+Id_qfyeqy9vzm,2023-02-07,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,1.0,30 - 39 %,,40 - 49 %,,0 - 29 %,0,1,2000,12
+Id_rr918lj12j,2022-02-28,2,studying,,Urban,Gauteng,1.0,,,3.0,30 - 39 %,,40 - 49 %,,30 - 39 %,0,1,1993,2
+Id_ia7z68dty0,2023-02-02,4,self employed,,Urban,Gauteng,,,,,,,,,,0,1,2000,1
+Id_jxppk4jjg7,2023-03-03,4,unemployed,304.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,0,1,2000,3
+Id_jhfstt7ll5,2023-02-09,4,unemployed,67.0,Urban,Mpumalanga,1.0,0.0,0.0,4.0,0 - 29 %,,50 - 59 %,,50 - 59 %,0,1,2000,4
+Id_atlb431zq7,2023-02-20,4,unemployed,36.0,Urban,Free State,1.0,0.0,0.0,,,50 - 59 %,40 - 49 %,,,0,1,1999,4
+Id_thcor98e6o,2023-03-16,4,unemployed,1160.0,Rural,Limpopo,,,,,,,,,,1,1,2000,8
+Id_5xqki5wqtc,2022-02-22,2,unemployed,736.0,Urban,Eastern Cape,0.0,,,1.0,,,,,,0,1,1990,12
+Id_akn4wszxzd,2021-08-23,1,wage employed,0.0,Urban,Eastern Cape,,,,,,,,,,1,1,1994,10
+Id_9crrww2qdk,2023-03-22,4,studying,,Rural,Mpumalanga,1.0,0.0,0.0,3.0,30 - 39 %,,60 - 69 %,,30 - 39 %,1,1,2001,5
+Id_67ts0qbgi0,2022-03-03,2,studying,,Urban,KwaZulu-Natal,1.0,1.0,,,0 - 29 %,,50 - 59 %,,0 - 29 %,1,1,2000,1
+Id_e7eoxhj2i6,2023-02-14,4,unemployed,342.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2001,9
+Id_hs81rfrq1n,2022-03-08,2,unemployed,2256.0,Urban,Gauteng,0.0,,,,,,,,,1,1,1992,4
+Id_usdpbgwq6n,2023-03-20,4,unemployed,334.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1991,10
+Id_gegsapzh2h,2023-02-14,4,studying,,Urban,Mpumalanga,1.0,0.0,0.0,5.0,40 - 49 %,,50 - 59 %,,50 - 59 %,0,1,2000,1
+Id_3gzmgvulyu,2022-08-04,3,unemployed,36.0,Urban,Gauteng,,,,,,,,,,0,1,1989,6
+Id_rl9z8psy0t,2021-08-19,1,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,60 - 69 %,50 - 59 %,,,1,1,1994,1
+Id_dnefobcffn,2022-08-10,3,unemployed,2440.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,30 - 39 %,0,1,1992,6
+Id_hnu2xw0s6s,2023-02-08,4,unemployed,401.0,Rural,Limpopo,,,,,,,,,,0,1,1996,10
+Id_suue0uw4qn,2023-03-08,4,unemployed,95.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1997,6
+Id_s0mj2lyn1l,2021-08-17,1,wage employed,0.0,Urban,Gauteng,0.0,,,4.0,,,,,,0,1,1996,11
+Id_7y6wy18cee,2023-03-14,4,wage employed,90.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,40 - 49 %,,30 - 39 %,1,1,1996,2
+Id_ferjyn7mge,2023-02-07,4,studying,,Suburb,Limpopo,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,40 - 49 %,1,1,1999,3
+Id_8bkla4u9iz,2022-03-01,2,unemployed,816.0,Urban,Eastern Cape,,,,,,,,,,0,1,1997,6
+Id_k5flsgpru1,2023-02-08,4,unemployed,1377.0,Rural,Limpopo,,,,,,,,,,0,1,1990,10
+Id_7gk6z27f32,2022-07-28,3,other,,Urban,Mpumalanga,1.0,0.0,0.0,1.0,,50 - 59 %,40 - 49 %,,,0,1,1991,6
+Id_gy18i9cipz,2021-08-19,1,studying,,Urban,Eastern Cape,1.0,,,5.0,70 - 79 %,,,60 - 69 %,50 - 59 %,0,1,1998,11
+Id_l4ubh2qra3,2023-02-10,4,self employed,,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,,1,1,2000,1
+Id_7esl23e409,2022-08-15,3,unemployed,2805.0,Urban,Gauteng,0.0,0.0,0.0,2.0,,,,,,1,1,1993,10
+Id_4hzte42dvs,2022-03-03,2,unemployed,424.0,Urban,Eastern Cape,1.0,,,0.0,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_f9psbflsco,2023-02-10,4,unemployed,1407.0,Urban,Mpumalanga,1.0,0.0,0.0,3.0,,60 - 69 %,60 - 69 %,,,0,1,1992,8
+Id_m9qfkbw0ef,2022-08-11,3,self employed,,Urban,Limpopo,1.0,,1.0,3.0,,,,,,0,1,1996,2
+Id_kagb3nqrcb,2023-03-14,4,unemployed,460.0,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,1994,3
+Id_ftcvpsvgmj,2022-08-10,3,wage employed,1070.0,Urban,KwaZulu-Natal,1.0,,,3.0,,,,,,0,1,1990,12
+Id_phyhn7i4k6,2022-02-24,2,studying,,Urban,Gauteng,0.0,0.0,0.0,4.0,,,,,,1,1,2003,12
+Id_7kpq9lmwgr,2022-03-02,2,unemployed,64.0,Urban,North West,,,,,,,,,,1,1,2000,1
+Id_azp7vpcr7n,2023-02-10,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,1.0,30 - 39 %,,40 - 49 %,,30 - 39 %,1,1,2000,1
+Id_zjrrpm641f,2022-07-28,3,unemployed,552.0,Urban,Gauteng,,,,,,,,,,0,1,1994,12
+Id_8e958tixe3,2023-03-15,4,studying,,Urban,Free State,,,,,,,,,,1,1,1996,2
+Id_5t1o3tgbns,2021-08-19,1,studying,,Urban,Gauteng,1.0,0.0,1.0,3.0,0 - 29 %,,70 - 79 %,,,1,1,2001,5
+Id_7zhdpmcgsd,2022-02-25,2,wage employed,212.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,70 - 79 %,50 - 59 %,,,1,1,1985,11
+Id_z8iivnnv2f,2022-02-25,2,wage employed,1771.0,Urban,Gauteng,,,,,,,,,,1,1,1993,4
+Id_kmvu7fejg8,2023-03-09,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,30 - 39 %,,,60 - 69 %,,1,1,2000,9
+Id_jhfec7xx1s,2022-08-04,3,unemployed,523.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,60 - 69 %,60 - 69 %,,,1,1,2000,6
+Id_ph61x0hhof,2023-02-13,4,wage employed,275.0,Urban,KwaZulu-Natal,1.0,1.0,0.0,3.0,40 - 49 %,,70 - 79 %,,40 - 49 %,1,1,2001,1
+Id_e3qm8616gy,2023-02-17,4,unemployed,250.0,Urban,Limpopo,0.0,0.0,0.0,3.0,,,,,,1,1,1995,9
+Id_odo2r6knbb,2022-02-22,2,unemployed,118.0,Urban,Gauteng,0.0,,,2.0,,,,,,1,1,1994,12
+Id_lzyejcgbdu,2023-02-20,4,wage employed,92.0,Urban,KwaZulu-Natal,1.0,1.0,0.0,4.0,70 - 79 %,,70 - 79 %,,60 - 69 %,0,1,1997,12
+Id_g6rfqo2mnp,2022-02-25,2,wage employed,71.0,Urban,Gauteng,1.0,0.0,0.0,,,60 - 69 %,50 - 59 %,,,1,1,2000,8
+Id_htpbw46ydm,2022-08-12,3,wage employed,,Suburb,KwaZulu-Natal,1.0,0.0,0.0,,,30 - 39 %,,50 - 59 %,,0,1,2001,10
+Id_li0knhgn0r,2023-03-07,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,5.0,,0 - 29 %,,40 - 49 %,,1,1,2004,4
+Id_qowsnzi1lj,2022-02-28,2,wage employed,91.0,Urban,Limpopo,1.0,0.0,0.0,,,30 - 39 %,60 - 69 %,,30 - 39 %,0,1,1998,5
+Id_b30jj6icvm,2022-03-09,2,unemployed,108.0,Rural,Mpumalanga,1.0,0.0,0.0,3.0,30 - 39 %,,60 - 69 %,,,1,1,2000,10
+Id_ukmckmm4kr,2022-08-03,3,other,,Urban,Western Cape,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,,1,1,1997,6
+Id_97g0isyvcz,2023-03-17,4,wage employed,0.0,Rural,Mpumalanga,1.0,0.0,0.0,1.0,,30 - 39 %,40 - 49 %,,,1,1,1993,1
+Id_1lphdsb8y5,2023-02-14,4,wage employed,273.0,Urban,Gauteng,0.0,,,4.0,,,,,,1,1,2000,1
+Id_mpevcgfuar,2023-02-13,4,wage employed,153.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,2002,7
+Id_fao04nx9xj,2021-08-20,1,wage employed,0.0,Urban,Gauteng,0.0,,,,,,,,,0,1,1970,10
+Id_0iecgau296,2023-03-13,4,studying,,Suburb,Mpumalanga,1.0,0.0,0.0,4.0,,30 - 39 %,,60 - 69 %,,1,1,1993,1
+Id_mm005ihcs8,2023-03-17,4,self employed,,Urban,Gauteng,1.0,0.0,0.0,4.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,1998,8
+Id_k4yuju0s6s,2022-02-21,2,unemployed,2509.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,0 - 29 %,60 - 69 %,,,1,1,1994,4
+Id_jz5cxaf93y,2023-03-20,4,wage employed,62.0,Urban,Gauteng,1.0,0.0,0.0,,0 - 29 %,,60 - 69 %,,0 - 29 %,1,1,1996,4
+Id_952h3wofcz,2021-08-16,1,wage employed,0.0,Urban,Western Cape,,,,,,,,,,1,1,1998,8
+Id_o3pslgabgk,2022-08-01,3,other,,Rural,Mpumalanga,1.0,0.0,0.0,1.0,,30 - 39 %,,,,1,1,1987,9
+Id_fhx96ano24,2023-02-09,4,studying,,Suburb,KwaZulu-Natal,1.0,0.0,0.0,2.0,30 - 39 %,,30 - 39 %,,30 - 39 %,0,1,1988,3
+Id_fqv29c3md9,2022-08-11,3,other,,Urban,Eastern Cape,1.0,1.0,,3.0,,50 - 59 %,60 - 69 %,,,1,1,1998,12
+Id_hl4deit34s,2022-02-28,2,unemployed,40.0,Urban,Gauteng,1.0,,,4.0,0 - 29 %,,40 - 49 %,,,0,1,1991,1
+Id_3vos08esnm,2023-02-21,4,wage employed,518.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1997,7
+Id_seeo63de2y,2023-02-21,4,unemployed,36.0,Rural,Mpumalanga,,,,,,,,,,0,1,1990,11
+Id_3ydv83vfu3,2023-02-09,4,self employed,,Rural,Limpopo,1.0,,,1.0,,50 - 59 %,50 - 59 %,,,0,1,2000,1
+Id_2fz4gbwy5l,2022-03-04,2,unemployed,1092.0,Urban,Free State,1.0,,,,,,40 - 49 %,,30 - 39 %,1,1,2000,1
+Id_km7dfoq0g5,2023-03-14,4,unemployed,1523.0,Urban,Free State,,,,,,,,,,1,1,2000,10
+Id_q1atvtl4jy,2021-08-12,1,studying,,Urban,Limpopo,1.0,,1.0,2.0,,,60 - 69 %,,,1,1,1985,5
+Id_1i7psxexrd,2023-02-21,4,studying,,Urban,Eastern Cape,,,,,,,,,,0,1,2003,5
+Id_sqll106065,2022-08-01,3,other,,Urban,Limpopo,,,,,,,,,,0,1,2001,11
+Id_ao409p515s,2021-08-23,1,wage employed,0.0,Rural,North West,1.0,,,1.0,0 - 29 %,,40 - 49 %,,,0,1,1986,1
+Id_lal1esrii0,2023-02-09,4,unemployed,396.0,Rural,North West,1.0,0.0,0.0,1.0,40 - 49 %,,60 - 69 %,,40 - 49 %,1,1,2003,9
+Id_z6fpelof4l,2022-02-23,2,unemployed,335.0,Urban,Gauteng,1.0,,,3.0,,40 - 49 %,50 - 59 %,,,1,1,2003,5
+Id_vy1mvoy6z1,2022-03-01,2,wage employed,127.0,Urban,North West,1.0,1.0,,4.0,,60 - 69 %,,50 - 59 %,,0,1,1996,5
+Id_zwvgj2uqhz,2022-02-24,2,unemployed,1155.0,Rural,KwaZulu-Natal,0.0,0.0,0.0,2.0,,,,,,1,1,1999,11
+Id_cx37qxjrsm,2021-08-12,1,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,0 - 29 %,1,1,2001,7
+Id_rd7x3vhqmv,2022-08-01,3,unemployed,614.0,Urban,Free State,1.0,0.0,0.0,,30 - 39 %,,40 - 49 %,,,0,1,1992,9
+Id_yj0vh31gmp,2022-08-12,3,other,,Urban,Gauteng,0.0,0.0,0.0,4.0,,,,,,0,1,2000,5
+Id_dqueowe5rv,2022-08-08,3,wage employed,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1984,1
+Id_gheaiij07i,2023-02-28,4,wage employed,31.0,Suburb,Gauteng,,,,,,,,,,0,1,2001,8
+Id_oa191uje2s,2023-03-14,4,unemployed,2652.0,Rural,Limpopo,,,,,,,,,,1,1,1991,10
+Id_nt9zkerroj,2023-02-24,4,studying,,Urban,Limpopo,,,,,,,,,,0,1,1997,5
+Id_vwyg1sr1wa,2022-03-02,2,wage employed,216.0,Rural,Gauteng,1.0,,,5.0,0 - 29 %,,50 - 59 %,,30 - 39 %,0,1,1990,10
+Id_rrs9akle6n,2023-02-15,4,unemployed,2534.0,Urban,North West,,,,,,,,,,0,1,1987,12
+Id_kwmgy1n3dx,2023-03-01,4,unemployed,64.0,Urban,Free State,1.0,0.0,0.0,3.0,,50 - 59 %,50 - 59 %,,,0,1,2004,6
+Id_tqfexx8hux,2021-08-16,1,studying,,Urban,Limpopo,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,0,1,1998,3
+Id_f7zw77oajf,2023-02-06,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,1995,1
+Id_gjjno416nz,2023-02-10,4,studying,,Urban,Western Cape,1.0,0.0,0.0,5.0,,40 - 49 %,,50 - 59 %,,1,1,1998,8
+Id_6vl40u6tk0,2023-02-13,4,studying,,Urban,Gauteng,1.0,0.0,0.0,5.0,,50 - 59 %,,50 - 59 %,,1,1,2000,1
+Id_9lgtklpidl,2023-02-01,4,studying,,Urban,KwaZulu-Natal,0.0,0.0,0.0,4.0,,,,,,0,1,2002,4
+Id_yqa4xagoqh,2023-02-14,4,unemployed,1096.0,Urban,Free State,1.0,0.0,0.0,1.0,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,2000,11
+Id_21fm0m8tm8,2022-08-03,3,studying,,Urban,Northern Cape,1.0,0.0,0.0,1.0,30 - 39 %,,,50 - 59 %,0 - 29 %,0,1,2004,4
+Id_5yy37inwlc,2023-03-06,4,unemployed,339.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,,60 - 69 %,,30 - 39 %,1,1,1999,9
+Id_lb58qqcju8,2023-02-10,4,wage employed,275.0,Urban,Western Cape,1.0,0.0,0.0,5.0,,60 - 69 %,,50 - 59 %,,0,1,2003,4
+Id_pay54az9ss,2022-02-24,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,1,1,2003,6
+Id_jhj1akzu66,2021-08-19,1,studying,,Urban,Gauteng,1.0,,,,,50 - 59 %,60 - 69 %,,0 - 29 %,1,1,2000,3
+Id_bx0m1tgaf1,2023-02-10,4,unemployed,974.0,Urban,Limpopo,1.0,0.0,0.0,1.0,0 - 29 %,,60 - 69 %,,,0,1,2000,1
+Id_zzzn1zaccn,2022-08-03,3,wage employed,,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,,0,1,1994,9
+Id_rqakftwyb9,2022-03-03,2,studying,,Urban,Western Cape,1.0,,,5.0,,,,50 - 59 %,,1,1,2000,1
+Id_boer1o4t6d,2023-02-14,4,unemployed,1065.0,Rural,Limpopo,1.0,0.0,0.0,1.0,30 - 39 %,,60 - 69 %,,40 - 49 %,1,1,2000,1
+Id_drjo0dcpcs,2022-08-02,3,wage employed,,Urban,Free State,1.0,0.0,0.0,3.0,70 - 79 %,,50 - 59 %,,60 - 69 %,0,1,1998,4
+Id_8ouuwcm8zp,2022-08-11,3,unemployed,979.0,Urban,Northern Cape,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,1,1,2000,1
+Id_gxs509ol08,2023-02-06,4,studying,,Urban,Gauteng,,,,,,,,,,0,1,2003,9
+Id_r9uelehcgq,2022-03-17,2,studying,,Urban,Gauteng,1.0,,,3.0,,30 - 39 %,40 - 49 %,,,0,1,2000,1
+Id_ppyp9qadwb,2022-02-28,2,studying,,Urban,Eastern Cape,0.0,0.0,0.0,3.0,,,,,,0,1,1999,6
+Id_8x7483isei,2022-08-11,3,other,,Urban,Gauteng,,,,,,,,,,1,1,1997,1
+Id_zjtwro0vyl,2022-03-07,2,unemployed,104.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,,30 - 39 %,,70 - 79 %,,30 - 39 %,0,1,2000,1
+Id_u5x6i7suvf,2023-02-22,4,self employed,2624.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1993,1
+Id_bfmk76ms5p,2022-03-11,2,studying,,Urban,Gauteng,1.0,,,4.0,,50 - 59 %,50 - 59 %,,,1,1,2000,1
+Id_9vfe5bmm7x,2022-08-11,3,unemployed,1497.0,Urban,Eastern Cape,1.0,1.0,,2.0,,,,,,1,1,1985,11
+Id_lon1xszwy3,2023-02-06,4,unemployed,1346.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,0 - 29 %,30 - 39 %,,,1,1,1996,1
+Id_zb1sytdll0,2023-02-06,4,wage employed,639.0,Urban,Northern Cape,1.0,,,,0 - 29 %,,,50 - 59 %,30 - 39 %,1,1,2000,1
+Id_4jeizzpbbr,2022-03-01,2,self employed,62.0,Urban,Free State,1.0,0.0,0.0,0.0,,30 - 39 %,,40 - 49 %,,0,1,1995,9
+Id_2qbx10ud6n,2022-02-25,2,unemployed,449.0,Suburb,KwaZulu-Natal,0.0,0.0,0.0,2.0,,,,,,1,1,2001,6
+Id_utihwoq4jt,2022-03-11,2,studying,,Urban,Northern Cape,1.0,0.0,0.0,5.0,50 - 59 %,,,70 - 79 %,,1,1,2000,1
+Id_2vn93u58um,2022-08-10,3,other,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,1989,3
+Id_89mvj40rlh,2021-08-12,1,studying,,Urban,KwaZulu-Natal,1.0,,1.0,3.0,,,,60 - 69 %,,1,1,1987,9
+Id_eoe3h61d9i,2023-03-02,4,wage employed,122.0,Urban,Western Cape,1.0,1.0,0.0,2.0,50 - 59 %,,50 - 59 %,,,0,1,2000,1
+Id_nycfnrisry,2022-03-01,2,self employed,465.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1990,3
+Id_mwtaa2j1rb,2022-07-28,3,studying,,Urban,Gauteng,1.0,0.0,0.0,4.0,,50 - 59 %,60 - 69 %,,,0,1,2004,2
+Id_msh8zmog3h,2023-02-27,4,unemployed,5.0,Suburb,Limpopo,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,1993,2
+Id_69uuducrk8,2023-03-22,4,unemployed,2287.0,Rural,KwaZulu-Natal,0.0,,,1.0,,,,,,1,1,1994,3
+Id_g22lwaq8t8,2023-02-08,4,studying,,Suburb,Gauteng,,,,,,,,,,0,1,2001,4
+Id_8rcl6i27v7,2022-03-11,2,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,40 - 49 %,,60 - 69 %,,40 - 49 %,1,1,2000,1
+Id_vueyosaagn,2023-02-17,4,unemployed,128.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,,30 - 39 %,50 - 59 %,,,0,1,2001,11
+Id_ud8ecs9t7n,2023-02-13,4,wage employed,122.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,50 - 59 %,70 - 79 %,,,0,1,1999,3
+Id_id5i266op8,2023-02-21,4,wage employed,153.0,Rural,Limpopo,1.0,0.0,0.0,,,30 - 39 %,30 - 39 %,,,0,1,1996,4
+Id_xc80te5fs9,2023-03-06,4,unemployed,795.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,,40 - 49 %,,40 - 49 %,,0,1,2000,1
+Id_uxrv7ws4iz,2023-02-08,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,70 - 79 %,,70 - 79 %,,70 - 79 %,0,1,2000,1
+Id_jbta68qcny,2023-03-16,4,unemployed,64.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,1,1,1998,10
+Id_vnsydst1f9,2023-02-14,4,wage employed,518.0,Urban,Mpumalanga,,,,,,,,,,0,1,1995,11
+Id_yhb1qjfkin,2023-02-17,4,unemployed,250.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1996,9
+Id_jvw66fieox,2022-02-21,2,unemployed,245.0,Rural,KwaZulu-Natal,1.0,,,4.0,,50 - 59 %,60 - 69 %,,,1,1,1997,4
+Id_beinopg1qp,2023-03-22,4,unemployed,33.0,Suburb,Limpopo,,,,,,,,,,1,1,1997,11
+Id_wghq2z68yo,2023-02-20,4,self employed,,Urban,Free State,1.0,0.0,0.0,3.0,,0 - 29 %,40 - 49 %,,,0,1,1999,12
+Id_jh55u9qsx2,2021-08-23,1,self employed,531.0,Urban,Mpumalanga,1.0,,,4.0,40 - 49 %,,50 - 59 %,,30 - 39 %,0,1,2003,4
+Id_gqwoxqo6st,2023-02-10,4,wage employed,5.0,Urban,Western Cape,,,,,,,,,,1,1,2003,11
+Id_k7xvimf5se,2023-03-02,4,wage employed,61.0,Urban,Mpumalanga,1.0,1.0,,3.0,50 - 59 %,,50 - 59 %,,50 - 59 %,1,1,2000,1
+Id_rhbccj437c,2022-08-10,3,studying,,Suburb,Eastern Cape,1.0,0.0,1.0,5.0,50 - 59 %,,,60 - 69 %,50 - 59 %,1,1,1998,2
+Id_vjnmppkukn,2022-03-16,2,unemployed,795.0,Urban,North West,1.0,,,3.0,,30 - 39 %,40 - 49 %,,,0,1,2000,1
+Id_1cqbgnogzw,2022-03-17,2,studying,,Rural,KwaZulu-Natal,,,,,,,,,,0,1,2000,1
+Id_k8jld4qayo,2023-02-21,4,unemployed,1132.0,Suburb,KwaZulu-Natal,,,,,,,,,,0,1,1999,2
+Id_kx97eub03k,2022-03-01,2,studying,,Suburb,Eastern Cape,0.0,,,1.0,,,,,,0,1,1994,11
+Id_lp3dasj3n6,2023-03-13,4,unemployed,460.0,Rural,Limpopo,,,,,,,,,,1,1,1994,4
+Id_9hee3aicif,2022-02-22,2,unemployed,56.0,Urban,Northern Cape,1.0,0.0,0.0,2.0,,50 - 59 %,50 - 59 %,,,1,1,1991,12
+Id_mxii929bm7,2022-08-03,3,unemployed,1101.0,Suburb,KwaZulu-Natal,,,,,,,,,,1,1,2000,7
+Id_t5xdyei4s9,2022-03-02,2,unemployed,12.0,Rural,KwaZulu-Natal,1.0,,,,0 - 29 %,,50 - 59 %,,,1,1,2000,1
+Id_6osx4dn6mr,2023-02-06,4,wage employed,342.0,Urban,Mpumalanga,1.0,,,,0 - 29 %,,50 - 59 %,,0 - 29 %,1,1,2000,1
+Id_1pzwroputd,2022-03-03,2,studying,,Urban,Western Cape,,,,,,,,,,1,1,2000,1
+Id_tjpzsg7lvr,2022-03-07,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,0 - 29 %,40 - 49 %,,,0,1,2000,1
+Id_juag6sezip,2021-08-19,1,wage employed,0.0,Urban,Eastern Cape,1.0,0.0,0.0,4.0,,30 - 39 %,30 - 39 %,,,1,1,1996,8
+Id_be1zngpqlc,2023-03-01,4,studying,,Urban,Free State,,,,,,,,,,0,1,1990,8
+Id_yo69fmf0ar,2023-03-02,4,unemployed,64.0,Suburb,KwaZulu-Natal,,,,,,,,,,0,1,2003,7
+Id_6al6qoszlh,2022-03-01,2,unemployed,64.0,Suburb,Free State,1.0,,,,,60 - 69 %,50 - 59 %,,,0,1,1999,11
+Id_7h44o827gp,2023-03-07,4,studying,,Urban,Western Cape,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,1,1,2000,8
+Id_l9skxjyq7u,2022-08-11,3,wage employed,,Urban,Gauteng,,,,,,,,,,1,1,1990,5
+Id_7z1nf0gz85,2022-03-07,2,unemployed,335.0,Rural,Eastern Cape,1.0,,,0.0,40 - 49 %,,40 - 49 %,,0 - 29 %,0,1,2000,1
+Id_y3fb6gl6h8,2023-03-15,4,unemployed,735.0,Urban,Mpumalanga,0.0,0.0,0.0,5.0,,,,,,1,1,1997,9
+Id_ujbtsc5xsy,2023-03-13,4,unemployed,917.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,30 - 39 %,60 - 69 %,,,1,1,1993,1
+Id_cix5bvil77,2022-08-01,3,studying,,Urban,Gauteng,1.0,0.0,1.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,1998,4
+Id_c42x5mfp0k,2023-03-16,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2001,7
+Id_z8z1ips4mg,2022-08-12,3,other,,Urban,Gauteng,1.0,,,5.0,,60 - 69 %,,40 - 49 %,,0,1,2002,1
+Id_3cofhphc87,2022-02-25,2,wage employed,451.0,Suburb,Eastern Cape,1.0,,,,0 - 29 %,,30 - 39 %,,,1,1,1992,12
+Id_6vgvsfj56c,2023-03-15,4,wage employed,518.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,40 - 49 %,,40 - 49 %,,1,1,1997,12
+Id_hkvtkwup5x,2023-02-17,4,wage employed,273.0,Rural,KwaZulu-Natal,,,,,,,,,,1,1,2002,1
+Id_me97ism4jf,2023-03-03,4,wage employed,30.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,40 - 49 %,,50 - 59 %,,1,1,2000,1
+Id_rayrfk924x,2023-02-17,4,unemployed,707.0,Urban,Gauteng,1.0,0.0,0.0,3.0,40 - 49 %,,50 - 59 %,,40 - 49 %,0,1,1992,4
+Id_jzkxue4hka,2022-08-12,3,unemployed,583.0,Urban,Mpumalanga,1.0,0.0,0.0,,,0 - 29 %,40 - 49 %,,,1,1,1994,3
+Id_t74oh7os9g,2023-02-20,4,studying,,Rural,KwaZulu-Natal,,,,,,,,,,0,1,2000,12
+Id_ms624ngn7u,2023-03-23,4,unemployed,334.0,Rural,Limpopo,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,1,1,2000,7
+Id_j8z4mr2hqx,2022-03-02,2,studying,,Urban,Northern Cape,,,,,,,,,,0,1,1999,2
+Id_th9a99gxb2,2022-03-07,2,unemployed,88.0,Urban,Gauteng,1.0,,,4.0,,,,,,1,1,2000,1
+Id_mnwb6mrsdg,2023-03-23,4,unemployed,95.0,Suburb,Free State,0.0,0.0,0.0,1.0,,,,,,1,1,1991,4
+Id_75mdb21w4c,2023-03-06,4,unemployed,1890.0,Rural,Limpopo,0.0,0.0,0.0,,,,,,,1,1,1995,7
+Id_fylyfunrq2,2023-02-28,4,unemployed,304.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,1.0,,50 - 59 %,60 - 69 %,,,0,1,2001,9
+Id_3j5etrhsdp,2022-02-24,2,unemployed,222.0,Urban,Western Cape,0.0,0.0,0.0,,,,,,,1,1,1999,1
+Id_aehfozq1ot,2021-08-18,1,studying,,Urban,Free State,1.0,,1.0,1.0,,,,,,0,1,1996,9
+Id_qwwa02gxym,2023-02-24,4,unemployed,36.0,Urban,KwaZulu-Natal,1.0,,,4.0,,50 - 59 %,70 - 79 %,,,0,1,2000,9
+Id_ghjud20e44,2022-07-28,3,other,,Urban,Gauteng,0.0,0.0,0.0,1.0,,,,,,0,1,1994,7
+Id_o1dtpjsdst,2022-03-17,2,unemployed,80.0,Rural,Limpopo,1.0,,,1.0,30 - 39 %,,40 - 49 %,,30 - 39 %,0,1,2000,1
+Id_ha93u2lawk,2023-03-17,4,studying,,Urban,Western Cape,1.0,0.0,0.0,4.0,,50 - 59 %,,60 - 69 %,,1,1,2003,7
+Id_bxto2ux7bo,2023-02-07,4,studying,,Urban,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,0,1,1996,12
+Id_hpo10e9mjt,2022-03-10,2,unemployed,1546.0,Urban,Gauteng,1.0,,,5.0,30 - 39 %,,,40 - 49 %,0 - 29 %,1,1,1996,1
+Id_kj4hz0mxtk,2023-02-16,4,studying,,Urban,Mpumalanga,1.0,,,1.0,,30 - 39 %,40 - 49 %,,,0,1,2000,1
+Id_bk7dyajexv,2022-02-24,2,studying,,Urban,Gauteng,1.0,0.0,0.0,4.0,,50 - 59 %,50 - 59 %,,,1,1,1996,10
+Id_ubw2nlrcfx,2022-03-03,2,unemployed,244.0,Suburb,KwaZulu-Natal,1.0,,,3.0,0 - 29 %,,60 - 69 %,,40 - 49 %,1,1,2000,1
+Id_fcwydgz379,2022-08-03,3,other,,Rural,KwaZulu-Natal,1.0,0.0,0.0,,0 - 29 %,,40 - 49 %,,,0,1,2000,8
+Id_kfpdh564un,2021-08-13,1,studying,,Urban,KwaZulu-Natal,0.0,,,3.0,,,,,,0,1,1999,5
+Id_ii2abc8ip3,2021-08-17,1,wage employed,0.0,Suburb,Western Cape,,,,,,,,,,0,1,1992,7
+Id_x7e8l77kl9,2023-03-14,4,studying,,Rural,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,1,1,1994,9
+Id_47pzc9m73a,2023-02-24,4,wage employed,2593.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,0 - 29 %,0,1,1998,8
+Id_2fhrtzrovv,2023-02-06,4,unemployed,2046.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,50 - 59 %,,50 - 59 %,,0,1,1995,3
+Id_2mo9rlbwbf,2022-07-29,3,wage employed,,Urban,Gauteng,1.0,0.0,0.0,3.0,,0 - 29 %,50 - 59 %,,,1,1,1997,3
+Id_87r24bh207,2022-03-07,2,self employed,175.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2000,1
+Id_ajykjh38hg,2023-02-02,4,wage employed,67.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,50 - 59 %,50 - 59 %,,,0,1,1993,11
+Id_q5l6x34nx5,2022-08-11,3,studying,,Rural,Mpumalanga,1.0,0.0,1.0,4.0,30 - 39 %,,60 - 69 %,,40 - 49 %,0,1,1999,2
+Id_6ss03rco6n,2022-03-02,2,unemployed,1556.0,Rural,KwaZulu-Natal,1.0,,,3.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_qzw3lad2xg,2023-03-14,4,studying,,Rural,KwaZulu-Natal,,,,,,,,,,1,1,2002,12
+Id_oqfadfeopk,2022-02-24,2,studying,,Urban,Eastern Cape,1.0,0.0,0.0,4.0,,30 - 39 %,50 - 59 %,,,1,1,2000,9
+Id_y2h2ue57gk,2022-08-10,3,unemployed,1709.0,Suburb,Gauteng,1.0,0.0,0.0,4.0,,30 - 39 %,50 - 59 %,,,1,1,1998,1
+Id_rz2mejh56l,2022-02-28,2,unemployed,2807.0,Suburb,Eastern Cape,,,,,,,,,,0,1,1995,7
+Id_b1qnoxjxwf,2023-03-23,4,studying,,Suburb,North West,,,,,,,,,,1,1,2000,2
+Id_z9k1duzd0e,2023-03-06,4,unemployed,429.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,30 - 39 %,50 - 59 %,,,1,1,2003,6
+Id_6xg5hx3ueu,2022-08-05,3,unemployed,523.0,Urban,Gauteng,1.0,1.0,,2.0,,70 - 79 %,60 - 69 %,,,1,1,1997,3
+Id_zfh6u1agi7,2023-02-17,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,2002,5
+Id_05howvlusw,2022-09-03,3,studying,,Urban,Eastern Cape,1.0,,,3.0,,70 - 79 %,50 - 59 %,,0 - 29 %,1,1,1999,7
+Id_0giut9vf6h,2022-03-14,2,unemployed,499.0,Urban,Gauteng,1.0,0.0,0.0,5.0,40 - 49 %,,70 - 79 %,,,1,1,2000,1
+Id_25s096bwf1,2023-02-08,4,unemployed,401.0,Urban,Free State,,,,,,,,,,1,1,1998,6
+Id_0g7x556l47,2022-03-15,2,unemployed,1369.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,1,1,2000,1
+Id_g7gydlfwiw,2022-08-11,3,studying,,Suburb,Gauteng,1.0,0.0,0.0,,,60 - 69 %,60 - 69 %,,,0,1,2002,7
+Id_fx8jznto6v,2021-08-20,1,studying,,Urban,Eastern Cape,1.0,,,2.0,,50 - 59 %,40 - 49 %,,,0,1,1997,1
+Id_r7eu8k84pq,2021-08-20,1,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,1.0,50 - 59 %,,50 - 59 %,,50 - 59 %,1,1,1987,12
+Id_7w1lc6wvrg,2023-02-10,4,studying,,Rural,North West,1.0,0.0,0.0,2.0,,30 - 39 %,60 - 69 %,,,1,1,2000,9
+Id_ufeq89vad9,2023-02-07,4,wage employed,273.0,Urban,Gauteng,0.0,,,4.0,,,,,,1,1,2000,1
+Id_uefz4h1v3w,2021-08-11,1,self employed,153.0,Urban,Mpumalanga,1.0,,,2.0,30 - 39 %,,60 - 69 %,,30 - 39 %,1,1,1997,1
+Id_qaetv3im76,2023-03-17,4,wage employed,121.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1992,4
+Id_o4uce02b1z,2023-02-16,4,wage employed,1035.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,0 - 29 %,,60 - 69 %,,,0,1,1999,8
+Id_3p1d2h0y3t,2022-03-07,2,studying,,Urban,Western Cape,1.0,0.0,0.0,1.0,,40 - 49 %,40 - 49 %,,,0,1,2000,1
+Id_tfn6m35uwr,2023-02-17,4,studying,,Suburb,KwaZulu-Natal,,,,,,,,,,0,1,2000,11
+Id_iv0fx0z9ni,2022-09-03,3,unemployed,1740.0,Suburb,Limpopo,0.0,0.0,0.0,1.0,,,,,,1,1,1996,7
+Id_ttggjnqvk6,2023-03-20,4,wage employed,92.0,Urban,Free State,1.0,,,,,,,,,1,1,1995,9
+Id_rmu321wqjy,2022-03-15,2,unemployed,430.0,Rural,North West,,,,,,,,,,1,1,2000,1
+Id_0b5sdz4cya,2022-08-01,3,unemployed,979.0,Rural,Mpumalanga,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,1,1,1997,11
+Id_zapjqsjgt0,2022-07-29,3,studying,,Suburb,Limpopo,,,,,,,,,,0,1,2001,11
+Id_v7dwbs5ub8,2023-02-08,4,unemployed,767.0,Rural,Limpopo,,,,,,,,,,1,1,1996,4
+Id_qjpwwsflr5,2022-07-28,3,studying,,Suburb,Gauteng,1.0,0.0,1.0,4.0,,40 - 49 %,,40 - 49 %,,1,1,1999,2
+Id_bo1j7c32d0,2023-02-16,4,unemployed,1132.0,Urban,Gauteng,,,,,,,,,,1,1,2000,1
+Id_nbsh40v92x,2022-03-09,2,unemployed,308.0,Urban,North West,1.0,0.0,0.0,,30 - 39 %,,70 - 79 %,,30 - 39 %,1,1,1999,1
+Id_31ptkxnp7r,2022-03-16,2,unemployed,522.0,Suburb,Limpopo,1.0,,,2.0,0 - 29 %,,50 - 59 %,,,1,1,2000,1
+Id_je2p3yzyju,2022-03-02,2,unemployed,92.0,Urban,Free State,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_q8abs9uhih,2023-03-23,4,self employed,,Urban,Gauteng,0.0,0.0,0.0,,,,,,,1,1,1995,9
+Id_ruv8qy6pvy,2023-03-16,4,studying,,Urban,Gauteng,1.0,0.0,0.0,1.0,0 - 29 %,,40 - 49 %,,0 - 29 %,1,1,1988,2
+Id_fvii1gbvrq,2022-03-04,2,studying,,Urban,Free State,1.0,1.0,0.0,5.0,,50 - 59 %,,40 - 49 %,,1,1,2000,1
+Id_zbgsfomz43,2022-08-10,3,unemployed,5.0,Urban,Gauteng,,,,,,,,,,0,1,1993,6
+Id_7ty6gq1l0v,2023-02-09,4,unemployed,36.0,Rural,Mpumalanga,1.0,0.0,0.0,,40 - 49 %,,60 - 69 %,,30 - 39 %,0,1,2002,7
+Id_whentbnqww,2022-07-29,3,self employed,96.0,Urban,Gauteng,1.0,0.0,0.0,5.0,,50 - 59 %,,60 - 69 %,,0,1,1994,2
+Id_tjko6hklyw,2023-02-21,4,wage employed,334.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,40 - 49 %,40 - 49 %,,,0,1,1999,10
+Id_f4qlxs02rs,2023-03-20,4,unemployed,795.0,Rural,Mpumalanga,,,,,,,,,,1,1,1998,3
+Id_xjh69l18x7,2022-09-03,3,unemployed,1010.0,Urban,North West,,,,,,,,,,1,1,1996,1
+Id_chr3enrsl7,2022-02-23,2,unemployed,1885.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,1.0,,30 - 39 %,50 - 59 %,,,1,1,1996,2
+Id_evneuv6pm2,2023-02-08,4,unemployed,1704.0,Urban,Free State,0.0,0.0,0.0,3.0,,,,,,0,1,1996,3
+Id_pw5vz8lxet,2023-02-22,4,wage employed,1984.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,50 - 59 %,40 - 49 %,,0 - 29 %,0,1,1991,7
+Id_34tq11d468,2022-08-04,3,studying,,Rural,KwaZulu-Natal,1.0,,,1.0,,50 - 59 %,40 - 49 %,,,1,1,1996,10
+Id_f50qbtt4da,2022-07-28,3,other,,Urban,Gauteng,,,,,,,,,,0,1,1995,8
+Id_os6zxzawnv,2022-08-15,3,unemployed,736.0,Urban,Gauteng,,,,,,,,,,1,1,2000,10
+Id_dwg90aciut,2023-03-20,4,wage employed,761.0,Urban,Gauteng,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,1,1,1991,1
+Id_ryxc05zj6t,2022-08-04,3,other,,Urban,Gauteng,,,,,,,,,,1,1,1996,6
+Id_xtdhu31fwm,2023-02-21,4,other,,Urban,Eastern Cape,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,1999,5
+Id_zbpxeayckj,2023-02-08,4,unemployed,334.0,Urban,Limpopo,1.0,0.0,0.0,,,30 - 39 %,60 - 69 %,,,1,1,2001,4
+Id_ku2s2xvvd1,2023-03-08,4,unemployed,1160.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,2.0,,30 - 39 %,50 - 59 %,,40 - 49 %,1,1,1997,10
+Id_x5fqy2wy7r,2022-08-10,3,wage employed,,Urban,Gauteng,1.0,1.0,,3.0,,,,,,1,1,1991,9
+Id_uunghw7hlb,2023-02-15,4,wage employed,31.0,Urban,Western Cape,1.0,0.0,0.0,,40 - 49 %,,60 - 69 %,,30 - 39 %,1,1,1994,7
+Id_6om05mg6jz,2022-03-10,2,unemployed,1064.0,Suburb,Limpopo,1.0,0.0,0.0,1.0,30 - 39 %,,50 - 59 %,,0 - 29 %,1,1,1990,12
+Id_ysycv5lk55,2022-08-05,3,unemployed,5.0,Urban,Gauteng,1.0,,,3.0,0 - 29 %,,40 - 49 %,,,1,1,1997,2
+Id_lhi2qxp5xk,2022-03-15,2,studying,,Urban,Gauteng,1.0,,,5.0,0 - 29 %,,,60 - 69 %,,1,1,2000,1
+Id_sli7td0qm6,2022-03-11,2,unemployed,795.0,Rural,Limpopo,1.0,,,3.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_i1p2nvoslv,2023-03-20,4,unemployed,64.0,Urban,North West,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,2002,7
+Id_o3l51k9yqy,2022-02-25,2,wage employed,755.0,Urban,Gauteng,0.0,,1.0,5.0,,,,,,1,1,1998,6
+Id_7dcv43jozv,2022-09-03,3,other,,Rural,Mpumalanga,1.0,,,3.0,,,,,,0,1,1997,10
+Id_p6ol842wki,2023-02-02,4,studying,,Urban,North West,1.0,0.0,0.0,4.0,50 - 59 %,,80 - 100 %,,70 - 79 %,0,1,2004,1
+Id_czhfygtsrx,2022-02-24,2,unemployed,425.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,5.0,,40 - 49 %,,40 - 49 %,,1,1,2001,1
+Id_8ybzekbhhm,2021-08-17,1,studying,,Urban,Gauteng,1.0,,,5.0,60 - 69 %,,60 - 69 %,,70 - 79 %,0,1,1996,12
+Id_dalfdcrmeg,2021-08-12,1,studying,,Urban,Limpopo,1.0,,,4.0,50 - 59 %,,50 - 59 %,,50 - 59 %,1,1,1995,11
+Id_tfhsaonntu,2022-03-07,2,studying,,Urban,Gauteng,1.0,,,5.0,80 - 100 %,,,60 - 69 %,80 - 100 %,0,1,2000,1
+Id_jr8kis2hg0,2023-02-06,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,2001,10
+Id_j18cj00pp0,2022-07-29,3,other,,Urban,Gauteng,1.0,0.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,1,1,2004,2
+Id_25tdmub87q,2022-03-15,2,unemployed,807.0,Urban,Eastern Cape,,,,,,,,,,1,1,2000,1
+Id_k6544jw6ss,2022-03-02,2,unemployed,430.0,Urban,Mpumalanga,0.0,0.0,0.0,3.0,,,,,,0,1,1987,12
+Id_co58lo3ccz,2022-03-11,2,unemployed,461.0,Urban,Mpumalanga,,,,,,,,,,1,1,2000,1
+Id_n4no45t54h,2023-02-17,4,unemployed,401.0,Urban,Gauteng,1.0,0.0,0.0,,,0 - 29 %,50 - 59 %,,,0,1,2002,2
+Id_2nqy55s8nn,2022-07-29,3,unemployed,127.0,Urban,Gauteng,,,,,,,,,,1,1,2000,11
+Id_nrpzrcqdtl,2022-02-23,2,unemployed,433.0,Urban,Limpopo,,,,,,,,,,1,1,1999,8
+Id_sgylhz7t52,2022-02-23,2,studying,,Suburb,Gauteng,1.0,0.0,0.0,3.0,30 - 39 %,,,50 - 59 %,0 - 29 %,1,1,1992,8
+Id_ihwx6lins8,2022-08-02,3,unemployed,370.0,Rural,North West,,,,,,,,,,0,1,1990,8
+Id_jnb5bjooaw,2023-02-14,4,unemployed,36.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,1,1,1998,4
+Id_eag0xau0ao,2022-03-16,2,studying,,Suburb,Eastern Cape,1.0,,1.0,0.0,,60 - 69 %,,50 - 59 %,,1,1,2000,1
+Id_9o0mfcpxkb,2023-02-14,4,unemployed,36.0,Urban,Gauteng,1.0,0.0,0.0,3.0,0 - 29 %,,40 - 49 %,,,1,1,2000,1
+Id_308lzanlaw,2022-03-07,2,wage employed,303.0,Suburb,Eastern Cape,,,,,,,,,,0,1,2000,1
+Id_9xb6scdbp0,2023-02-20,4,unemployed,36.0,Rural,Limpopo,,,,,,,,,,0,1,1991,3
+Id_67nq464lcx,2022-08-01,3,unemployed,492.0,Urban,Limpopo,,,,,,,,,,1,1,1991,10
+Id_n3mvxav6kf,2022-08-02,3,wage employed,,Suburb,Western Cape,,,,,,,,,,1,1,2003,8
+Id_zrz32f0xq6,2023-02-23,4,wage employed,1734.0,Urban,Free State,,,,,,,,,,0,1,1992,1
+Id_ssm8r34t2j,2022-03-17,2,wage employed,516.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,40 - 49 %,60 - 69 %,,,0,1,2000,1
+Id_t6ttzmxakn,2022-08-02,3,studying,,Urban,Western Cape,1.0,0.0,0.0,1.0,40 - 49 %,,50 - 59 %,,40 - 49 %,0,1,2003,3
+Id_5vvjjie8jx,2023-03-22,4,wage employed,120.0,Urban,Gauteng,0.0,0.0,0.0,4.0,,,,,,1,1,1993,9
+Id_whzd1d1nhj,2023-02-10,4,unemployed,122.0,Urban,Western Cape,0.0,0.0,0.0,3.0,,,,,,1,1,2000,1
+Id_ey0o977lr9,2022-09-03,3,other,,Urban,Western Cape,0.0,,,,,,,,,1,1,2001,8
+Id_96xv01bz0c,2023-02-14,4,unemployed,3621.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,3.0,60 - 69 %,,50 - 59 %,,,0,1,1989,2
+Id_yxczq8h8fi,2023-03-14,4,unemployed,1430.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,1998,9
+Id_9vz2ek8pfs,2022-02-28,2,unemployed,1466.0,Suburb,Eastern Cape,1.0,,,3.0,0 - 29 %,,50 - 59 %,,30 - 39 %,0,1,1996,4
+Id_2tfze7yz84,2022-08-12,3,unemployed,36.0,Rural,North West,,,,,,,,,,0,1,1996,1
+Id_hp0825jt4r,2023-02-10,4,unemployed,67.0,Urban,Western Cape,,,,,,,,,,0,1,2001,8
+Id_brih8luthf,2023-02-13,4,studying,,Rural,Mpumalanga,1.0,0.0,0.0,1.0,,60 - 69 %,50 - 59 %,,,0,1,1999,7
+Id_yp0z1c38ax,2021-08-18,1,employment programme,0.0,Urban,KwaZulu-Natal,1.0,,,4.0,30 - 39 %,,60 - 69 %,,30 - 39 %,0,1,1990,5
+Id_gox9bakscd,2022-08-01,3,other,,Suburb,Limpopo,,,,,,,,,,1,1,2004,2
+Id_25zzwqan2b,2023-02-13,4,unemployed,1650.0,Urban,KwaZulu-Natal,1.0,1.0,0.0,2.0,0 - 29 %,,50 - 59 %,,,0,1,1987,9
+Id_ag39pc8jzf,2023-03-17,4,unemployed,730.0,Rural,Northern Cape,1.0,0.0,0.0,1.0,80 - 100 %,,70 - 79 %,,70 - 79 %,1,1,2003,4
+Id_mc5w78bjvb,2022-08-01,3,other,,Suburb,Free State,1.0,0.0,0.0,5.0,,30 - 39 %,,40 - 49 %,,1,1,1999,3
+Id_tr9l4p3m35,2023-03-13,4,unemployed,1160.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1999,12
+Id_yjcpv0quj7,2022-08-03,3,unemployed,1313.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,3.0,30 - 39 %,,70 - 79 %,,40 - 49 %,1,1,2000,4
+Id_drkpp74ipw,2023-02-10,4,wage employed,396.0,Urban,Western Cape,,,,,,,,,,0,1,1991,11
+Id_9lz1l9x0l0,2022-08-12,3,unemployed,127.0,Suburb,Mpumalanga,0.0,0.0,0.0,1.0,,,,,,0,1,1994,2
+Id_6ewupaj8b3,2022-03-16,2,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,,70 - 79 %,60 - 69 %,,,0,1,2000,1
+Id_dheglk1zvt,2022-08-03,3,unemployed,1647.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1993,5
+Id_219cdjw1ja,2023-03-06,4,unemployed,1160.0,Urban,Free State,1.0,0.0,0.0,,40 - 49 %,,50 - 59 %,,,1,1,1993,11
+Id_k0mz6bstfs,2022-03-03,2,studying,,Urban,Gauteng,1.0,1.0,,3.0,30 - 39 %,,,50 - 59 %,,1,1,2000,1
+Id_u5oacvri92,2022-08-12,3,unemployed,186.0,Rural,Mpumalanga,0.0,0.0,0.0,1.0,,,,,,0,1,1997,2
+Id_5hlu3apod2,2022-03-04,2,unemployed,835.0,Urban,Eastern Cape,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_bmnfvsgqpk,2023-03-22,4,unemployed,95.0,Urban,North West,,,,,,,,,,1,1,2001,7
+Id_u4mld91w7v,2023-03-13,4,unemployed,429.0,Rural,Mpumalanga,1.0,0.0,0.0,1.0,,30 - 39 %,50 - 59 %,,,1,1,2000,3
+Id_j11n7q0bos,2022-07-29,3,unemployed,1192.0,Urban,Gauteng,,,,,,,,,,1,1,1988,2
+Id_vcqbswzei2,2022-02-28,2,unemployed,402.0,Urban,Gauteng,1.0,,,,40 - 49 %,,40 - 49 %,,40 - 49 %,0,1,2000,6
+Id_z3sy3p6igk,2022-08-05,3,unemployed,127.0,Urban,Mpumalanga,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,,1,1,1996,7
+Id_hu6ou36bvf,2023-03-20,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,5.0,0 - 29 %,,40 - 49 %,,,1,1,2000,8
+Id_w5f7qn60np,2023-02-21,4,unemployed,36.0,Suburb,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,0,1,2002,11
+Id_uzpiwtm708,2023-02-27,4,self employed,1497.0,Rural,Mpumalanga,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,0,1,1996,11
+Id_zj2ixhuwzx,2021-08-19,1,studying,,Urban,Limpopo,1.0,,,2.0,50 - 59 %,,70 - 79 %,,40 - 49 %,1,1,1999,7
+Id_d576fk1223,2021-08-17,1,self employed,1065.0,Rural,Mpumalanga,,,,,,,,,,1,1,1992,5
+Id_jmo1p0tjym,2023-02-06,4,unemployed,311.0,Urban,Mpumalanga,1.0,,,3.0,,0 - 29 %,40 - 49 %,,,1,1,2000,1
+Id_d8gkscox0s,2022-02-23,2,wage employed,304.0,Rural,Gauteng,1.0,,,4.0,30 - 39 %,,,60 - 69 %,,1,1,1998,11
+Id_jetpful5e7,2022-03-10,2,unemployed,89.0,Suburb,Eastern Cape,,,,,,,,,,1,1,2001,12
+Id_zonbigyx4t,2023-03-02,4,wage employed,304.0,Rural,Limpopo,,,,,,,,,,0,1,2000,1
+Id_bi1yc9vq88,2023-03-02,4,unemployed,95.0,Rural,Mpumalanga,,,,,,,,,,0,1,2002,9
+Id_iqowdek0xm,2022-07-29,3,other,,Urban,Gauteng,,,,,,,,,,1,1,2000,9
+Id_yh2zxbusrv,2023-03-02,4,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,5.0,,40 - 49 %,50 - 59 %,,,0,1,2003,2
+Id_qogytkxokx,2022-02-24,2,unemployed,639.0,Urban,Gauteng,,,,,,,,,,1,1,1991,6
+Id_348g7ajkdg,2021-08-17,1,studying,,Rural,Mpumalanga,0.0,,,3.0,,,,,,1,1,1994,12
+Id_irw9oku9mc,2022-08-04,3,studying,,Urban,Gauteng,,,,,,,,,,0,1,2002,4
+Id_ck26va7hs8,2022-03-14,2,studying,,Suburb,Limpopo,,,,,,,,,,1,1,2000,1
+Id_gknpeh1mlz,2022-03-09,2,studying,,Urban,Free State,1.0,0.0,0.0,1.0,,40 - 49 %,50 - 59 %,,,1,1,2000,8
+Id_nbo9qanre9,2023-02-27,4,studying,,Urban,Free State,,,,,,,,,,0,1,1995,4
+Id_jd3f7tbsr9,2023-02-21,4,unemployed,36.0,Rural,Mpumalanga,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,0,1,2000,4
+Id_yw3hkuk5lp,2022-08-04,3,unemployed,5.0,Urban,Gauteng,1.0,,1.0,1.0,0 - 29 %,,50 - 59 %,,,1,1,1994,4
+Id_wwlwidq53z,2023-02-23,4,studying,,Rural,Mpumalanga,,,,,,,,,,0,1,2001,12
+Id_fj9yzgf5vj,2022-08-11,3,other,,Rural,Eastern Cape,0.0,0.0,0.0,3.0,,,,,,0,1,1997,11
+Id_ek7l4lccrm,2022-03-01,2,studying,,Urban,Eastern Cape,1.0,1.0,0.0,2.0,50 - 59 %,,60 - 69 %,,60 - 69 %,0,1,1997,9
+Id_6z48tsx5ha,2023-03-14,4,unemployed,365.0,Suburb,Mpumalanga,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,1,1,2003,5
+Id_2a734z3fvt,2022-08-04,3,other,,Urban,Gauteng,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,0,1,2000,1
+Id_kdnreggx5e,2022-03-15,2,unemployed,474.0,Rural,Limpopo,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_cet69pepc5,2022-08-12,3,other,,Rural,KwaZulu-Natal,1.0,,,4.0,,,,50 - 59 %,,1,1,1988,12
+Id_bfb7jbpp58,2023-03-06,4,unemployed,1065.0,Urban,Eastern Cape,,,,,,,,,,1,1,2000,1
+Id_3sc9hy9pnl,2022-08-01,3,unemployed,1282.0,Suburb,Gauteng,1.0,0.0,0.0,2.0,30 - 39 %,,60 - 69 %,,40 - 49 %,1,1,2001,4
+Id_38fax1mzo7,2023-02-10,4,wage employed,5.0,Urban,Gauteng,1.0,,,4.0,,60 - 69 %,60 - 69 %,,,0,1,2000,1
+Id_uky540uhdn,2023-03-22,4,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,,30 - 39 %,50 - 59 %,,,1,1,1999,9
+Id_y2qo4d089r,2022-02-28,2,unemployed,1616.0,Urban,Gauteng,1.0,,,3.0,0 - 29 %,,50 - 59 %,,,0,1,1997,7
+Id_ci4szc3xet,2021-08-20,1,studying,,Urban,Western Cape,1.0,,,4.0,,,,,,0,1,1998,8
+Id_4nbjxpmod9,2021-08-18,1,studying,,Urban,Gauteng,1.0,0.0,0.0,4.0,,30 - 39 %,,40 - 49 %,,1,1,2002,1
+Id_2et53ico1b,2022-03-16,2,self employed,810.0,Rural,Mpumalanga,1.0,0.0,0.0,2.0,0 - 29 %,,40 - 49 %,,0 - 29 %,1,1,2000,1
+Id_llhb3h18zz,2022-02-25,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,0.0,0 - 29 %,,,40 - 49 %,,1,1,1998,10
+Id_4xy2q6bvwu,2022-02-25,2,unemployed,1.0,Rural,Free State,1.0,0.0,1.0,3.0,40 - 49 %,,50 - 59 %,,40 - 49 %,1,1,1996,4
+Id_0t446pf9sd,2023-03-15,4,unemployed,95.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,,,50 - 59 %,,60 - 69 %,,1,1,2003,2
+Id_00zlrfqmzq,2022-08-04,3,unemployed,1313.0,Urban,Gauteng,1.0,0.0,0.0,,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,1998,1
+Id_em8ulxb1db,2022-08-04,3,unemployed,1344.0,Suburb,KwaZulu-Natal,1.0,1.0,0.0,2.0,50 - 59 %,,50 - 59 %,,40 - 49 %,0,1,1992,6
+Id_kmjnc9ur5g,2023-02-13,4,unemployed,859.0,Suburb,Gauteng,1.0,0.0,0.0,1.0,,30 - 39 %,40 - 49 %,,,0,1,1995,9
+Id_yf3z3o0fhx,2023-02-15,4,unemployed,5.0,Urban,Limpopo,1.0,1.0,0.0,3.0,50 - 59 %,,60 - 69 %,,,1,1,2000,2
+Id_r958h5noof,2023-02-21,4,unemployed,36.0,Urban,Free State,1.0,0.0,0.0,3.0,,60 - 69 %,60 - 69 %,,,0,1,2002,9
+Id_mz0bpppbvd,2022-02-24,2,unemployed,2981.0,Rural,KwaZulu-Natal,0.0,0.0,0.0,3.0,,,,,,1,1,1995,11
+Id_c3i8tw7icv,2023-02-02,4,self employed,,Urban,Gauteng,0.0,0.0,0.0,5.0,,,,,,0,1,1995,8
+Id_2gy0omss7n,2023-02-08,4,studying,,Rural,Limpopo,1.0,1.0,0.0,,40 - 49 %,,50 - 59 %,,50 - 59 %,0,1,1998,11
+Id_9d5hmod6rj,2023-03-14,4,unemployed,1127.0,Rural,KwaZulu-Natal,1.0,1.0,0.0,,,50 - 59 %,50 - 59 %,,,1,1,1995,1
+Id_feowgdfk89,2022-08-08,3,other,,Urban,Gauteng,1.0,,,2.0,,,,,,0,1,2002,2
+Id_05ujwz0gb8,2022-02-25,2,studying,,Suburb,Gauteng,,,,,,,,,,1,1,2000,4
+Id_40ef8qeqph,2023-03-13,4,wage employed,1461.0,Urban,Mpumalanga,1.0,0.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,1,1,1991,8
+Id_glrx63b5k0,2023-02-08,4,studying,,Rural,KwaZulu-Natal,0.0,0.0,0.0,3.0,,,,,,0,1,2004,8
+Id_zokjqclx85,2023-02-13,4,wage employed,61.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,40 - 49 %,50 - 59 %,,,1,1,1999,11
+Id_edhmx1ewmt,2023-02-14,4,unemployed,730.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,,1,1,2000,1
+Id_k6d1fjn3ce,2023-02-27,4,unemployed,767.0,Urban,Gauteng,,,,,,,,,,0,1,1999,2
+Id_74ypr4x2lg,2023-02-14,4,wage employed,454.0,Urban,Eastern Cape,,,,,,,,,,1,1,2000,1
+Id_tactlo06kp,2022-02-22,2,unemployed,580.0,Suburb,Free State,1.0,0.0,0.0,1.0,,30 - 39 %,40 - 49 %,,,0,1,1998,2
+Id_ud1ansdfjp,2022-07-28,3,studying,,Urban,Gauteng,,,,,,,,,,0,1,2002,2
+Id_7j0by4idt0,2022-08-02,3,other,,Rural,North West,,,,,,,,,,1,1,2000,3
+Id_e93jm3t1uk,2023-02-09,4,self employed,,Urban,Mpumalanga,1.0,0.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,0,1,1997,4
+Id_wwodvq73ya,2023-03-23,4,unemployed,826.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,,0 - 29 %,,40 - 49 %,,0 - 29 %,1,1,2002,4
+Id_h99n6j9b8x,2023-02-17,4,wage employed,273.0,Urban,Western Cape,,,,,,,,,,1,1,1991,9
+Id_bnhpk27n3b,2023-02-02,4,wage employed,273.0,Urban,KwaZulu-Natal,1.0,,,2.0,50 - 59 %,,60 - 69 %,,50 - 59 %,0,1,2000,1
+Id_zjz3u87urs,2023-02-13,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,50 - 59 %,50 - 59 %,,,0,1,2003,7
+Id_1s1n77nf61,2023-03-16,4,unemployed,3438.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,1992,8
+Id_qqkhha9qn1,2023-02-02,4,studying,,Urban,KwaZulu-Natal,1.0,1.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_dkuhwjxz2t,2023-03-02,4,unemployed,1160.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,0,1,1991,12
+Id_tmra90saen,2023-02-09,4,unemployed,646.0,Urban,Mpumalanga,0.0,0.0,0.0,2.0,,,,,,0,1,1996,5
+Id_gmgab1tjkx,2022-08-10,3,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,5.0,50 - 59 %,,,60 - 69 %,,1,1,2000,6
+Id_ypo3yhdl2t,2023-02-28,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,40 - 49 %,,50 - 59 %,,40 - 49 %,0,1,1998,7
+Id_xeb1emh49q,2023-03-24,4,other,,Urban,Western Cape,,,,,,,,,,1,1,1988,3
+Id_1xhamm9r6s,2023-03-23,4,studying,,Urban,Western Cape,,,,,,,,,,1,1,1994,7
+Id_oc2d5wolqe,2022-08-04,3,wage employed,,Urban,Gauteng,,,,,,,,,,1,1,1983,3
+Id_0klfdpj6s6,2022-08-01,3,unemployed,492.0,Urban,Mpumalanga,1.0,0.0,0.0,5.0,,70 - 79 %,,60 - 69 %,,1,1,1993,6
+Id_gm26c8jgke,2022-07-29,3,other,,Urban,Gauteng,1.0,0.0,0.0,2.0,,30 - 39 %,40 - 49 %,,,1,1,1999,7
+Id_bjtscqn2ts,2023-03-20,4,unemployed,429.0,Rural,Limpopo,,,,,,,,,,1,1,2001,7
+Id_noa2ioa9lh,2023-03-23,4,unemployed,795.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,1,1,2002,3
+Id_1ddi36nyd0,2022-08-04,3,other,,Urban,Free State,1.0,0.0,0.0,5.0,30 - 39 %,,,40 - 49 %,,0,1,2001,5
+Id_159soef5m8,2022-03-01,2,unemployed,63.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,40 - 49 %,,50 - 59 %,,30 - 39 %,0,1,2002,6
+Id_y37m1wd7mj,2023-02-16,4,studying,,Urban,Free State,1.0,0.0,0.0,1.0,50 - 59 %,,50 - 59 %,,50 - 59 %,0,1,1997,7
+Id_pgdt1aug9e,2021-08-17,1,studying,,Urban,Western Cape,1.0,,,5.0,,,,,,1,1,2002,8
+Id_3mopp0r8cd,2022-03-03,2,studying,,Urban,Eastern Cape,1.0,1.0,0.0,2.0,50 - 59 %,,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_5vwe4gvznf,2022-08-08,3,unemployed,523.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,40 - 49 %,50 - 59 %,,,0,1,1996,11
+Id_iilce2yj2f,2023-03-20,4,unemployed,1313.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1991,9
+Id_7nvvd1lk1d,2022-02-25,2,wage employed,395.0,Suburb,Gauteng,,,,,,,,,,1,1,1985,7
+Id_40zau02q90,2022-03-15,2,studying,,Urban,Eastern Cape,1.0,0.0,0.0,5.0,,50 - 59 %,,50 - 59 %,,1,1,2000,1
+Id_us5fgsfh0i,2022-08-01,3,unemployed,552.0,Urban,Mpumalanga,,,,,,,,,,1,1,1997,11
+Id_p8blyf0sfe,2022-03-17,2,unemployed,795.0,Urban,Free State,1.0,0.0,0.0,1.0,40 - 49 %,,60 - 69 %,,,0,1,2000,1
+Id_0ll80ruw2v,2023-02-17,4,unemployed,36.0,Urban,Limpopo,1.0,0.0,0.0,,,60 - 69 %,50 - 59 %,,,0,1,1996,7
+Id_djd0vhwc3k,2022-08-12,3,wage employed,,Urban,Western Cape,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,,0,1,1999,5
+Id_pngct0k2ug,2023-03-02,4,wage employed,123.0,Urban,Western Cape,,,,,,,,,,0,1,1993,2
+Id_wmram8lobh,2023-03-15,4,unemployed,5.0,Urban,Eastern Cape,,,,,,,,,,1,1,1999,5
+Id_rldh0ethui,2023-02-20,4,unemployed,432.0,Rural,Limpopo,,,,,,,,,,0,1,1993,9
+Id_m7p2ae3q43,2022-03-04,2,unemployed,405.0,Urban,Gauteng,,,,,,,,,,1,1,2000,1
+Id_vrxh4nfhco,2023-02-06,4,unemployed,250.0,Suburb,Western Cape,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,1997,7
+Id_xmosmvk3qs,2023-03-03,4,self employed,,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2000,5
+Id_u73psp5yh8,2022-07-28,3,other,,Urban,Gauteng,,,,,,,,,,0,1,2001,4
+Id_fxafpxwjnu,2022-08-03,3,wage employed,,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2001,8
+Id_17yccaoc4i,2022-02-28,2,unemployed,2104.0,Urban,Eastern Cape,0.0,,,5.0,,,,,,0,1,1994,3
+Id_3wayyjiv93,2021-08-23,1,unemployed,218.0,Urban,Gauteng,1.0,,,5.0,,,,,,0,1,2002,4
+Id_wg4tq581y8,2022-08-08,3,wage employed,431.0,Urban,Eastern Cape,,,,,,,,,,1,1,1996,5
+Id_hdt5zx2u2z,2022-03-17,2,unemployed,1160.0,Urban,KwaZulu-Natal,1.0,,,4.0,60 - 69 %,,80 - 100 %,,,0,1,2000,1
+Id_0txfwbwelo,2022-03-14,2,unemployed,64.0,Rural,Limpopo,1.0,,,1.0,,50 - 59 %,40 - 49 %,,,1,1,2000,1
+Id_9kxb9z5ms3,2023-03-07,4,other,,Urban,KwaZulu-Natal,1.0,1.0,0.0,4.0,,50 - 59 %,70 - 79 %,,,1,1,1996,4
+Id_jqgdpp1tgc,2021-08-23,1,studying,,Urban,Western Cape,1.0,0.0,0.0,0.0,,40 - 49 %,50 - 59 %,,,0,1,2000,12
+Id_yy83gmm9fp,2023-03-14,4,wage employed,455.0,Suburb,Eastern Cape,,,,,,,,,,1,1,1993,9
+Id_fyiapxv2f4,2022-03-02,2,studying,,Urban,Western Cape,1.0,1.0,0.0,,,40 - 49 %,60 - 69 %,,,1,1,2000,1
+Id_24y5rtqdbh,2023-02-20,4,self employed,,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,30 - 39 %,60 - 69 %,,,0,1,2000,4
+Id_tr7ym74i6h,2022-02-24,2,studying,,Urban,Eastern Cape,1.0,,,2.0,40 - 49 %,,50 - 59 %,,,1,1,1997,5
+Id_8wenjbmetb,2022-08-04,3,other,,Rural,KwaZulu-Natal,,,,,,,,,,1,1,1989,6
+Id_edep6aanku,2022-03-02,2,unemployed,826.0,Urban,KwaZulu-Natal,1.0,,,3.0,30 - 39 %,,60 - 69 %,,0 - 29 %,1,1,2000,1
+Id_n05n95wki6,2023-03-02,4,studying,,Urban,Gauteng,1.0,0.0,0.0,5.0,60 - 69 %,,,50 - 59 %,,0,1,2000,12
+Id_w8dbhhy3mv,2022-02-24,2,unemployed,536.0,Rural,North West,1.0,0.0,0.0,2.0,,40 - 49 %,40 - 49 %,,,1,1,1996,11
+Id_1hbnmriv67,2023-02-28,4,unemployed,36.0,Urban,North West,1.0,0.0,0.0,1.0,,50 - 59 %,50 - 59 %,,,0,1,2000,10
+Id_m12odqjipy,2022-02-24,2,wage employed,121.0,Urban,Free State,1.0,0.0,0.0,1.0,,0 - 29 %,40 - 49 %,,,1,1,2000,2
+Id_pgowiu4ay7,2023-03-01,4,unemployed,516.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,0,1,2000,1
+Id_7zef3exinx,2022-02-24,2,unemployed,67.0,Urban,Gauteng,1.0,1.0,0.0,2.0,,50 - 59 %,60 - 69 %,,,1,1,1995,1
+Id_4lbrt2dp1k,2023-03-06,4,studying,,Rural,Mpumalanga,,,,,,,,,,1,1,2004,5
+Id_cpdjtrqs5i,2023-02-27,4,unemployed,1247.0,Urban,Gauteng,,,,,,,,,,0,1,1999,2
+Id_wqe4jv5vju,2023-03-13,4,wage employed,61.0,Suburb,KwaZulu-Natal,,,,,,,,,,1,1,1991,1
+Id_v8nbtier8s,2023-03-03,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1999,12
+Id_oefp0z401y,2022-08-03,3,unemployed,248.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1991,7
+Id_e609wfy9gv,2023-03-02,4,unemployed,1525.0,Urban,Limpopo,1.0,,,2.0,,50 - 59 %,50 - 59 %,,,1,1,2000,1
+Id_18es0bor3x,2022-08-05,3,other,,Urban,Gauteng,1.0,0.0,0.0,5.0,,60 - 69 %,,60 - 69 %,,0,1,2002,5
+Id_k1lxtif2yr,2023-03-23,4,unemployed,95.0,Urban,Eastern Cape,,,,,,,,,,1,1,2004,5
+Id_sgjb17ox0d,2022-03-02,2,studying,,Rural,KwaZulu-Natal,1.0,,,1.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_60lvu1g5vr,2023-02-09,4,studying,,Urban,Western Cape,1.0,,,3.0,40 - 49 %,,60 - 69 %,,40 - 49 %,1,1,2000,1
+Id_hszq494lsz,2022-08-12,3,other,,Urban,Western Cape,,,,,,,,,,0,1,1994,5
+Id_juwqprlsl8,2023-03-20,4,unemployed,217.0,Rural,Limpopo,,,,,,,,,,1,1,2000,10
+Id_kp4q5fjjqx,2022-02-24,2,self employed,1012.0,Urban,Gauteng,1.0,0.0,0.0,0.0,50 - 59 %,,,60 - 69 %,,1,1,1996,3
+Id_0uuvwis2pz,2023-03-14,4,wage employed,1155.0,Urban,Gauteng,1.0,0.0,0.0,3.0,40 - 49 %,,,60 - 69 %,,1,1,1992,9
+Id_kvlrs1bppw,2023-02-21,4,unemployed,1497.0,Rural,Mpumalanga,0.0,0.0,0.0,1.0,,,,,,0,1,1999,2
+Id_jxda21dkyc,2022-09-03,3,studying,,Urban,Gauteng,1.0,,,3.0,,40 - 49 %,60 - 69 %,,,1,1,2000,10
+Id_3sa1d5bidh,2023-02-10,4,unemployed,1862.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1991,8
+Id_gxsrofsx7z,2022-02-23,2,unemployed,334.0,Urban,Gauteng,1.0,,,5.0,,,,,,1,1,1987,2
+Id_1u8eimdw8h,2023-03-02,4,unemployed,339.0,Urban,Limpopo,1.0,0.0,0.0,4.0,0 - 29 %,,50 - 59 %,,30 - 39 %,0,1,1999,1
+Id_t5g49hter6,2023-02-24,4,studying,,Urban,Free State,0.0,0.0,0.0,,,,,,,0,1,2001,5
+Id_qev411tc1r,2021-08-16,1,studying,,Urban,Western Cape,1.0,,,3.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,5
+Id_vzuu4za6ja,2023-02-06,4,wage employed,273.0,Rural,Limpopo,1.0,0.0,0.0,,30 - 39 %,,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_vf3vexxwxh,2023-02-08,4,studying,,Rural,Limpopo,1.0,1.0,0.0,3.0,60 - 69 %,,60 - 69 %,,50 - 59 %,0,1,1997,12
+Id_7t0ufkfaze,2023-02-06,4,wage employed,92.0,Urban,Gauteng,0.0,0.0,0.0,,,,,,,1,1,1998,1
+Id_vfb6k3w9f2,2023-02-28,4,unemployed,97.0,Rural,Limpopo,,,,,,,,,,0,1,1988,1
+Id_k4lg5akn14,2022-07-28,3,studying,,Urban,Gauteng,1.0,0.0,1.0,3.0,50 - 59 %,,60 - 69 %,,40 - 49 %,0,1,1997,5
+Id_kh5ajthu2j,2023-02-06,4,studying,,Rural,Eastern Cape,0.0,,,,,,,,,1,1,1998,9
+Id_tn457mb8lx,2023-03-22,4,unemployed,64.0,Rural,North West,,,,,,,,,,1,1,2004,2
+Id_4sr4gdsvjc,2023-02-08,4,unemployed,36.0,Suburb,Gauteng,1.0,0.0,0.0,4.0,,70 - 79 %,50 - 59 %,,,0,1,2003,12
+Id_dg0ix5kesc,2023-03-22,4,studying,,Urban,Gauteng,1.0,0.0,0.0,,40 - 49 %,,60 - 69 %,,50 - 59 %,1,1,1997,10
+Id_7u9ksmtsat,2022-07-28,3,other,,Urban,Gauteng,1.0,0.0,1.0,3.0,40 - 49 %,,60 - 69 %,,,0,1,1998,6
+Id_cc6m2mekge,2023-02-15,4,wage employed,273.0,Rural,Limpopo,1.0,,,3.0,0 - 29 %,,50 - 59 %,,,1,1,2000,1
+Id_0hcqnjy4i0,2023-03-23,4,unemployed,64.0,Urban,KwaZulu-Natal,1.0,0.0,1.0,,40 - 49 %,,60 - 69 %,,40 - 49 %,1,1,2001,7
+Id_2r3xg5c0jz,2023-03-13,4,unemployed,0.0,Urban,Free State,0.0,0.0,0.0,,,,,,,1,1,1988,12
+Id_o8unto6cre,2022-03-10,2,wage employed,52.0,Urban,Gauteng,1.0,0.0,0.0,5.0,,50 - 59 %,,40 - 49 %,,1,1,1994,8
+Id_lc474ixxv6,2023-02-07,4,unemployed,250.0,Rural,North West,,,,,,,,,,0,1,1989,11
+Id_71fsdk343s,2022-08-15,3,unemployed,2044.0,Rural,Limpopo,1.0,0.0,0.0,,,50 - 59 %,60 - 69 %,,0 - 29 %,0,1,1998,1
+Id_6rgj9sqdhp,2022-08-10,3,studying,,Rural,KwaZulu-Natal,,,,,,,,,,1,1,1987,9
+Id_2qniod6t8w,2022-03-02,2,wage employed,246.0,Urban,Western Cape,1.0,0.0,0.0,,,50 - 59 %,50 - 59 %,,,1,1,2000,1
+Id_6i9k0mlwmb,2023-03-01,4,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,,50 - 59 %,50 - 59 %,,30 - 39 %,0,1,2001,8
+Id_iz8l3colsx,2022-08-08,3,other,,Urban,Eastern Cape,1.0,1.0,0.0,2.0,70 - 79 %,,70 - 79 %,,70 - 79 %,0,1,2000,4
+Id_lgzugydgkd,2022-08-01,3,unemployed,2044.0,Urban,Limpopo,1.0,0.0,1.0,3.0,,40 - 49 %,60 - 69 %,,,1,1,1998,2
+Id_0y2oaob6bq,2023-02-14,4,unemployed,585.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1991,10
+Id_y1cs8ecmau,2023-02-07,4,unemployed,731.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,0 - 29 %,,70 - 79 %,,,1,1,2000,1
+Id_9wqxfv7g80,2023-03-01,4,studying,,Urban,Eastern Cape,,,,,,,,,,0,1,1998,7
+Id_x8929rb78h,2023-02-13,4,unemployed,401.0,Rural,Mpumalanga,0.0,0.0,0.0,,,,,,,0,1,2000,3
+Id_113sd16q6k,2023-02-07,4,unemployed,554.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,40 - 49 %,,60 - 69 %,,,1,1,2000,1
+Id_wf98gwc7ci,2023-02-13,4,other,,Urban,Gauteng,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,,1,1,2000,1
+Id_uwwhsxdi7x,2022-03-16,2,unemployed,1767.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2000,1
+Id_7x9ctsbnjt,2023-03-16,4,unemployed,64.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,1,1,2004,3
+Id_v5335amhoq,2021-08-18,1,wage employed,0.0,Urban,Western Cape,1.0,,,1.0,,,,,,0,1,1994,4
+Id_13ya7leq4p,2023-02-20,4,studying,,Rural,Limpopo,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,,0,1,1999,9
+Id_52zzybiaon,2023-03-06,4,unemployed,64.0,Urban,Northern Cape,,,,,,,,,,1,1,2002,7
+Id_evlvtffu0e,2023-03-01,4,unemployed,795.0,Rural,Mpumalanga,1.0,,,1.0,,60 - 69 %,60 - 69 %,,,1,1,2000,1
+Id_1ukzpp3244,2021-08-18,1,wage employed,0.0,Urban,Gauteng,1.0,,,1.0,,,,,,0,1,1996,11
+Id_9gtmdrhzqz,2022-08-04,3,other,,Urban,Gauteng,1.0,0.0,0.0,1.0,,30 - 39 %,40 - 49 %,,,0,1,1996,7
+Id_8lsycyorqz,2023-02-09,4,unemployed,250.0,Urban,KwaZulu-Natal,0.0,,,2.0,,,,,,0,1,1989,12
+Id_oqhbvzjzr0,2021-08-17,1,wage employed,0.0,Suburb,Western Cape,1.0,,,4.0,,50 - 59 %,,50 - 59 %,,1,1,2000,12
+Id_tg2g5osn89,2022-07-29,3,unemployed,2378.0,Urban,Gauteng,,,,,,,,,,1,1,1996,12
+Id_ihwzkc38wk,2023-02-09,4,unemployed,334.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,1.0,,50 - 59 %,40 - 49 %,,,0,1,2003,6
+Id_fbs5y30vqw,2023-03-01,4,studying,,Urban,Gauteng,1.0,,,4.0,,50 - 59 %,,50 - 59 %,,1,1,2000,1
+Id_t8eov1x0d7,2023-02-10,4,wage employed,92.0,Urban,Western Cape,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,1,1,1995,8
+Id_5amqr6v4n0,2023-03-22,4,employment programme,548.0,Suburb,Mpumalanga,1.0,0.0,1.0,,30 - 39 %,,40 - 49 %,,30 - 39 %,1,1,1994,11
+Id_efbha40a05,2023-03-13,4,studying,,Urban,Mpumalanga,0.0,0.0,0.0,4.0,,,,,,1,1,1998,6
+Id_t1sysj0wy3,2023-02-15,4,unemployed,401.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2001,2
+Id_2o6e6hhl5q,2023-03-01,4,unemployed,278.0,Rural,Limpopo,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,1999,6
+Id_y2t37020xi,2022-08-03,3,wage employed,1527.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,1.0,0 - 29 %,,30 - 39 %,,,0,1,1995,6
+Id_1a1gb0ui08,2022-03-08,2,studying,,Rural,Mpumalanga,1.0,0.0,0.0,0.0,,40 - 49 %,,40 - 49 %,,1,1,2000,2
+Id_k7qkinfpa9,2022-02-22,2,wage employed,150.0,Rural,Mpumalanga,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,0 - 29 %,1,1,1997,7
+Id_rz90uy5431,2022-08-03,3,studying,,Urban,Eastern Cape,1.0,1.0,0.0,2.0,50 - 59 %,,70 - 79 %,,50 - 59 %,0,1,1999,2
+Id_abges53wx4,2022-08-01,3,studying,,Urban,Mpumalanga,,,,,,,,,,1,1,1997,7
+Id_ezvwuvxsle,2023-02-16,4,unemployed,401.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,30 - 39 %,,30 - 39 %,,30 - 39 %,0,1,1996,6
+Id_zws3xmvt8g,2023-02-10,4,studying,,Urban,Eastern Cape,,,,,,,,,,0,1,2000,1
+Id_ipc8z4thpq,2022-08-05,3,studying,,Urban,Mpumalanga,1.0,0.0,0.0,,60 - 69 %,,60 - 69 %,,60 - 69 %,0,1,2001,11
+Id_5uf57n1y5u,2023-02-08,4,unemployed,365.0,Urban,Gauteng,0.0,0.0,0.0,2.0,,,,,,0,1,2004,2
+Id_toxgbqarvk,2022-03-11,2,unemployed,1170.0,Rural,Mpumalanga,1.0,0.0,0.0,1.0,,50 - 59 %,50 - 59 %,,,1,1,2000,1
+Id_pwu53q9fid,2022-03-17,2,unemployed,21.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,2000,1
+Id_qxcteydvw4,2023-03-15,4,unemployed,429.0,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2002,7
+Id_zlxyvpskhr,2023-02-21,4,self employed,,Rural,KwaZulu-Natal,0.0,0.0,0.0,3.0,,,,,,0,1,1991,11
+Id_yjwtrw4211,2023-03-17,4,unemployed,95.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,1,1,2004,6
+Id_e5jhqca5i4,2022-03-17,2,unemployed,80.0,Urban,Free State,1.0,0.0,0.0,,,40 - 49 %,30 - 39 %,,,0,1,2000,1
+Id_dovofof2ez,2021-08-19,1,studying,,Urban,Mpumalanga,1.0,,,0.0,,,,,,0,1,1996,2
+Id_qyypzx9dxd,2023-03-20,4,wage employed,61.0,Rural,Gauteng,,,,,,,,,,1,1,1993,3
+Id_zdn85bltt8,2022-08-05,3,other,,Urban,Western Cape,1.0,,1.0,4.0,,30 - 39 %,,40 - 49 %,,1,1,1995,4
+Id_xyrhqbrbtb,2022-03-17,2,studying,,Urban,Gauteng,1.0,,,4.0,,30 - 39 %,50 - 59 %,,,0,1,2000,1
+Id_pfhj0zkdxv,2022-07-28,3,wage employed,,Urban,Gauteng,,,,,,,,,,0,1,2003,5
+Id_qu8nj046vh,2022-03-10,2,unemployed,439.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,5.0,,40 - 49 %,60 - 69 %,,,1,1,2002,2
+Id_qm01lkv6y9,2023-02-10,4,wage employed,273.0,Urban,North West,1.0,1.0,0.0,2.0,,60 - 69 %,60 - 69 %,,,1,1,2000,1
+Id_oxs6ca9bfg,2023-02-16,4,studying,,Suburb,KwaZulu-Natal,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,1999,6
+Id_y2ze63w79u,2022-08-11,3,other,,Rural,Gauteng,1.0,,,5.0,,40 - 49 %,50 - 59 %,,,1,1,1994,1
+Id_u4plk2fwf7,2023-02-20,4,unemployed,36.0,Urban,Eastern Cape,,,,,,,,,,0,1,2003,10
+Id_6z5b6j6qbu,2023-02-06,4,studying,,Urban,Gauteng,1.0,0.0,0.0,4.0,,40 - 49 %,50 - 59 %,,,1,1,2001,1
+Id_lqkf0cj1p1,2022-09-03,3,other,,Urban,Western Cape,1.0,,,5.0,,,,,,1,1,2002,4
+Id_quwzwou3vz,2022-08-03,3,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,40 - 49 %,,60 - 69 %,,40 - 49 %,0,1,2000,8
+Id_hhj18mp4sn,2022-08-02,3,unemployed,1678.0,Urban,Western Cape,,,,,,,,,,1,1,1997,6
+Id_f6k196prq4,2023-03-24,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,2002,12
+Id_3dytekgbci,2023-03-03,4,wage employed,120.0,Urban,KwaZulu-Natal,,,,,,,,,,0,1,1996,6
+Id_29e1z7h6u4,2023-02-20,4,wage employed,183.0,Rural,Limpopo,,,,,,,,,,0,1,2002,9
+Id_ni0yhnginh,2023-02-21,4,wage employed,0.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,70 - 79 %,50 - 59 %,,,0,1,1997,10
+Id_8k8f95ykxk,2022-03-10,2,wage employed,34.0,Urban,KwaZulu-Natal,1.0,0.0,1.0,4.0,,60 - 69 %,,50 - 59 %,,1,1,1993,7
+Id_coio2zican,2023-02-22,4,self employed,,Rural,Mpumalanga,0.0,0.0,0.0,1.0,,,,,,0,1,1997,9
+Id_ekv4iykprw,2023-02-01,4,wage employed,3137.0,Urban,Mpumalanga,1.0,0.0,0.0,,,50 - 59 %,40 - 49 %,,,0,1,1991,11
+Id_7w5dm3cyu3,2022-03-18,2,studying,,Urban,Gauteng,1.0,,,,0 - 29 %,,,50 - 59 %,,0,1,2000,1
+Id_s9sleswdwm,2023-03-20,4,wage employed,212.0,Urban,Western Cape,,,,,,,,,,1,1,1997,4
+Id_jnv3klawmz,2022-02-28,2,unemployed,336.0,Urban,Gauteng,1.0,,,4.0,0 - 29 %,,60 - 69 %,,40 - 49 %,0,1,2003,2
+Id_96q3d5zm6s,2023-03-23,4,unemployed,429.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,1,1,1998,2
+Id_5nnxzvswv1,2022-03-18,2,studying,,Urban,KwaZulu-Natal,1.0,,,5.0,0 - 29 %,,,50 - 59 %,,0,1,2000,1
+Id_n67tb71k1r,2023-02-13,4,unemployed,36.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,1995,9
+Id_hmdfu83skm,2022-03-07,2,employment programme,1784.0,Urban,Gauteng,1.0,0.0,0.0,4.0,70 - 79 %,,,70 - 79 %,70 - 79 %,0,1,2000,1
+Id_bc4oor1bto,2022-03-09,2,studying,,Urban,KwaZulu-Natal,1.0,1.0,,5.0,0 - 29 %,,,70 - 79 %,,1,1,1994,8
+Id_rdqh768b3r,2023-03-14,4,studying,,Urban,North West,,,,,,,,,,1,1,1994,3
+Id_bbrypkl3ft,2022-03-15,2,wage employed,30.0,Urban,KwaZulu-Natal,1.0,,,1.0,,50 - 59 %,60 - 69 %,,,1,1,2000,1
+Id_3n82oy9p15,2022-08-15,3,unemployed,552.0,Urban,Gauteng,1.0,,,4.0,,50 - 59 %,60 - 69 %,,,1,1,1998,2
+Id_qivthxzr2a,2023-03-23,4,wage employed,547.0,Urban,Gauteng,,,,,,,,,,1,1,1994,5
+Id_7ws4jz5001,2023-02-21,4,unemployed,1497.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,1.0,,40 - 49 %,40 - 49 %,,,1,1,1996,8
+Id_nz833h6upm,2022-02-22,2,studying,,Urban,Limpopo,1.0,0.0,0.0,2.0,,30 - 39 %,50 - 59 %,,,1,1,1999,7
+Id_ub7dbguckh,2022-03-09,2,unemployed,1891.0,Urban,North West,1.0,,,,,50 - 59 %,60 - 69 %,,,1,1,1990,2
+Id_cq54n2dcg3,2022-03-02,2,wage employed,151.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,60 - 69 %,50 - 59 %,,,0,1,1992,4
+Id_0hsgbh7fu1,2022-09-03,3,studying,,Urban,Gauteng,1.0,0.0,0.0,1.0,,30 - 39 %,50 - 59 %,,,1,1,1998,3
+Id_s5vcz76m8u,2023-02-20,4,wage employed,337.0,Urban,KwaZulu-Natal,1.0,0.0,1.0,,,30 - 39 %,50 - 59 %,,,0,1,1996,5
+Id_wa1aktiovb,2022-03-14,2,studying,,Urban,Free State,1.0,,,5.0,30 - 39 %,,,60 - 69 %,,1,1,2000,1
+Id_m153wx60hj,2021-08-17,1,employment programme,0.0,Urban,Gauteng,1.0,,,3.0,,,,,,1,1,1989,1
+Id_8452i7jerw,2022-08-04,3,other,,Urban,Mpumalanga,1.0,,,5.0,,,,,,1,1,1992,11
+Id_vn2x299g4w,2023-02-10,4,unemployed,1862.0,Rural,North West,1.0,0.0,0.0,2.0,,50 - 59 %,60 - 69 %,,,1,1,1999,9
+Id_ombws0yt8w,2023-03-15,4,unemployed,64.0,Suburb,Gauteng,1.0,0.0,0.0,4.0,,40 - 49 %,50 - 59 %,,,1,1,2003,5
+Id_m1n0e6d2q3,2022-03-01,2,studying,,Urban,Free State,1.0,,,,,70 - 79 %,80 - 100 %,,,0,1,2002,6
+Id_fjshad0tfs,2023-02-14,4,wage employed,122.0,Urban,Gauteng,1.0,0.0,0.0,1.0,30 - 39 %,,60 - 69 %,,30 - 39 %,0,1,2000,1
+Id_4law5rnagk,2022-02-25,2,unemployed,822.0,Urban,Gauteng,,,,,,,,,,1,1,2001,2
+Id_48gluzt7a3,2022-08-01,3,unemployed,1313.0,Rural,Mpumalanga,1.0,0.0,0.0,2.0,0 - 29 %,,40 - 49 %,,30 - 39 %,1,1,2000,2
+Id_d9mj1w2zlm,2023-02-20,4,unemployed,432.0,Rural,Mpumalanga,,,,,,,,,,0,1,1998,11
+Id_2c47srurj7,2023-03-22,4,unemployed,64.0,Suburb,Gauteng,,,,,,,,,,1,1,2000,7
+Id_1ehv4v8u5v,2022-08-03,3,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1999,9
+Id_nxjwl91wxs,2022-03-10,2,unemployed,1035.0,Urban,KwaZulu-Natal,1.0,,,5.0,,40 - 49 %,60 - 69 %,,,1,1,1997,11
+Id_dk7a4ym0qp,2022-02-22,2,wage employed,60.0,Urban,KwaZulu-Natal,1.0,,,5.0,,,,,,1,1,1996,11
+Id_g4ovfkuqix,2023-03-03,4,studying,,Rural,Mpumalanga,1.0,0.0,0.0,,,50 - 59 %,50 - 59 %,,,0,1,1999,9
+Id_mo5vj0g0zx,2021-08-20,1,studying,,Urban,Limpopo,1.0,,,5.0,,,,,,0,1,1997,5
+Id_pga279dvzu,2023-02-08,4,unemployed,342.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,40 - 49 %,40 - 49 %,,,0,1,1996,5
+Id_k8fq0m29in,2022-08-05,3,wage employed,1678.0,Urban,Mpumalanga,,,,,,,,,,0,1,1995,6
+Id_qdvblg1aea,2022-08-04,3,wage employed,36.0,Urban,Gauteng,1.0,,,4.0,,40 - 49 %,50 - 59 %,,,1,1,2001,10
+Id_514fm191b1,2022-08-04,3,studying,,Rural,Northern Cape,1.0,,,3.0,,,,,,1,1,1998,7
+Id_hppomtkw3n,2022-08-03,3,other,,Urban,Western Cape,1.0,0.0,0.0,5.0,30 - 39 %,,70 - 79 %,,,1,1,2002,6
+Id_p9qc9r8oz1,2023-03-06,4,unemployed,0.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,4.0,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,1996,9
+Id_nxpbqjf2bd,2023-02-16,4,unemployed,1132.0,Suburb,Gauteng,1.0,0.0,0.0,2.0,,30 - 39 %,40 - 49 %,,,1,1,2000,1
+Id_izog0o31bn,2022-07-28,3,other,,Urban,Gauteng,,,,,,,,,,1,1,2000,5
+Id_912m7l9c8d,2023-03-17,4,unemployed,64.0,Rural,Mpumalanga,,,,,,,,,,1,1,2001,3
+Id_lg7retw9ww,2022-08-03,3,unemployed,948.0,Suburb,KwaZulu-Natal,,,,,,,,,,1,1,1998,6
+Id_wswjtvcuft,2023-02-15,4,wage employed,700.0,Suburb,Limpopo,0.0,0.0,0.0,,,,,,,0,1,1998,5
+Id_9aqxopq9uy,2021-08-20,1,wage employed,0.0,Urban,Western Cape,0.0,0.0,0.0,5.0,,,,,,0,1,1992,1
+Id_dizqcuygh7,2023-02-09,4,unemployed,767.0,Urban,Northern Cape,,,,,,,,,,1,1,2000,1
+Id_24hmuyx4lu,2023-03-23,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,2000,2
+Id_pbs1k81jdk,2023-02-09,4,unemployed,401.0,Suburb,Mpumalanga,0.0,0.0,0.0,1.0,,,,,,0,1,1999,8
+Id_5bszucvd4t,2022-03-14,2,unemployed,273.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,1.0,40 - 49 %,,50 - 59 %,,40 - 49 %,1,1,2000,1
+Id_ie7rpmi6ow,2023-02-14,4,wage employed,0.0,Suburb,Gauteng,,,,,,,,,,0,1,1997,11
+Id_ypj8evnzun,2022-02-23,2,unemployed,981.0,Rural,Eastern Cape,0.0,,,,,,,,,1,1,1991,12
+Id_iepx7buu9w,2022-03-18,2,unemployed,447.0,Suburb,Mpumalanga,1.0,,,5.0,30 - 39 %,,,40 - 49 %,,0,1,2000,1
+Id_69ria2mqih,2022-03-18,2,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,40 - 49 %,30 - 39 %,,,0,1,2000,1
+Id_96lb0mej8g,2022-03-15,2,unemployed,214.0,Rural,KwaZulu-Natal,,,,,,,,,,1,1,2000,1
+Id_sndwx7ylvg,2023-03-24,4,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,,,,50 - 59 %,,1,1,1995,12
+Id_v6ka5h5pme,2022-03-07,2,unemployed,1160.0,Urban,Western Cape,1.0,,,,,40 - 49 %,,50 - 59 %,,0,1,2000,1
+Id_m6x3vmh0id,2023-02-22,4,wage employed,181.0,Urban,Free State,,,,,,,,,,0,1,1991,8
+Id_krw9rsq72a,2023-03-20,4,self employed,,Rural,Eastern Cape,,,,,,,,,,1,1,1996,7
+Id_bvrybvkauc,2023-02-10,4,studying,,Urban,Western Cape,1.0,1.0,0.0,3.0,50 - 59 %,,60 - 69 %,,40 - 49 %,0,1,1997,2
+Id_ssq5kv9zxg,2023-02-08,4,studying,,Rural,Limpopo,1.0,0.0,0.0,,40 - 49 %,,60 - 69 %,,50 - 59 %,1,1,2003,7
+Id_7khb49l40f,2021-08-13,1,wage employed,0.0,Urban,Free State,1.0,,,1.0,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,1989,5
+Id_arpv2c4o34,2022-02-28,2,studying,,Suburb,Eastern Cape,1.0,0.0,0.0,5.0,,50 - 59 %,,40 - 49 %,,0,1,1998,5
+Id_77660xv0hp,2023-03-01,4,unemployed,278.0,Rural,North West,,,,,,,,,,0,1,1996,2
+Id_v4d7lczkca,2022-07-29,3,studying,,Urban,Gauteng,,,,,,,,,,1,1,2004,5
+Id_2c1fdc98nb,2023-02-14,4,wage employed,184.0,Urban,Gauteng,1.0,0.0,0.0,3.0,40 - 49 %,,50 - 59 %,,,0,1,1997,1
+Id_i5vwe6egsj,2022-08-04,3,studying,,Urban,Gauteng,,,,,,,,,,0,1,2000,7
+Id_lv9x6pdnlw,2022-07-28,3,unemployed,978.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,30 - 39 %,50 - 59 %,,0 - 29 %,1,1,1999,5
+Id_ymv4d8xway,2023-03-17,4,unemployed,1770.0,Urban,Gauteng,,,,,,,,,,1,1,1991,10
+Id_mpgsyehi64,2023-03-03,4,studying,,Urban,Gauteng,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_cgzm433vp0,2023-02-06,4,studying,,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,2004,1
+Id_85q7sy7s73,2021-08-20,1,unemployed,951.0,Urban,Limpopo,1.0,,,,,40 - 49 %,40 - 49 %,,,0,1,1997,12
+Id_2mnmuw2sk0,2023-03-06,4,unemployed,217.0,Urban,Gauteng,1.0,0.0,0.0,,0 - 29 %,,30 - 39 %,,,1,1,1996,3
+Id_akgm585p89,2023-03-02,4,unemployed,2256.0,Rural,KwaZulu-Natal,0.0,0.0,0.0,2.0,,,,,,0,1,1994,8
+Id_if8yz77gp4,2023-02-14,4,unemployed,432.0,Suburb,Eastern Cape,,,,,,,,,,0,1,1999,1
+Id_p48e7s6bd4,2023-03-07,4,unemployed,1826.0,Rural,Mpumalanga,1.0,0.0,0.0,1.0,50 - 59 %,,60 - 69 %,,30 - 39 %,1,1,1994,8
+Id_s1xlpe5h8l,2023-02-27,4,studying,,Suburb,North West,1.0,0.0,0.0,4.0,70 - 79 %,,,50 - 59 %,,0,1,1996,9
+Id_621ofyxye6,2022-08-04,3,other,,Urban,Western Cape,1.0,,,5.0,,,,,,1,1,2003,3
+Id_al5rxgf8ge,2023-02-21,4,studying,,Urban,Eastern Cape,,,,,,,,,,0,1,1997,8
+Id_gf9wdi5ws4,2023-03-14,4,unemployed,826.0,Urban,North West,1.0,0.0,0.0,3.0,,0 - 29 %,40 - 49 %,,,1,1,1998,4
+Id_5w7aw9vz7s,2023-02-22,4,wage employed,273.0,Suburb,KwaZulu-Natal,,,,,,,,,,0,1,2000,7
+Id_b4r6kgg0tw,2023-03-16,4,studying,,Rural,Limpopo,,,,,,,,,,1,1,1992,6
+Id_o0wz1g8ehx,2022-02-24,2,wage employed,40.0,Urban,Western Cape,1.0,,,5.0,,,,,,1,1,2001,2
+Id_988cd18v6s,2023-03-14,4,studying,,Urban,Western Cape,,,,,,,,,,1,1,1996,10
+Id_uabgwoiryz,2023-03-02,4,unemployed,795.0,Rural,Mpumalanga,1.0,0.0,0.0,1.0,0 - 29 %,,40 - 49 %,,0 - 29 %,0,1,2000,3
+Id_ku8toy6hkh,2023-02-13,4,unemployed,889.0,Urban,KwaZulu-Natal,1.0,1.0,0.0,,,60 - 69 %,,50 - 59 %,,0,1,1991,10
+Id_g97dj3t8v2,2022-03-10,2,unemployed,825.0,Urban,Western Cape,1.0,,,,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2001,3
+Id_ywwnlmlw4n,2023-03-02,4,unemployed,1461.0,Suburb,KwaZulu-Natal,1.0,0.0,0.0,5.0,,40 - 49 %,,50 - 59 %,,1,1,2000,1
+Id_s7jocf41o6,2021-08-19,1,wage employed,0.0,Rural,Limpopo,1.0,0.0,0.0,1.0,,40 - 49 %,50 - 59 %,,,1,1,1993,12
+Id_ts4neughrb,2023-03-14,4,unemployed,429.0,Rural,Mpumalanga,1.0,0.0,0.0,3.0,,60 - 69 %,60 - 69 %,,,1,1,2000,9
+Id_e45x9vsdem,2023-02-13,4,unemployed,5.0,Urban,Limpopo,1.0,1.0,0.0,,,30 - 39 %,50 - 59 %,,,0,1,1989,7
+Id_4q7jewk3fk,2023-03-15,4,studying,,Urban,Gauteng,0.0,0.0,0.0,1.0,,,,,,1,1,2000,3
+Id_j2tdecxtoy,2022-08-10,3,other,,Urban,Western Cape,1.0,0.0,0.0,5.0,50 - 59 %,,,60 - 69 %,,0,1,2003,7
+Id_9z31ol7ujm,2023-03-23,4,wage employed,212.0,Urban,Gauteng,1.0,0.0,0.0,5.0,,40 - 49 %,,50 - 59 %,,1,1,2003,10
+Id_46uuy0ia04,2022-08-01,3,studying,,Urban,Mpumalanga,1.0,0.0,0.0,4.0,,40 - 49 %,60 - 69 %,,,1,1,2003,9
+Id_daph21jgcr,2023-02-22,4,studying,,Urban,KwaZulu-Natal,1.0,1.0,0.0,2.0,,40 - 49 %,60 - 69 %,,,0,1,1996,5
+Id_c6q3otyp6f,2023-02-08,4,unemployed,36.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,1.0,,40 - 49 %,60 - 69 %,,,0,1,2003,1
+Id_8f8g47n7xa,2023-02-10,4,unemployed,669.0,Suburb,Western Cape,,,,,,,,,,0,1,1998,7
+Id_wfx5uhn1v9,2023-02-17,4,unemployed,401.0,Rural,Mpumalanga,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2002,8
+Id_4rc5zyh5b0,2022-03-07,2,unemployed,71.0,Urban,Gauteng,1.0,0.0,0.0,1.0,60 - 69 %,,50 - 59 %,,30 - 39 %,0,1,2000,1
+Id_cqy9hcf26w,2023-02-21,4,unemployed,281.0,Rural,Limpopo,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,,0,1,1990,11
+Id_991vaya9oz,2022-07-28,3,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,1,1,2003,9
+Id_28vbxnfz4t,2023-02-06,4,unemployed,639.0,Rural,Eastern Cape,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,0,1,2000,1
+Id_cya49sy19a,2023-03-23,4,unemployed,28.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,1,1,1988,4
+Id_fcarifdm67,2022-08-04,3,other,,Rural,Limpopo,1.0,,1.0,2.0,,,,,,0,1,1990,6
+Id_itxuerh0tw,2023-03-14,4,studying,,Suburb,Eastern Cape,1.0,0.0,0.0,4.0,,50 - 59 %,50 - 59 %,,,1,1,2002,6
+Id_xqn24xlkh2,2022-09-03,3,other,,Urban,Gauteng,0.0,,,1.0,,,,,,0,1,1992,3
+Id_jro6zem5eo,2023-03-13,4,unemployed,1461.0,Urban,Gauteng,,,,,,,,,,1,1,1997,1
+Id_eo9tcsak28,2023-02-16,4,studying,,Urban,Gauteng,1.0,,,2.0,0 - 29 %,,40 - 49 %,,,1,1,2000,1
+Id_i71enax2kl,2023-02-24,4,unemployed,401.0,Urban,Mpumalanga,1.0,0.0,0.0,2.0,,60 - 69 %,50 - 59 %,,,0,1,2003,1
+Id_ahm1gmegal,2022-08-04,3,unemployed,2927.0,Rural,Limpopo,1.0,,1.0,1.0,0 - 29 %,,40 - 49 %,,,1,1,1986,5
+Id_kzz19zn94g,2022-08-02,3,wage employed,,Rural,North West,1.0,0.0,1.0,,,40 - 49 %,50 - 59 %,,,1,1,1990,2
+Id_ted137u8ep,2022-03-07,2,studying,,Urban,Eastern Cape,,,,,,,,,,0,1,2000,1
+Id_56pwnz0vy4,2023-03-20,4,unemployed,795.0,Urban,Gauteng,0.0,0.0,0.0,2.0,,,,,,1,1,2000,10
+Id_2pqek4txfn,2022-03-07,2,unemployed,95.0,Rural,Eastern Cape,,,,,,,,,,0,1,2000,1
+Id_tg6kznersq,2023-03-16,4,other,,Urban,Western Cape,1.0,0.0,1.0,5.0,50 - 59 %,,,60 - 69 %,40 - 49 %,1,1,1997,10
+Id_3ec107enjy,2023-02-13,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,30 - 39 %,,80 - 100 %,,0 - 29 %,1,1,2000,12
+Id_mly4fkgefn,2022-03-01,2,studying,,Suburb,North West,1.0,1.0,0.0,2.0,40 - 49 %,,70 - 79 %,,,0,1,1991,7
+Id_d5yewin57w,2022-03-08,2,unemployed,2993.0,Urban,Gauteng,1.0,,,1.0,,40 - 49 %,40 - 49 %,,,1,1,1992,2
+Id_o5i79cm6dk,2022-03-14,2,unemployed,430.0,Rural,Mpumalanga,1.0,0.0,0.0,5.0,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_xf4d4limyc,2022-08-04,3,wage employed,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1990,9
+Id_albyzxx4s9,2023-02-10,4,wage employed,153.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,40 - 49 %,60 - 69 %,,,1,1,2000,1
+Id_qlyhe7bbtx,2021-08-19,1,wage employed,0.0,Rural,Limpopo,1.0,1.0,0.0,3.0,,60 - 69 %,50 - 59 %,,,0,1,1996,7
+Id_b78izf9qye,2022-07-29,3,studying,,Urban,Limpopo,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,2002,8
+Id_9ez9kqm468,2021-08-23,1,studying,,Urban,Northern Cape,1.0,,,1.0,,,,,,0,1,1998,10
+Id_havjl4t04o,2023-03-06,4,unemployed,64.0,Suburb,Gauteng,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,0 - 29 %,1,1,2002,4
+Id_lg0jdl6sst,2023-02-08,4,studying,,Urban,Gauteng,1.0,0.0,0.0,1.0,,0 - 29 %,60 - 69 %,,,1,1,2000,2
+Id_bokrjktrb7,2022-03-10,2,unemployed,42.0,Urban,Gauteng,,,,,,,,,,1,1,1989,10
+Id_emzaopvzg6,2022-02-23,2,studying,,Urban,North West,1.0,0.0,0.0,2.0,,0 - 29 %,50 - 59 %,,,1,1,1996,5
+Id_3ompii7fpn,2023-03-09,4,unemployed,5.0,Rural,Mpumalanga,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,,1,1,2000,1
+Id_fti4owc0kj,2023-03-23,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,1997,1
+Id_jwuhcghqeq,2023-02-02,4,unemployed,889.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,30 - 39 %,30 - 39 %,,,0,1,1998,10
+Id_4i22lvikkx,2022-08-08,3,wage employed,1374.0,Rural,KwaZulu-Natal,1.0,,,2.0,,60 - 69 %,50 - 59 %,,,0,1,1998,10
+Id_bp5tqt681z,2022-08-02,3,wage employed,,Urban,Western Cape,1.0,0.0,0.0,1.0,30 - 39 %,,60 - 69 %,,30 - 39 %,0,1,1991,9
+Id_sjyfd1ue1a,2021-08-11,1,wage employed,0.0,Urban,Gauteng,1.0,,,2.0,,,,,,1,1,1994,9
+Id_gqmp65ivhu,2022-08-10,3,unemployed,158.0,Rural,Mpumalanga,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,40 - 49 %,1,1,1997,3
+Id_4f57iaju3g,2023-02-21,4,wage employed,608.0,Suburb,Limpopo,1.0,,,,,40 - 49 %,40 - 49 %,,,0,1,1994,2
+Id_pts6c1e9qp,2023-03-07,4,unemployed,1826.0,Rural,Mpumalanga,,,,,,,,,,1,1,1993,1
+Id_28yembc81t,2023-03-01,4,unemployed,304.0,Rural,Mpumalanga,,,,,,,,,,0,1,1991,2
+Id_cxpjtf7jst,2022-07-28,3,studying,,Suburb,Gauteng,1.0,0.0,0.0,1.0,,30 - 39 %,50 - 59 %,,,1,1,2000,4
+Id_w70w1lferx,2023-03-02,4,wage employed,2621.0,Urban,Free State,,,,,,,,,,0,1,1995,8
+Id_a1754pyw13,2022-08-04,3,unemployed,127.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,,1,1,2000,3
+Id_8por8rjj4p,2022-03-16,2,unemployed,103.0,Urban,Limpopo,1.0,,,3.0,,50 - 59 %,50 - 59 %,,,0,1,2000,1
+Id_n2elz6kur2,2022-08-10,3,other,,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,1999,9
+Id_r50xfb685c,2023-02-15,4,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,,,,40 - 49 %,,,0,1,2002,3
+Id_6af93sthv9,2022-02-24,2,wage employed,289.0,Urban,Eastern Cape,,,,,,,,,,1,1,1987,1
+Id_32dumey0cf,2023-02-07,4,wage employed,304.0,Suburb,Gauteng,1.0,0.0,0.0,5.0,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_yc7vltimgr,2023-02-15,4,wage employed,212.0,Urban,North West,1.0,0.0,0.0,,,40 - 49 %,40 - 49 %,,,0,1,2000,10
+Id_4so7kektqw,2023-02-22,4,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,0,1,1997,4
+Id_tpi5tlzak1,2023-03-06,4,studying,,Urban,Free State,1.0,1.0,0.0,5.0,40 - 49 %,,,60 - 69 %,,1,1,1994,5
+Id_pwx1tw8cmr,2022-07-29,3,unemployed,917.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,30 - 39 %,50 - 59 %,,,1,1,1999,9
+Id_v8ihu4xlmg,2023-02-06,4,unemployed,36.0,Urban,Gauteng,1.0,0.0,0.0,2.0,0 - 29 %,,50 - 59 %,,0 - 29 %,1,1,2003,8
+Id_d98euufkmz,2022-03-03,2,wage employed,10.0,Urban,KwaZulu-Natal,1.0,1.0,0.0,,30 - 39 %,,70 - 79 %,,,1,1,2000,1
+Id_wvbmz5h0y4,2023-02-10,4,unemployed,913.0,Urban,North West,1.0,0.0,0.0,,30 - 39 %,,40 - 49 %,,,0,1,1988,6
+Id_7hojo3tm6x,2023-02-01,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,5.0,,30 - 39 %,,50 - 59 %,,1,1,1997,3
+Id_mfkj143zj7,2021-08-12,1,studying,,Urban,Western Cape,1.0,0.0,0.0,2.0,0 - 29 %,,60 - 69 %,,40 - 49 %,1,1,1999,12
+Id_wdfby5aleu,2023-02-20,4,unemployed,736.0,Urban,Gauteng,0.0,0.0,0.0,3.0,,,,,,0,1,1993,3
+Id_082tmm337i,2023-03-01,4,wage employed,487.0,Rural,Limpopo,1.0,0.0,0.0,,,60 - 69 %,50 - 59 %,,,0,1,1995,5
+Id_v5rxpyka2o,2022-08-03,3,self employed,2409.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,0 - 29 %,,70 - 79 %,,30 - 39 %,1,1,1998,1
+Id_56096zutar,2023-03-20,4,unemployed,795.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,30 - 39 %,,60 - 69 %,,0 - 29 %,1,1,2002,1
+Id_e06p9hwo90,2023-02-17,4,unemployed,2593.0,Urban,KwaZulu-Natal,1.0,1.0,0.0,3.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,1997,8
+Id_7i7f1hihsa,2023-02-17,4,unemployed,370.0,Urban,Limpopo,1.0,0.0,0.0,3.0,0 - 29 %,,50 - 59 %,,,1,1,1999,1
+Id_b6wu7mwwg2,2022-08-01,3,self employed,186.0,Urban,Limpopo,1.0,0.0,1.0,5.0,,60 - 69 %,60 - 69 %,,,0,1,1999,6
+Id_h2yuv8dx0b,2022-03-01,2,unemployed,156.0,Urban,Gauteng,,,,,,,,,,0,1,1993,12
+Id_9exbi04ahn,2022-08-10,3,other,,Urban,Gauteng,1.0,,,5.0,,70 - 79 %,,50 - 59 %,0 - 29 %,0,1,1991,3
+Id_cli9pqpadf,2023-02-27,4,wage employed,731.0,Urban,Mpumalanga,1.0,0.0,1.0,1.0,70 - 79 %,,60 - 69 %,,60 - 69 %,0,1,1993,12
+Id_dm9pbvdt6s,2023-03-06,4,wage employed,1856.0,Urban,Eastern Cape,,,,,,,,,,1,1,1988,5
+Id_0dgvt5lwkt,2023-03-06,4,wage employed,92.0,Urban,Eastern Cape,,,,,,,,,,1,1,1999,9
+Id_0y1rlb9gml,2023-02-22,4,studying,,Urban,Gauteng,1.0,0.0,0.0,5.0,,70 - 79 %,,40 - 49 %,,0,1,2001,5
+Id_ygs91lzs1g,2022-08-02,3,self employed,,Urban,Western Cape,,,,,,,,,,1,1,2003,12
+Id_bhpmmdvwv8,2023-03-06,4,studying,,Urban,Gauteng,1.0,,,3.0,,50 - 59 %,60 - 69 %,,,0,1,2000,1
+Id_6rtpenbpwo,2023-02-28,4,wage employed,62.0,Urban,North West,1.0,0.0,0.0,4.0,,40 - 49 %,50 - 59 %,,,0,1,2000,10
+Id_ovc1uvevfr,2022-02-24,2,wage employed,35.0,Urban,Western Cape,1.0,,,5.0,,,,,,1,1,2002,4
+Id_a5zyi2fa7u,2023-03-01,4,studying,,Urban,Western Cape,1.0,,,4.0,,0 - 29 %,,40 - 49 %,,1,1,2000,1
+Id_y8htg2u24u,2023-02-08,4,unemployed,36.0,Urban,Western Cape,1.0,0.0,0.0,,,40 - 49 %,,50 - 59 %,,0,1,2000,1
+Id_1c46c6iwch,2022-09-03,3,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,40 - 49 %,60 - 69 %,,,1,1,1999,7
+Id_widy5om8gm,2023-03-02,4,studying,,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1997,4
+Id_pnrdz62fyr,2022-02-24,2,unemployed,93.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,3.0,,,,,,1,1,1998,6
+Id_fyquookm88,2022-08-10,3,self employed,97.0,Urban,Western Cape,1.0,0.0,0.0,,,,,,,0,1,1987,4
+Id_crylmlfts8,2023-02-06,4,unemployed,36.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,,50 - 59 %,,,1,1,1986,12
+Id_br4gx830z6,2023-02-06,4,studying,,Urban,KwaZulu-Natal,1.0,,,,,40 - 49 %,50 - 59 %,,,0,1,1999,1
+Id_m5833t25xh,2023-03-20,4,unemployed,761.0,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,0 - 29 %,50 - 59 %,,,1,1,1991,3
+Id_lsjdpg6t8t,2023-02-08,4,wage employed,518.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,0,1,2000,1
+Id_4we5bf1am3,2023-02-07,4,unemployed,1857.0,Suburb,Mpumalanga,1.0,0.0,0.0,1.0,,30 - 39 %,50 - 59 %,,,0,1,1997,12
+Id_v0c8sf03hr,2022-03-15,2,unemployed,1034.0,Urban,KwaZulu-Natal,1.0,,1.0,,,40 - 49 %,60 - 69 %,,,1,1,2000,1
+Id_4q6hv17ay5,2023-03-02,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,5.0,,30 - 39 %,40 - 49 %,,,0,1,2000,1
+Id_kq286lbazx,2023-03-15,4,studying,,Suburb,Limpopo,1.0,0.0,0.0,2.0,,30 - 39 %,60 - 69 %,,,1,1,2002,8
+Id_pvp0adve54,2023-02-28,4,unemployed,401.0,Rural,Northern Cape,,,,,,,,,,0,1,1999,8
+Id_p1eydacgzh,2023-02-09,4,wage employed,1096.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,50 - 59 %,50 - 59 %,,,0,1,1997,9
+Id_oo3wb1e85o,2022-08-02,3,other,,Rural,North West,,,,,,,,,,1,1,2002,8
+Id_w69r6tvq9h,2023-03-01,4,unemployed,309.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,50 - 59 %,,,50 - 59 %,50 - 59 %,0,1,1992,8
+Id_tbzh0jlylk,2023-02-16,4,self employed,,Urban,Gauteng,,,,,,,,,,0,1,1995,8
+Id_pbe3qcw8y9,2023-02-09,4,unemployed,36.0,Rural,Mpumalanga,,,,,,,,,,0,1,2003,1
+Id_xqktzgfy6u,2023-02-20,4,studying,,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1997,10
+Id_3vrhj3xbrd,2021-08-18,1,self employed,90.0,Urban,Gauteng,1.0,,,5.0,,,,,,0,1,1994,4
+Id_klimz9l0mu,2023-02-15,4,studying,,Urban,Western Cape,1.0,0.0,0.0,3.0,,40 - 49 %,,40 - 49 %,,0,1,2001,12
+Id_ek9nter49s,2023-02-15,4,unemployed,731.0,Urban,Western Cape,,,,,,,,,,0,1,2002,6
+Id_0fb3aq83x6,2023-02-07,4,unemployed,342.0,Rural,Limpopo,1.0,0.0,0.0,,40 - 49 %,,60 - 69 %,,30 - 39 %,1,1,2000,1
+Id_d9us82mokz,2022-03-07,2,unemployed,125.0,Rural,Mpumalanga,1.0,,,5.0,60 - 69 %,,,60 - 69 %,40 - 49 %,0,1,2000,1
+Id_z0qbgzcfmr,2023-02-13,4,unemployed,36.0,Urban,Mpumalanga,1.0,,,1.0,30 - 39 %,,50 - 59 %,,60 - 69 %,0,1,2000,1
+Id_u1kcet2rdh,2023-02-02,4,wage employed,0.0,Urban,Gauteng,1.0,0.0,0.0,1.0,30 - 39 %,,30 - 39 %,,0 - 29 %,0,1,1989,8
+Id_kvyicvfgcf,2022-03-18,2,studying,,Rural,KwaZulu-Natal,0.0,,,,,,,,,0,1,2000,1
+Id_i7nvvbhrts,2023-02-16,4,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,,,,,,,1,1,1996,12
+Id_q1ww54vkgt,2022-02-24,2,unemployed,1052.0,Rural,Limpopo,1.0,,,1.0,30 - 39 %,,60 - 69 %,,50 - 59 %,1,1,1997,9
+Id_dwalixvqbi,2023-03-02,4,studying,,Urban,KwaZulu-Natal,1.0,1.0,0.0,2.0,30 - 39 %,,60 - 69 %,,50 - 59 %,1,1,2000,1
+Id_hzu1kl2y0v,2022-03-02,2,unemployed,184.0,Urban,Gauteng,1.0,,,4.0,,,,,,0,1,2000,6
+Id_253hhat9ly,2022-02-24,2,unemployed,1163.0,Urban,Gauteng,0.0,0.0,0.0,1.0,,,,,,1,1,1991,9
+Id_gxb01c8rsw,2023-03-09,4,studying,,Rural,North West,1.0,0.0,0.0,1.0,,30 - 39 %,30 - 39 %,,,1,1,1990,7
+Id_56w10cmkvf,2023-03-06,4,unemployed,516.0,Urban,Gauteng,0.0,0.0,0.0,,,,,,,0,1,2000,1
+Id_eqbidxw1n0,2022-08-12,3,wage employed,,Rural,North West,1.0,,,,,40 - 49 %,60 - 69 %,,,0,1,1996,10
+Id_5y54vl5ig1,2022-08-10,3,wage employed,,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,1,1,2001,9
+Id_vls2yvc9s3,2023-02-16,4,unemployed,67.0,Rural,Mpumalanga,1.0,0.0,0.0,1.0,,40 - 49 %,60 - 69 %,,,0,1,2002,8
+Id_lpu65atq1c,2022-08-01,3,other,,Rural,Mpumalanga,,,,,,,,,,0,1,2001,6
+Id_n05cfjxl8y,2023-02-16,4,wage employed,820.0,Suburb,Northern Cape,,,,,,,,,,0,1,1998,4
+Id_pdr4bb3ste,2023-03-07,4,unemployed,1067.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,30 - 39 %,40 - 49 %,,,1,1,1991,11
+Id_io4athusho,2023-03-03,4,unemployed,64.0,Urban,Gauteng,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,0,1,2001,8
+Id_5g8e7drfum,2022-08-10,3,studying,,Rural,KwaZulu-Natal,1.0,0.0,0.0,1.0,30 - 39 %,,60 - 69 %,,30 - 39 %,0,1,2002,11
+Id_rur7k1t45e,2022-02-22,2,unemployed,434.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,5.0,30 - 39 %,,,40 - 49 %,40 - 49 %,1,1,2002,5
+Id_dvaa498nit,2022-02-25,2,studying,,Urban,Eastern Cape,1.0,,,2.0,0 - 29 %,,50 - 59 %,,,1,1,2002,11
+Id_ldfj07sgyl,2023-03-03,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_eivpjzohoz,2021-08-12,1,wage employed,0.0,Urban,Gauteng,0.0,0.0,0.0,2.0,,,,,,0,1,1988,10
+Id_8gnthm24dj,2023-02-27,4,wage employed,273.0,Urban,KwaZulu-Natal,0.0,0.0,0.0,2.0,,,,,,0,1,1992,8
+Id_rpdyopec13,2023-02-17,4,wage employed,153.0,Urban,Limpopo,1.0,1.0,0.0,2.0,60 - 69 %,,60 - 69 %,,,1,1,1997,9
+Id_n00yaaekij,2021-08-13,1,employment programme,0.0,Rural,KwaZulu-Natal,1.0,1.0,,2.0,,50 - 59 %,60 - 69 %,,,1,1,1990,11
+Id_y25gm2cjyx,2022-08-05,3,other,,Urban,Gauteng,1.0,1.0,,,40 - 49 %,,,50 - 59 %,40 - 49 %,1,1,1998,6
+Id_5isfuhdqvs,2023-02-09,4,studying,,Urban,North West,1.0,0.0,0.0,,,50 - 59 %,60 - 69 %,,,1,1,2002,10
+Id_bl2dh6tjxa,2022-08-03,3,other,,Urban,KwaZulu-Natal,1.0,0.0,1.0,3.0,0 - 29 %,,70 - 79 %,,,1,1,2001,10
+Id_tasaabrqhh,2023-02-08,4,unemployed,951.0,Suburb,Limpopo,1.0,,,3.0,30 - 39 %,,60 - 69 %,,,1,1,2000,1
+Id_12vvfv3u1d,2023-02-03,4,studying,,Urban,Gauteng,1.0,,,3.0,,,,,,1,1,1998,10
+Id_hxum4ig62c,2022-02-24,2,unemployed,639.0,Rural,North West,1.0,0.0,0.0,,0 - 29 %,,60 - 69 %,,0 - 29 %,1,1,1999,9
+Id_aix78mhk10,2023-02-06,4,studying,,Urban,Gauteng,1.0,1.0,0.0,2.0,,50 - 59 %,50 - 59 %,,,0,1,1996,10
+Id_yzdr5i96vv,2021-08-19,1,studying,,Urban,KwaZulu-Natal,0.0,,,4.0,,,,,,0,1,1995,11
+Id_773tk3fw8i,2023-03-22,4,unemployed,429.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,50 - 59 %,60 - 69 %,,,1,1,2003,4
+Id_ok0me3howk,2022-03-11,2,unemployed,49.0,Urban,Gauteng,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,1,1,2000,1
+Id_ua982ydwug,2023-02-24,4,unemployed,2228.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,4.0,,,40 - 49 %,,,0,1,1996,12
+Id_pgbegf1f3w,2021-08-16,1,employment programme,0.0,Suburb,KwaZulu-Natal,1.0,,,1.0,40 - 49 %,,70 - 79 %,,40 - 49 %,0,1,1990,12
+Id_5v632aoiuj,2023-03-22,4,studying,,Urban,Gauteng,1.0,0.0,0.0,5.0,,40 - 49 %,,50 - 59 %,,1,1,2004,3
+Id_3mggq20q5n,2023-02-21,4,studying,,Urban,Eastern Cape,,,,,,,,,,0,1,2002,3
+Id_qydfymxddq,2023-02-09,4,self employed,,Urban,Gauteng,1.0,,,,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,2000,1
+Id_7yetbmm8b9,2023-03-23,4,studying,,Urban,Limpopo,1.0,0.0,0.0,2.0,40 - 49 %,,60 - 69 %,,40 - 49 %,1,1,2003,8
+Id_ikvtub301y,2022-03-17,2,unemployed,21.0,Rural,North West,1.0,0.0,0.0,4.0,,70 - 79 %,80 - 100 %,,,0,1,2000,1
+Id_a836a3iv7d,2023-02-02,4,unemployed,1163.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1991,8
+Id_vwc67cyqus,2023-02-27,4,unemployed,311.0,Urban,North West,,,,,,,,,,0,1,1999,6
+Id_kmjnwx4q8c,2022-07-28,3,other,,Suburb,Gauteng,1.0,0.0,0.0,4.0,,30 - 39 %,40 - 49 %,,,0,1,2001,7
+Id_08gwuwi46y,2023-03-15,4,unemployed,2191.0,Urban,Limpopo,,,,,,,,,,1,1,1998,3
+Id_gu6ndcj6av,2023-02-09,4,unemployed,1132.0,Urban,Gauteng,,,,,,,,,,0,1,1997,8
+Id_gwyrreff1l,2022-08-12,3,studying,,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,,70 - 79 %,,,1,1,1991,10
+Id_4o2q94kai0,2022-07-29,3,studying,,Urban,Limpopo,1.0,0.0,0.0,,0 - 29 %,,70 - 79 %,,40 - 49 %,0,1,2002,12
+Id_ojhqai34c1,2022-08-03,3,studying,,Suburb,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,70 - 79 %,,0 - 29 %,0,1,2001,5
+Id_up1mwe2044,2023-03-23,4,unemployed,1191.0,Suburb,Mpumalanga,1.0,0.0,0.0,1.0,50 - 59 %,,60 - 69 %,,40 - 49 %,1,1,2000,8
+Id_qq7vs8p18n,2023-02-17,4,unemployed,767.0,Urban,Free State,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,0,1,1999,11
+Id_zsaqnw7d0v,2023-03-02,4,studying,,Urban,Gauteng,,,,,,,,,,0,1,2002,9
+Id_u1s9wohj3g,2023-03-23,4,unemployed,1009.0,Urban,Mpumalanga,,,,,,,,,,1,1,1998,9
+Id_3l3yas6shm,2023-03-16,4,unemployed,460.0,Urban,Gauteng,,,,,,,,,,1,1,2002,8
+Id_h9khg197p6,2022-07-29,3,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,,40 - 49 %,,50 - 59 %,,1,1,2002,8
+Id_njxg81t45z,2023-03-20,4,studying,,Urban,Mpumalanga,1.0,0.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,1,1,1998,9
+Id_sy82hx1uxc,2023-02-16,4,wage employed,214.0,Urban,Eastern Cape,1.0,,,3.0,40 - 49 %,,70 - 79 %,,70 - 79 %,0,1,2000,1
+Id_uhgniic5m0,2023-03-23,4,unemployed,95.0,Rural,Eastern Cape,1.0,0.0,0.0,1.0,0 - 29 %,,40 - 49 %,,,1,1,1993,11
+Id_unwg3v9qc6,2021-08-12,1,studying,,Urban,Western Cape,1.0,,1.0,5.0,,,,,,0,1,1993,1
+Id_rhe2szyupu,2022-08-01,3,studying,,Rural,Mpumalanga,1.0,0.0,0.0,3.0,40 - 49 %,,60 - 69 %,,40 - 49 %,1,1,2002,10
+Id_qyjzcejzdd,2022-08-11,3,studying,,Suburb,KwaZulu-Natal,1.0,0.0,1.0,2.0,30 - 39 %,,60 - 69 %,,,1,1,2000,1
+Id_bcgsrtrilx,2022-03-01,2,wage employed,122.0,Urban,Gauteng,1.0,0.0,0.0,,,40 - 49 %,,40 - 49 %,,0,1,1998,10
+Id_jyl9dyazzj,2023-02-28,4,unemployed,67.0,Rural,North West,1.0,0.0,0.0,1.0,0 - 29 %,,50 - 59 %,,40 - 49 %,0,1,2002,4
+Id_lfnvs5qfs6,2023-03-13,4,studying,,Urban,Free State,,,,,,,,,,1,1,2003,5
+Id_s3yov319c8,2021-08-17,1,wage employed,0.0,Urban,Gauteng,1.0,,1.0,5.0,40 - 49 %,,,40 - 49 %,30 - 39 %,0,1,1987,8
+Id_5wbok9n3l5,2023-03-22,4,studying,,Urban,KwaZulu-Natal,1.0,0.0,0.0,0.0,,60 - 69 %,50 - 59 %,,,1,1,1994,11
+Id_uskq3sff9l,2023-03-14,4,unemployed,1921.0,Rural,KwaZulu-Natal,,,,,,,,,,1,1,1999,1
+Id_spvz4obbqe,2023-02-20,4,wage employed,183.0,Urban,Western Cape,1.0,0.0,0.0,3.0,,60 - 69 %,50 - 59 %,,,0,1,2001,9
+Id_nli80qhmqg,2023-03-07,4,studying,,Urban,Gauteng,,,,,,,,,,1,1,2004,6
+Id_sxatj1ojqn,2022-07-28,3,other,,Urban,Gauteng,,,,,,,,,,0,1,1994,7
+Id_9ptfv38fxh,2022-08-04,3,wage employed,,Suburb,Gauteng,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,30 - 39 %,0,1,2000,9
+Id_0uhsp1slil,2023-02-22,4,wage employed,2160.0,Urban,Gauteng,,,,,,,,,,0,1,1991,6
+Id_kfzxv30evr,2023-02-21,4,unemployed,158.0,Urban,Free State,,,,,,,,,,0,1,1990,1
+Id_m2t3i6tlzi,2023-03-23,4,studying,,Suburb,Gauteng,,,,,,,,,,1,1,2004,3
+Id_j1jagawqdy,2023-02-08,4,studying,,Urban,Gauteng,1.0,0.0,0.0,2.0,30 - 39 %,,70 - 79 %,,40 - 49 %,1,1,2002,4
+Id_q4bdkw5381,2023-03-16,4,unemployed,761.0,Rural,Limpopo,,,,,,,,,,1,1,2001,9
+Id_zn4pawmnma,2023-02-17,4,unemployed,67.0,Urban,Gauteng,1.0,0.0,0.0,4.0,,40 - 49 %,,50 - 59 %,,1,1,2004,6
+Id_05acjsunpq,2023-02-14,4,employment programme,245.0,Urban,Free State,1.0,,,3.0,,0 - 29 %,50 - 59 %,,,1,1,2000,1
+Id_xkygecr337,2023-03-13,4,wage employed,2892.0,Urban,Gauteng,1.0,0.0,1.0,,,60 - 69 %,70 - 79 %,,,1,1,1991,10
+Id_xyxkh063o0,2022-08-12,3,unemployed,1709.0,Rural,Mpumalanga,0.0,0.0,0.0,3.0,,,,,,0,1,1996,1
+Id_c0yf49nm78,2022-08-01,3,unemployed,1709.0,Urban,Limpopo,1.0,0.0,0.0,1.0,50 - 59 %,,70 - 79 %,,70 - 79 %,1,1,1997,3
+Id_qtor6gujoa,2022-03-07,2,studying,,Urban,Western Cape,,,,,,,,,,0,1,2000,1
+Id_j4o4svirmh,2023-03-22,4,wage employed,334.0,Urban,Eastern Cape,0.0,0.0,0.0,,,,,,,1,1,1998,9
+Id_xlqebp699d,2022-08-11,3,unemployed,614.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,50 - 59 %,,,1,1,2000,9
+Id_3gcdnzj5b1,2023-03-01,4,wage employed,214.0,Rural,Limpopo,1.0,0.0,1.0,2.0,60 - 69 %,,50 - 59 %,,60 - 69 %,0,1,2000,7
+Id_b2ohkp3p6j,2023-02-14,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,5.0,,30 - 39 %,,40 - 49 %,,1,1,2000,1
+Id_f84xz72m4k,2023-03-13,4,unemployed,273.0,Urban,Gauteng,0.0,0.0,0.0,5.0,,,,,,1,1,1994,1
+Id_od9hvlhh77,2022-08-03,3,self employed,66.0,Urban,KwaZulu-Natal,1.0,0.0,1.0,2.0,,50 - 59 %,70 - 79 %,,,1,1,1998,2
+Id_qvknbf86my,2023-02-24,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,2.0,,0 - 29 %,40 - 49 %,,,0,1,1996,2
+Id_enx4fslu9v,2022-03-11,2,unemployed,358.0,Rural,Limpopo,0.0,,,5.0,,,,,,1,1,2000,1
+Id_8m1ji2xuyk,2023-02-20,4,studying,,Rural,Mpumalanga,0.0,0.0,0.0,1.0,,,,,,0,1,1991,3
+Id_l5cyidvlab,2022-03-02,2,unemployed,764.0,Urban,Gauteng,0.0,0.0,0.0,4.0,,,,,,0,1,1994,8
+Id_jjuzk7vch1,2023-03-15,4,unemployed,761.0,Rural,North West,1.0,0.0,0.0,1.0,0 - 29 %,,50 - 59 %,,,1,1,1996,1
+Id_3rsvtpmh2z,2022-03-10,2,unemployed,2995.0,Urban,Eastern Cape,1.0,,,,,40 - 49 %,60 - 69 %,,,1,1,1986,7
+Id_ezpeuh4h34,2023-03-02,4,unemployed,1160.0,Urban,Gauteng,1.0,,,2.0,,0 - 29 %,40 - 49 %,,,1,1,2000,1
+Id_8xkalpnn9b,2023-02-14,4,wage employed,122.0,Urban,Free State,1.0,0.0,0.0,1.0,40 - 49 %,,40 - 49 %,,40 - 49 %,0,1,2001,9
+Id_njws0dmmap,2023-02-24,4,studying,,Rural,Limpopo,,,,,,,,,,0,1,2001,9
+Id_ablg0vuf2i,2023-03-14,4,unemployed,795.0,Urban,Eastern Cape,,,,,,,,,,1,1,1998,10
+Id_njonnfdy2x,2022-07-28,3,other,,Urban,Gauteng,,,,,,,,,,0,1,1992,4
+Id_5mqaulnqis,2023-02-08,4,wage employed,882.0,Urban,Free State,1.0,0.0,0.0,1.0,0 - 29 %,,50 - 59 %,,,0,1,1996,4
+Id_membxa89xj,2022-02-25,2,unemployed,152.0,Urban,North West,1.0,0.0,0.0,3.0,0 - 29 %,,40 - 49 %,,,1,1,2001,1
+Id_07nyi9izop,2022-03-18,2,studying,,Urban,Limpopo,1.0,0.0,0.0,3.0,,50 - 59 %,50 - 59 %,,,0,1,2000,1
+Id_ca71pr1it1,2023-02-15,4,wage employed,304.0,Urban,Northern Cape,1.0,,,,0 - 29 %,,,40 - 49 %,,1,1,2000,1
+Id_5nubb1ma43,2022-03-16,2,unemployed,1004.0,Urban,Mpumalanga,1.0,0.0,0.0,4.0,,40 - 49 %,50 - 59 %,,,1,1,2000,1
+Id_p01zyr5l2a,2023-02-10,4,other,,Urban,Western Cape,,,,,,,,,,0,1,2003,11
+Id_9w9h4l97ka,2022-03-09,2,unemployed,72.0,Rural,Mpumalanga,1.0,,,3.0,,40 - 49 %,50 - 59 %,,,1,1,2001,7
+Id_tje5pa2wxy,2023-02-08,4,self employed,,Urban,Free State,0.0,0.0,0.0,,,,,,,1,1,2001,5
+Id_69neclh2z3,2022-03-07,2,wage employed,457.0,Urban,Eastern Cape,1.0,0.0,0.0,1.0,0 - 29 %,,40 - 49 %,,,0,1,2000,1
+Id_5k8ojhksgg,2023-02-28,4,studying,,Rural,Limpopo,0.0,,,2.0,,,,,,0,1,2000,1
+Id_xm3rq3y0uh,2023-02-10,4,wage employed,853.0,Urban,Western Cape,1.0,0.0,0.0,5.0,50 - 59 %,,70 - 79 %,,60 - 69 %,0,1,1997,2
+Id_6neyyqjb2r,2023-03-14,4,studying,,Urban,KwaZulu-Natal,,,,,,,,,,1,1,1994,9
+Id_wywnr19n4p,2022-03-18,2,unemployed,799.0,Suburb,Free State,1.0,0.0,0.0,3.0,0 - 29 %,,30 - 39 %,,30 - 39 %,0,1,2000,1
+Id_u2qttjnzsm,2023-02-14,4,unemployed,1862.0,Urban,Gauteng,0.0,0.0,0.0,5.0,,,,,,1,1,2000,1
+Id_ovypzmzu4y,2022-02-24,2,unemployed,340.0,Urban,Free State,,,,,,,,,,1,1,1988,5
+Id_1bvwmnkj19,2023-02-21,4,wage employed,59.0,Urban,Limpopo,1.0,,,2.0,,30 - 39 %,40 - 49 %,,,1,1,1989,3
+Id_7my1jg1kl2,2023-02-13,4,unemployed,36.0,Rural,KwaZulu-Natal,,,,,,,,,,0,1,1996,5
+Id_c64h2qnyjl,2022-08-11,3,wage employed,1435.0,Urban,Gauteng,,,,,,,,,,0,1,1993,10
+Id_v7db6tn2bt,2022-02-23,2,unemployed,67.0,Urban,Gauteng,1.0,,,1.0,30 - 39 %,,60 - 69 %,,40 - 49 %,1,1,2002,7
+Id_schtxsjrf1,2022-03-02,2,wage employed,55.0,Urban,Gauteng,1.0,1.0,0.0,3.0,,50 - 59 %,60 - 69 %,,,1,1,2000,1
+Id_ql8jwa0v5a,2023-02-28,4,wage employed,245.0,Rural,Mpumalanga,1.0,,,2.0,,50 - 59 %,60 - 69 %,,,1,1,1994,11
+Id_em2o9pt636,2023-03-23,4,studying,,Urban,Gauteng,1.0,0.0,0.0,1.0,30 - 39 %,,40 - 49 %,,,1,1,1990,7
+Id_iuur8ruo7v,2023-02-24,4,wage employed,153.0,Urban,Western Cape,1.0,0.0,0.0,3.0,,40 - 49 %,,40 - 49 %,,0,1,2001,3
+Id_4upc5tonc8,2022-02-24,2,unemployed,59.0,Urban,Limpopo,1.0,0.0,0.0,5.0,,50 - 59 %,,60 - 69 %,,1,1,2003,2
+Id_3h9dhjkh1d,2021-08-18,1,wage employed,0.0,Urban,KwaZulu-Natal,1.0,,,5.0,,,,,,0,1,1997,1
+Id_n8i134j8o2,2022-02-23,2,unemployed,151.0,Rural,KwaZulu-Natal,1.0,,,,,50 - 59 %,,60 - 69 %,,1,1,1998,8
+Id_6it5jb1zqa,2022-07-28,3,unemployed,431.0,Urban,Gauteng,,,,,,,,,,1,1,1994,8
+Id_xr9jxeuilo,2022-08-10,3,other,,Urban,North West,1.0,0.0,0.0,4.0,,30 - 39 %,40 - 49 %,,,0,1,1989,2
+Id_v2c60bt345,2022-03-01,2,studying,,Urban,Free State,1.0,0.0,0.0,5.0,30 - 39 %,,,40 - 49 %,30 - 39 %,0,1,2001,5
+Id_2zhkja5hbs,2023-02-13,4,wage employed,92.0,Urban,North West,1.0,0.0,0.0,1.0,40 - 49 %,,50 - 59 %,,40 - 49 %,0,1,1994,6
+Id_zo1sgevzvm,2022-02-24,2,unemployed,106.0,Suburb,Gauteng,0.0,,,,,,,,,1,1,1978,1
+Id_f8bz5b0w0y,2023-02-21,4,unemployed,401.0,Rural,Limpopo,1.0,0.0,0.0,2.0,30 - 39 %,,50 - 59 %,,0 - 29 %,0,1,2001,7
+Id_w64u7diu2o,2022-08-05,3,other,,Urban,North West,,,,,,,,,,0,1,1994,3
+Id_mcvnp513t7,2022-03-15,2,unemployed,1209.0,Urban,Gauteng,1.0,0.0,0.0,3.0,,0 - 29 %,50 - 59 %,,,1,1,2000,1
+Id_rw3i914r26,2022-03-16,2,unemployed,810.0,Urban,Gauteng,0.0,0.0,0.0,,,,,,,1,1,2000,1
+Id_4ivg6d2xh4,2023-03-14,4,studying,,Urban,Free State,,,,,,,,,,1,1,1998,3
+Id_unmbbb3lul,2022-03-10,2,studying,,Urban,KwaZulu-Natal,1.0,,,5.0,0 - 29 %,,,60 - 69 %,,1,1,1994,1
+Id_7583xlaqic,2023-03-15,4,wage employed,610.0,Urban,Eastern Cape,1.0,0.0,1.0,,,0 - 29 %,30 - 39 %,,,1,1,1995,5
+Id_efpkwuw2hg,2023-02-13,4,studying,,Urban,Western Cape,1.0,1.0,0.0,0.0,50 - 59 %,,,50 - 59 %,50 - 59 %,0,1,1990,10
+Id_ikcs5rx2ng,2022-08-08,3,other,,Rural,North West,1.0,0.0,0.0,3.0,30 - 39 %,,50 - 59 %,,,1,1,1992,5
+Id_p4cktyw3zc,2022-08-04,3,wage employed,370.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,30 - 39 %,40 - 49 %,,,0,1,1992,12
+Id_u8010p6ujf,2023-02-09,4,studying,,Rural,Limpopo,1.0,,,1.0,40 - 49 %,,40 - 49 %,,30 - 39 %,0,1,2000,1
+Id_767vv3wcml,2023-03-23,4,unemployed,1160.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,3.0,,0 - 29 %,40 - 49 %,,,1,1,1998,5
+Id_nlr3z4mmcj,2023-02-28,4,studying,,Urban,Limpopo,,,,,,,,,,0,1,2001,5
+Id_g9u6ak2ker,2022-02-23,2,unemployed,58.0,Rural,North West,1.0,0.0,0.0,3.0,,30 - 39 %,30 - 39 %,,,1,1,2002,5
+Id_yaejn6rk3r,2022-02-24,2,wage employed,95.0,Urban,Gauteng,1.0,,,3.0,0 - 29 %,,60 - 69 %,,,1,1,1986,4
+Id_e3skrhusoj,2022-02-24,2,unemployed,2593.0,Urban,Eastern Cape,0.0,0.0,0.0,1.0,,,,,,1,1,1995,10
+Id_njxuq36qd8,2023-02-09,4,unemployed,432.0,Urban,Limpopo,1.0,1.0,0.0,5.0,,60 - 69 %,70 - 79 %,,,0,1,1994,3
+Id_2r5wk4daf8,2023-02-27,4,unemployed,370.0,Rural,Mpumalanga,0.0,0.0,0.0,,,,,,,0,1,1990,9
+Id_tjadapg1rz,2023-02-13,4,unemployed,67.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,,,30 - 39 %,40 - 49 %,,,1,1,2001,3
+Id_j0jr8t9mit,2022-09-03,3,unemployed,1313.0,Urban,Free State,1.0,0.0,0.0,,,40 - 49 %,50 - 59 %,,,0,1,1994,5
+Id_jzk9ghyuus,2023-02-06,4,self employed,523.0,Urban,Gauteng,1.0,,1.0,3.0,,,,,,1,1,1988,4
+Id_vh0l0p8c4d,2022-07-29,3,unemployed,370.0,Urban,Gauteng,1.0,0.0,0.0,1.0,,40 - 49 %,40 - 49 %,,,1,1,2002,8
+Id_h5foewd458,2023-02-27,4,studying,,Rural,Limpopo,1.0,0.0,0.0,,,50 - 59 %,50 - 59 %,,,0,1,2001,6
+Id_pxlslqgio0,2023-03-06,4,unemployed,429.0,Urban,Gauteng,,,,,,,,,,1,1,1988,4
+Id_hzdz4e1ncr,2022-03-02,2,wage employed,62.0,Urban,Western Cape,1.0,1.0,0.0,,30 - 39 %,,60 - 69 %,,40 - 49 %,1,1,2000,1
+Id_5um3shrltc,2023-02-16,4,wage employed,365.0,Rural,Mpumalanga,1.0,1.0,0.0,,40 - 49 %,,60 - 69 %,,60 - 69 %,1,1,2000,1
+Id_veae94vs7m,2023-02-10,4,wage employed,61.0,Rural,Mpumalanga,,,,,,,,,,0,1,2000,1
+Id_pl3apb39si,2023-03-06,4,studying,,Rural,Limpopo,1.0,0.0,0.0,2.0,,,50 - 59 %,,,0,1,2003,4
+Id_8zn48jhafx,2022-08-03,3,self employed,614.0,Urban,Western Cape,1.0,0.0,0.0,5.0,30 - 39 %,,,60 - 69 %,40 - 49 %,1,1,2001,5
+Id_04ouurkg68,2023-02-17,4,unemployed,342.0,Rural,North West,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,0,1,1992,9
+Id_ds66hpnerf,2021-08-17,1,wage employed,0.0,Urban,Eastern Cape,1.0,0.0,0.0,3.0,,40 - 49 %,70 - 79 %,,,1,1,1997,9
+Id_r6rlf1037b,2022-08-01,3,unemployed,583.0,Rural,Mpumalanga,0.0,0.0,0.0,,,,,,,1,1,1994,5
+Id_lw71mvsd41,2023-02-21,4,unemployed,1558.0,Rural,KwaZulu-Natal,0.0,0.0,0.0,,,,,,,0,1,1994,6
+Id_imnv65aq6f,2023-02-06,4,unemployed,242.0,Urban,Gauteng,1.0,1.0,0.0,1.0,,60 - 69 %,50 - 59 %,,,0,1,1996,9
+Id_zqhgkgqfkd,2023-02-28,4,wage employed,337.0,Urban,Gauteng,,,,,,,,,,0,1,2000,1
+Id_ob3o7ll463,2022-03-11,2,wage employed,484.0,Rural,North West,1.0,,,4.0,,,,,,1,1,1993,11
+Id_2owbmn4nbm,2023-03-06,4,studying,,Urban,Free State,,,,,,,,,,1,1,1998,11
+Id_mbmznddedt,2023-02-13,4,unemployed,767.0,Urban,Eastern Cape,1.0,0.0,0.0,,,30 - 39 %,50 - 59 %,,,1,1,2000,1
+Id_gs6felb9x4,2023-02-08,4,self employed,,Suburb,Mpumalanga,1.0,0.0,0.0,1.0,,60 - 69 %,50 - 59 %,,,0,1,2003,4
+Id_65y7x1uz1g,2022-08-02,3,unemployed,583.0,Urban,Gauteng,1.0,0.0,0.0,0.0,0 - 29 %,,,60 - 69 %,,1,1,2002,2
+Id_8acrgihb5u,2023-02-10,4,wage employed,365.0,Suburb,Limpopo,,,,,,,,,,0,1,1996,9
+Id_w0rlglb7l4,2023-02-21,4,studying,,Urban,Northern Cape,,,,,,,,,,0,1,2000,4
+Id_qmnct8dkea,2023-03-14,4,wage employed,2649.0,Urban,KwaZulu-Natal,1.0,1.0,0.0,4.0,40 - 49 %,,40 - 49 %,,0 - 29 %,1,1,1993,1
+Id_eprsrsv98a,2022-03-17,2,unemployed,1203.0,Urban,KwaZulu-Natal,1.0,0.0,0.0,2.0,0 - 29 %,,60 - 69 %,,,1,1,2000,1
+Id_g4ii28f6by,2022-08-04,3,self employed,917.0,Rural,Mpumalanga,1.0,,,1.0,30 - 39 %,,40 - 49 %,,0 - 29 %,0,1,1997,4
+Id_jkhvuohoxx,2023-03-06,4,studying,,Urban,Eastern Cape,1.0,0.0,0.0,2.0,30 - 39 %,,60 - 69 %,,30 - 39 %,1,1,2000,4
+Id_umlcarumop,2023-02-02,4,self employed,,Urban,Gauteng,1.0,0.0,0.0,3.0,,30 - 39 %,30 - 39 %,,,0,1,1991,9
+Id_9i3ftn1oxi,2022-08-11,3,other,,Suburb,Gauteng,,,,,,,,,,1,1,2003,6
+Id_fr3ddyiehe,2023-02-02,4,studying,,Urban,Free State,1.0,0.0,0.0,1.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,1996,5
+Id_lzpfbdsw2f,2023-02-16,4,wage employed,120.0,Rural,KwaZulu-Natal,1.0,0.0,0.0,2.0,,40 - 49 %,50 - 59 %,,,1,1,2000,1
+Id_h019zyw7zy,2023-02-28,4,studying,,Urban,Gauteng,,,,,,,,,,0,1,1999,12
+Id_o43v3bz46n,2023-03-06,4,unemployed,1160.0,Rural,Gauteng,1.0,0.0,0.0,4.0,,,50 - 59 %,,,1,1,2001,8
+Id_6lcihhaicc,2022-02-24,2,unemployed,798.0,Urban,Limpopo,1.0,0.0,0.0,3.0,0 - 29 %,,60 - 69 %,,30 - 39 %,1,1,1998,7
+Id_mxcjtorn2w,2022-03-02,2,studying,,Suburb,Gauteng,1.0,0.0,0.0,5.0,,50 - 59 %,,40 - 49 %,,1,1,2000,1
+Id_iogk84m72d,2022-08-05,3,unemployed,948.0,Urban,Gauteng,1.0,0.0,0.0,1.0,0 - 29 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_exoifxvj0s,2023-03-06,4,studying,,Urban,Gauteng,1.0,0.0,0.0,,30 - 39 %,,50 - 59 %,,30 - 39 %,1,1,2000,1
+Id_ixio0xbvta,2023-02-02,4,unemployed,767.0,Rural,Mpumalanga,1.0,,,1.0,30 - 39 %,,50 - 59 %,,50 - 59 %,0,1,2000,1
+Id_3vjt2lnwp3,2023-03-02,4,studying,,Urban,North West,1.0,0.0,0.0,0.0,,40 - 49 %,,50 - 59 %,,1,1,2000,1
+Id_q8na9byk0c,2023-02-02,4,wage employed,5.0,Urban,Western Cape,,,,,,,,,,1,1,1988,3
