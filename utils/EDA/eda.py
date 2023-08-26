@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 pd.options.display.max_columns = 2200
 pd.options.display.max_rows = 2200
 
-#### Data Loading Utils and Exploration
+
 "<<<<<<<<<<<<<------------------------ Loading Datasets and Exploring Dataset Information ------------------------------------->>>>>>>>>>>>>"
 def loadDataset(path: str, dataset: str)-> pd.DataFrame:
     '''
@@ -148,18 +148,8 @@ def findDifferentialInfo(train, test, __featToExcl=[]):
 
 
 
-
-
-
+"<<<<<--------------------------------------------- EDA Utils ----------------------------------------------------------->>>>>>>>>>>>>>>>>>>>>>"
 def columnWiseNullDistributionComparison(train:pd.DataFrame, test:pd.DataFrame):
-    '''
-    A function that takes in the train and test dataframes and plots column wise Null Distribution Comparison
-    
-    Arguments:
-        train: pd.DataFrame
-        test : pd.DataFrame
-    
-    '''
     test_null = pd.DataFrame(test.isna().sum())
     test_null = test_null.sort_values(by = 0 ,ascending = False)[:-5]
     train_null = pd.DataFrame(train.isna().sum())
@@ -171,15 +161,6 @@ def columnWiseNullDistributionComparison(train:pd.DataFrame, test:pd.DataFrame):
     axes[1].set_xlabel("TEST DATA COLUMNS");
 
 def rowWiseNullDistributionComparison(train:pd.DataFrame, test:pd.DataFrame):
-    '''
-    A function that takes in the train and test dataframes and plots column wise Null Distribution Comparison
-    
-    Arguments:
-        train: pd.DataFrame
-        test : pd.DataFrame
-    
-    '''
-
     missing_train_row = train.isna().sum(axis=1)
     missing_train_row = pd.DataFrame(missing_train_row.value_counts()/train.shape[0]).reset_index()
     missing_test_row = test.isna().sum(axis=1)
@@ -195,51 +176,6 @@ def rowWiseNullDistributionComparison(train:pd.DataFrame, test:pd.DataFrame):
     axes[1].set_ylabel("Percentage of Null values")
     axes[0].set_xlabel("TRAIN DATASET")
     axes[1].set_xlabel("TEST DATASET");
-
-
-def plot_target(train: pd.DataFrame, target_col: str, objective: str):
-    """
-    Plots the target variable based on the objective.
-
-    Args:
-        train (pd.DataFrame): The training dataset.
-        target_col (str): Name of the target column.
-        objective (str): Objective of the analysis ('classification' or 'regression').
-
-    Returns:
-        None
-
-    Raises:
-        ValueError: If the objective is not 'classification' or 'regression'.
-    """
-
-    if objective == 'classification':
-        plt.figure(figsize=(8, 6))
-        sns.countplot(x=target_col, data=train)
-        plt.xlabel(target_col)
-        plt.ylabel("Count")
-        plt.title(f"Count Plot of {target_col}")
-        plt.show()
-
-    elif objective == 'regression':
-        plt.figure(figsize=(8, 6))
-        sns.histplot(x=target_col, data=train, kde=True)
-        plt.xlabel(target_col)
-        plt.ylabel("Frequency")
-        plt.title(f"Distribution Plot of {target_col}")
-        plt.show()
-
-        plt.figure(figsize=(8, 6))
-        sns.boxplot(x=target_col, data=train)
-        plt.xlabel(target_col)
-        plt.ylabel("Value")
-        plt.title(f"Box Plot of {target_col}")
-        plt.show()
-
-    else:
-        raise ValueError("Invalid objective. Must be 'classification' or 'regression'.")        
-
-
 
 
 def plotNumericalDistributionOnTopOfEachOther(train: pd.DataFrame, test: pd.DataFrame, numerical_cols: list):
@@ -292,22 +228,22 @@ def plotNumericalDistributionOnTopOfEachOther(train: pd.DataFrame, test: pd.Data
     plt.show()
 
 
-    def plotCategoricalDistributionOnTopOfEachOther(train: pd.DataFrame, test: pd.DataFrame, categorical_cols: list):
-        """
-        Plots categorical distribution for train and test data side by side, with flexibility for handling missing columns.
+def plotCategoricalDistributionOnTopOfEachOther(train: pd.DataFrame, test: pd.DataFrame, categorical_cols: list):
+    """
+    Plots categorical distribution for train and test data side by side, with flexibility for handling missing columns.
 
-        Args:
-            train (pd.DataFrame): The training data containing categorical columns.
-            test (pd.DataFrame): The test data containing categorical columns.
-            categorical_cols (list): List of categorical column names.
+    Args:
+        train (pd.DataFrame): The training data containing categorical columns.
+        test (pd.DataFrame): The test data containing categorical columns.
+        categorical_cols (list): List of categorical column names.
 
-        Returns:
-            None
+    Returns:
+        None
 
-        Raises:
-            None
+    Raises:
+        None
 
-        """
+    """
     if len(categorical_cols) == 0:
         print("No Categorical features")
         return
@@ -333,24 +269,31 @@ def plotNumericalDistributionOnTopOfEachOther(train: pd.DataFrame, test: pd.Data
                     unique_test = test[col].unique()
 
                     if set(unique_test).issubset(set(unique_train)):
-                        sns.countplot(data=train, x=col, ax=ax, palette="viridis", label='Train data')
-                        sns.countplot(data=test, x=col, ax=ax, palette="magma", label='Test data')
+                        sns.countplot(data=train, x=col, ax=ax, color="blue", label='Train data')
+                        sns.countplot(data=test, x=col, ax=ax, color="orange", label='Test data')
                     else:
                         print("No similar categories in the test dataset for column:", col)
-                        sns.countplot(data=train, x=col, ax=ax, palette="viridis", label='Train data')
+                        sns.countplot(data=train, x=col, ax=ax, color="blue", label='Train data')
                 else:
-                    sns.countplot(data=train, x=col, ax=ax, palette="viridis", label='Train data')
+                    sns.countplot(data=train, x=col, ax=ax, color="blue", label='Train data')
 
                 ax.legend()
                 ax.set_ylabel('')
-                ax.set_xlabel(col, fontsize=12)
+                ax.set_xlabel('')
                 ax.tick_params(labelsize=10, width=0.5)
                 ax.xaxis.offsetText.set_fontsize(8)
                 ax.yaxis.offsetText.set_fontsize(8)
+                ax.set_xticklabels([])  # Remove x-axis labels
+
             else:
                 fig.delaxes(axes[r, c])  # Remove unused subplot
 
     plt.show()
+
+
+
+
+
 
 def plotCategoricalDistributionSideBySide(dataframe:pd.DataFrame, categorical_columns:list, test_dataframe: pd.DataFrame =None):
     """
@@ -411,19 +354,18 @@ def plotCategoricalDistributionSideBySide(dataframe:pd.DataFrame, categorical_co
     plt.tight_layout()
     plt.show()
 
+def plotNumericalDistributionSideBySide(dataframe, numerical_cols, test_dataframe=None):
+    """
+    Plots the scatter plot, box plot, and histogram plot of numerical columns in the provided dataframe(s).
 
-    def plotNumericalDistributionSideBySide(dataframe, numerical_cols, test_dataframe=None):
-        """
-        Plots the scatter plot, box plot, and histogram plot of numerical columns in the provided dataframe(s).
+    Args:
+        dataframe (pandas.DataFrame): The train dataset or the single dataset to plot.
+        numerical_cols (list): List of numerical column names to plot.
+        test_dataframe (pandas.DataFrame, optional): The test dataset to plot alongside the train dataset.
 
-        Args:
-            dataframe (pandas.DataFrame): The train dataset or the single dataset to plot.
-            numerical_cols (list): List of numerical column names to plot.
-            test_dataframe (pandas.DataFrame, optional): The test dataset to plot alongside the train dataset.
-
-        Returns:
-            None
-        """
+    Returns:
+        None
+    """
 
     num_plots = len(numerical_cols)
     num_datasets = 1 if test_dataframe is None else 2
@@ -491,7 +433,7 @@ def plotCategoricalDistributionSideBySide(dataframe:pd.DataFrame, categorical_co
     plt.tight_layout(rect=[0, 0, 1, 0.95])  # Adjust subplot spacing
     plt.show()
 
-def plotCorrelationHeatMap(train: pd.DataFrame, numerical_cols: list):
+def plotCorrelationHeatMap(train: pd.DataFrame, numerical_cols: list, subset_length: int = 10):
     """
     Plots correlation heatmap for numerical columns in subsets to improve readability.
 
@@ -508,7 +450,7 @@ def plotCorrelationHeatMap(train: pd.DataFrame, numerical_cols: list):
     """
     print("Total numerical columns:", len(numerical_cols))
 
-    subset_length = 10  # Set the subset length for better visibility
+    # Set the subset length for better visibility
     num_subsets = math.ceil(len(numerical_cols) / subset_length)
 
     for subset_idx in range(num_subsets):
@@ -583,3 +525,45 @@ def plot_relationship(train: pd.DataFrame, categorical_cols: list, numerical_col
 
     else:
         raise ValueError("Invalid objective. Must be 'classification' or 'regression'.")
+
+def plot_target(train: pd.DataFrame, target_col: str, objective: str):
+    """
+    Plots the target variable based on the objective.
+
+    Args:
+        train (pd.DataFrame): The training dataset.
+        target_col (str): Name of the target column.
+        objective (str): Objective of the analysis ('classification' or 'regression').
+
+    Returns:
+        None
+
+    Raises:
+        ValueError: If the objective is not 'classification' or 'regression'.
+    """
+
+    if objective == 'classification':
+        plt.figure(figsize=(8, 6))
+        sns.countplot(x=target_col, data=train)
+        plt.xlabel(target_col)
+        plt.ylabel("Count")
+        plt.title(f"Count Plot of {target_col}")
+        plt.show()
+
+    elif objective == 'regression':
+        plt.figure(figsize=(8, 6))
+        sns.histplot(x=target_col, data=train, kde=True)
+        plt.xlabel(target_col)
+        plt.ylabel("Frequency")
+        plt.title(f"Distribution Plot of {target_col}")
+        plt.show()
+
+        plt.figure(figsize=(8, 6))
+        sns.boxplot(x=target_col, data=train)
+        plt.xlabel(target_col)
+        plt.ylabel("Value")
+        plt.title(f"Box Plot of {target_col}")
+        plt.show()
+
+    else:
+        raise ValueError("Invalid objective. Must be 'classification' or 'regression'.")        
