@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import math
-
+import textwrap
 from tqdm import tqdm
 
 
@@ -12,6 +12,144 @@ warnings.filterwarnings('ignore')
 
 pd.options.display.max_columns = 2200
 pd.options.display.max_rows = 2200
+
+#### Data Loading Utils and Exploration
+"<<<<<<<<<<<<<------------------------ Loading Datasets and Exploring Dataset Information ------------------------------------->>>>>>>>>>>>>"
+def loadDataset(path: str, dataset: str)-> pd.DataFrame:
+    '''
+     Takes in the path of your working dir and the name of your dataset
+     this is not all the files we can use but you can add them with time but has most of the used dataset types
+    
+    '''
+    if dataset.endswith('.csv'):
+        data = pd.read_csv(path + dataset)
+    elif dataset.endswith('.json'):
+        data = pd.read_json(path + dataset)
+    elif dataset.endswith('.parquet'):
+        data = pd.read_parquet(path + dataset)
+    elif dataset.endswith('.xlsx'):
+        data = pd.read_excel(path + dataset)
+    elif dataset.endswith('.feather'):
+        data = pd.read_feather(path  + dataset)
+    return data
+
+
+
+
+
+
+def datasetInfo(data: pd.DataFrame, id_column: str, target_column: str):
+    """
+    Display comprehensive information about a pandas DataFrame.
+
+    Arguments:
+    data -- the DataFrame to display information for
+    
+    Returns:
+    categorical_cols -- list of categorical column names
+    numerical_cols -- list of numerical column names
+    """
+    
+    # Dataset Overview
+    print("Dataset Overview")
+    print("----------------")
+    print(f"Shape: {data.shape}\n")
+    
+    # Column Names
+    print("Column Names")
+    print("------------")
+    print(data.columns.tolist())
+    print()
+    
+    # Data Types
+    print("Data Types")
+    print("----------")
+    print(data.dtypes)
+    print()
+    
+    # Missing Values
+    print("Missing Values")
+    print("--------------")
+    print(data.isnull().sum().sort_values(ascending=False))
+    print()
+    
+    # Descriptive Statistics
+    print("Descriptive Statistics")
+    print("-----------------------")
+    display(data.describe().T.sort_values(by='std', ascending=False)
+            .style.background_gradient(cmap='GnBu')
+            .bar(subset=["max"], color='#BB0000')
+            .bar(subset=["mean"], color='green'))
+    print()
+    
+
+    # Categorical and Numerical Columns
+    categorical_cols = data.select_dtypes(include='object').columns.tolist()
+    numerical_cols = data.select_dtypes(exclude='object').columns.tolist()
+    
+    
+    categorical_cols = [col for col in categorical_cols if col not in [id_column,target_column]]
+    numerical_cols = [col for col in numerical_cols if col not in [id_column, target_column]]
+
+    
+    return categorical_cols, numerical_cols, target_column, id_column
+
+def findDifferentialInfo(train, test, __featToExcl=[]):
+    '''
+    Describe data and difference between train and test datasets.
+    
+    Arguments:
+    train -- the training dataset (pandas DataFrame)
+    test -- the test dataset (pandas DataFrame)
+    __featToExcl -- list of features to exclude from analysis (default: [])
+    target_for_vcramer -- the target variable for calculating Cramer's V coefficient (default: None)
+    
+    Returns:
+    df_stats -- DataFrame containing statistics and differences between train and test datasets
+    
+    '''
+    
+    stats = []
+    __featToAnalyze = [v for v in list(train.columns) if v not in __featToExcl]
+
+    for col in tqdm(__featToAnalyze):
+
+        dtrain = dict(train[col].value_counts())
+        dtest = dict(test[col].value_counts())
+
+        set_train_not_in_test = set(dtest.keys()) - set(dtrain.keys())
+        set_test_not_in_train = set(dtrain.keys()) - set(dtest.keys())
+
+        dict_train_not_in_test = {key: value for key, value in dtest.items() if key in set_train_not_in_test}
+        dict_test_not_in_train = {key: value for key, value in dtrain.items() if key in set_test_not_in_train}
+
+        nb_moda_test, nb_var_test = len(dtest), pd.Series(dtest).sum()
+        nb_moda_abs, nb_var_abs = len(dict_train_not_in_test), pd.Series(dict_train_not_in_test).sum()
+        nb_moda_train, nb_var_train = len(dtrain), pd.Series(dtrain).sum()
+        nb_moda_abs_2, nb_var_abs_2 = len(dict_test_not_in_train), pd.Series(dict_test_not_in_train).sum()
+
+        stats.append((col, train[col].nunique()
+                      , str(nb_moda_abs) + '   (' + str(round(100 * nb_moda_abs / nb_moda_test, 1)) + '%)'
+                      , str(nb_moda_abs_2) + '   (' + str(round(100 * nb_moda_abs_2 / nb_moda_train, 1)) + '%)'
+                      , str(train[col].isnull().sum()) + '   (' + str(
+            round(100 * train[col].isnull().sum() / train.shape[0], 1)) + '%)'
+                      , str(test[col].isnull().sum()) + '   (' + str(
+            round(100 * test[col].isnull().sum() / test.shape[0], 1)) + '%)'
+                      , str(round(100 * train[col].value_counts(normalize=True, dropna=False).values[0], 1))
+                      , train[col].dtype))
+
+    df_stats = pd.DataFrame(stats, columns=['Feature'
+        , 'Unique values (train)', "Unique values in test not in train (and %)"
+        , "Unique values in train not in test (and %)"
+        , 'NaN in train (and %)', 'NaN in test (and %)', '% in the biggest cat. (train)'
+        , 'dtype'])
+
+    return df_stats
+
+
+
+
+
 
 def columnWiseNullDistributionComparison(train:pd.DataFrame, test:pd.DataFrame):
     '''
