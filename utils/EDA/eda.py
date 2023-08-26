@@ -465,6 +465,7 @@ def plotCorrelationHeatMap(train: pd.DataFrame, numerical_cols: list, subset_len
         dataplot = sns.heatmap(train[subset_cols].corr(), cmap="viridis", annot=True)
         plt.show()
 
+
 def plot_relationship(train: pd.DataFrame, categorical_cols: list, numerical_cols: list, dependent_feature: str, objective: str):
     """
     Plots the relationship between independent features and the dependent feature based on the objective.
@@ -482,49 +483,44 @@ def plot_relationship(train: pd.DataFrame, categorical_cols: list, numerical_col
     Raises:
         ValueError: If the objective is not 'classification' or 'regression'.
     """
+    if objective not in ['classification', 'regression']:
+        raise ValueError("Invalid objective. Must be 'classification' or 'regression'.")
 
-    if objective == 'classification':
-        for feature in categorical_cols:
-            plt.figure(figsize=(10, 6))
+    for feature in categorical_cols:
+        if objective == 'classification':
+            plt.figure(figsize=(12, 6))
             sns.countplot(x=feature, hue=dependent_feature, data=train)
             plt.xlabel(feature)
             plt.ylabel("Count")
             plt.title(f"Count Plot of {feature} by {dependent_feature}")
+            plt.legend(title=dependent_feature)
+            plt.xticks(rotation=45)
             plt.show()
-
-        for feature in numerical_cols:
-            plt.figure(figsize=(10, 6))
-            sns.boxplot(x=train[feature], y=train[dependent_feature])
+        elif objective == 'regression':
+            plt.figure(figsize=(12, 6))
+            sns.boxplot(x=feature, y=dependent_feature, data=train)
             plt.xlabel(feature)
             plt.ylabel(dependent_feature)
             plt.title(f"Box Plot of {dependent_feature} by {feature}")
+            plt.xticks(rotation=45)
             plt.show()
 
-            plt.figure(figsize=(10, 6))
-            sns.violinplot(x=train[feature], y=train[dependent_feature])
-            plt.xlabel(feature)
-            plt.ylabel(dependent_feature)
-            plt.title(f"Violin Plot of {dependent_feature} by {feature}")
+    for feature in numerical_cols:
+        if objective == 'classification':
+            plt.figure(figsize=(12, 6))
+            sns.boxplot(x=dependent_feature, y=feature, data=train)
+            plt.xlabel(dependent_feature)
+            plt.ylabel(feature)
+            plt.title(f"Box Plot of {feature} by {dependent_feature}")
+            plt.xticks(rotation=45)
             plt.show()
-
-    elif objective == 'regression':
-        for feature in numerical_cols:
-            plt.figure(figsize=(10, 6))
-            plt.scatter(train[feature], train[dependent_feature])
+        elif objective == 'regression':
+            plt.figure(figsize=(12, 6))
+            sns.scatterplot(x=feature, y=dependent_feature, data=train)
             plt.xlabel(feature)
             plt.ylabel(dependent_feature)
             plt.title(f"Scatter Plot of {dependent_feature} vs. {feature}")
             plt.show()
-
-            plt.figure(figsize=(10, 6))
-            sns.lineplot(x=train[feature], y=train[dependent_feature])
-            plt.xlabel(feature)
-            plt.ylabel(dependent_feature)
-            plt.title(f"Line Plot of {dependent_feature} vs. {feature}")
-            plt.show()
-
-    else:
-        raise ValueError("Invalid objective. Must be 'classification' or 'regression'.")
 
 def plot_target(train: pd.DataFrame, target_col: str, objective: str):
     """
